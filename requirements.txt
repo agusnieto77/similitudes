@@ -1,3 +1,7 @@
 streamlit>=1.28.0
 pandas>=2.0.0
 numpy>=1.24.0
+metaphone>=0.6
+jellyfish>=1.0.0
+text2vec>=1.2.0
+sentence-transformers>=2.2.0
