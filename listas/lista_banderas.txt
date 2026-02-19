@@ -1,0 +1,462 @@
+ALASKA:
+  - alaska
+ALEMANIA:
+  - alemana
+  - aleman
+  - alem.
+  - germano
+  - germ.
+AMALIA:
+  - amalia
+AMISTAD:
+  - amistad
+ARGENTINA:
+  - argentina
+  - argentino
+  - arg.
+  - nacional
+  - n.
+  - nac.
+AUSTRIA:
+  - austriaca
+  - austriaco
+  - aust
+AUSTRO HÚNGARO:
+  - austro húngara
+  - austrohungaro
+  - austro-húngaro
+  - austro-húngara
+AVELLANEDA:
+  - avellaneda
+BARBADOS:
+  - barbadian
+  - barbados
+BARCALAS:
+  - barcalas
+BARCELONA:
+  - española de Barcelona
+  - de Barcelona
+BELGICA:
+  - belga
+BELFAST:
+  - belfast
+BILBAO:
+  - bilbao
+BOSTON:
+  - boston
+BRASIL:
+  - brasilera
+  - brasilero
+  - brasileño
+  - brasileña
+  - brasil
+  - brso.
+BREMEN:
+  - bremen
+  - bremense
+  - bremence
+  - brem.
+BRUNSWICK:
+  - brunswick
+BUENOS AIRES:
+  - buenos aires
+  - bonaerense
+  - estado de buenos aires
+  - del estado buenos aires
+BULGARIA:
+  - bulgaria
+  - bulgaro
+CADIZ:
+  - cadiz
+  - española de cadiz
+  - de cadiz
+CALAIS:
+  -calais
+CALIFORNIA:
+  -california
+CANADÁ:
+  -canada
+CAMPANA:
+  -campana
+CARDIFF:
+  - de cardiff
+  -cardiff
+CARMELO:
+  -carmelo
+CARMEN:
+  - carmen
+CASTELLS:
+  -castells
+CRASET:
+  -crastet
+CERDEÑA:
+  - cerdeña
+  - sardo
+  - sarda
+CHILE:
+  - chilena
+  - chileno
+  - chile
+CHINA:
+  - china
+COLOMBIA:
+  - colombiana
+  - colombiano
+COLONIA
+  - colonia
+CONCORDIA:
+  - concordia
+CONFEDERADO:
+  - confederado
+CORRIENTES:
+  - corrientes
+  - correntina
+  - correntino
+CUBA:
+  - cubano
+  - cubana
+  - cuba
+  - cub.
+  - isla de cuba
+CUPALEN:
+  - cupalen
+DALMACIA:
+  - dalmacia
+  - dálmata
+DAUNER:
+  -dauner
+DE LAS ISLAS_AR:
+  -de las islas
+DINAMARCA:
+  - dinamarca
+  - danesa
+  - danes
+  - dinamarques
+  - dinamarquesa
+   -dan.
+DIAMANTE:
+  - diamante
+  - del diamante
+DOMINICA:
+  - dominica
+  - dominicana
+DOTRAS:
+  - dotras
+EGIPTO:
+  - egipto 
+  - egipcio
+  - egipcia
+ESTADOS UNIDOS:
+  - estadounidense
+  - americana
+  - america
+  - amer.
+  - am.
+  - americano
+  - norteamericano
+  - norteamericana
+  - norte-americano
+  - norte-americana
+  - anglo americana
+  - estados unidos
+  - e.u.
+  - de los e.u. de norte america
+  - de los estados unidos de norte america
+  - e. unidos
+ENSENADA:
+  -ensenada
+ENTRE RIOS:
+  - entrerriana
+  - entrerriano
+  - entre-rriano
+  - entre-rriana
+  - entre rios
+ESPAÑA:
+  - española
+  - español
+  - esp.
+  - españa
+FRANCIA:
+  - francesa
+  - frances
+  - franco
+  - francia
+  - fran.
+  - franc.
+FINLANDIA:
+  - finlandia
+  - finlandés
+GAETA:
+  - Gaeta
+GALICIA:
+  - galicia
+  - gallego
+GENOVA:
+  - genova
+  - genoves
+  - genovesa
+GERONA:
+  - gerona
+GRAN BRETAÑA:
+  - gran bretaña
+  - britanica
+  - britanico
+  - brit.
+  - Britania
+GRANADA:
+  - granada
+GRECIA:
+  - grecia
+  - griega
+  - griego
+GUADALUPE:
+  - guadalupe
+GUALEGUAYCHU:
+  - gualeguaychu
+GUATEMALA:
+  - guatemala
+  - guatemalteca
+  - guatemalense
+HABANA:
+  - Habana
+HAMBURGO:
+  - hamburguesa
+  - hamburgo
+  - hamb.
+  - hamburgueses
+  - hamburguez
+HAITI:
+  - haitiana
+  . haiti
+HANNOVER:
+  - hannover
+  - hannoveriano
+  - hannoveriana
+HELVECIA:
+  - helvecia
+HOLANDA:
+  - holandes
+  - holandesa
+  - holandeza
+  - hol.
+  - holanda
+HOLSTEIN:
+  - holstein
+  - holsteines
+  - holsteinesa
+  - holsteriana
+  - holst.
+HONDURAS:
+  - honduras
+  - hondureño
+HUNGRIA:
+  - hungria
+  - hungaro
+  - hungara
+INGLATERRA:
+  - inglaterra
+  - inglesa
+  - ingles
+  - ing.
+  - ingl.
+IRLANDA:
+  - irlanda
+  - irlandesa
+ITALIA:
+  - Italia
+  - italiana
+  - italiano
+  - italo
+  - it.
+  - itl.
+  - ital.
+JAMAICA:
+  - jamaica
+JERUSALEM:
+  - jerusalem
+  - jerusalemitana
+JONICA:
+  - jonica
+LA PAZ:
+  - de La Paz
+LE HAVRE:
+  - le havre
+  - del havre
+LOMBARDIA:
+  - lombardia
+  - lombardo
+LONDRES:
+  - londres
+LONGSLET:
+  - longslet
+LUBECK:
+  - lubeck
+  - lubeques
+  - lubequesa
+  - lubequese
+  - lubequeza
+MARSELLA:
+  - de marsella
+  - marsella
+MARTORELLA:
+  - martorella
+MATANZAS:
+  - matanzas
+MARTIN GARCIA:
+  - de m. garcía
+MASCOTTE:
+  - mascotte
+  - mascottericano
+MECKLEMBURGO:
+  - mecklemburgues
+  - mecklemburguesa
+MEXICO:
+  - mexico
+  - mejicana
+  - mejicano
+  - mexicana
+  - mexicano
+  - mej.
+  - mex.
+MERCEDES:
+  - de mercedes
+MÓNACO:
+  - monaco
+MONTEVIDEO:
+  - montevideo
+MORATO:
+  - morato
+NACIONAL_CU:
+  -nacional
+NACIONAL_AR:
+  - nacional
+NADAL:
+  - nadal
+NAPOLES:
+  - napoles
+  - napolitana
+  - napolitano
+NEW YORK:
+  - americana de new york
+  - new-york
+  - new york
+NEWPORT:
+  - de Newport
+NORUEGA:
+  - noruega
+  - noruego
+  - nor.
+  - norg.
+  - ngo.
+OLDEMBURGO:
+  - oldembrgo
+  - oldemburgues
+  - oldemburguesa
+  - oldemburguez
+PALMA:
+  - palma
+PARAGUAY:
+  - paraguaya
+  - paraguayo
+  - paraguay
+PARANA:
+  - bdra del parana
+  - del parana
+PENSACOLA:
+  - pensacola
+PERU:
+  - peruana
+PORTLAND:
+  - portland
+PATAGONIA:
+  - patagonia
+  - patag.
+POLONIA:
+  - polonia
+PORTUGAL:
+  - portugal
+  - portugues
+  - portuguesa
+  - portuguez
+  - port.
+PRUSIA:
+  - prusiano
+  - prusiana
+  - prusia
+REINA AMALIA:
+  - amalia
+ROMA:
+  - roma
+  - romana
+  - romano
+RUSIA:
+  - rusia
+  - rusa
+  - ruso
+RUMANIA:
+  - rumania
+  - rumano
+SAN NICOLAS:
+  - san nicolas
+SANTA FE:
+  - santa fe
+  - santafecina
+  - santafesino
+  - de santa fe
+SANTOS:
+  - santos
+SANTO DOMINGO:
+  - santo domingo
+  - sto. domingo
+SEVILLA:
+  - sevilla
+SICILIA:
+  - sicilia
+  - siciliano
+  - siciliana
+SUECIA:
+  - sueca
+  - sueco
+  - suecos
+  - zueca
+  - zueco
+SUIZA:
+  - suiza
+TAMAULIPAS:
+  - tamaulipas
+TOSCANA:
+  - toscana
+  - toscano
+TURQUÍA:
+  - turquía
+  - turca
+  - otomano
+URUGUAY:
+  - uruguaya
+  - uruguayo
+  - nacional de Uruguay
+  - nac. de Uruguay
+  - uruguay
+  - oriental
+  - e.o.
+  - estado oriental
+  - oriental del uruguay
+  - oriental nacional
+  - del Uruguay
+VENEZUELA:
+  - venezuela
+  - venezolano
+VERACRUZ:
+  - veracruzana
+  - veracruz
+VICTORIA:
+  - victoria
+VIGO:
+  - vigo
+VINAROS:
+  - vinaros
+YANKEE:
+  - yankee
+ZARATE:
+  - del zarate
+  - zarate

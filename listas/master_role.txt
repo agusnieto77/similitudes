@@ -1,0 +1,25 @@
+CAPITAN:
+   - capitan
+   - cap.
+   - cp.
+   - c.
+   - capt
+COMANDANTE:
+   - comandante
+   - comand.
+COMODORO:
+   - comodoro
+PATRON:
+   - patron
+   - pat.
+   - pt.
+   - p.
+PILOTO:
+   - piloto
+MAYOR:
+   - mayor
+SUBORDINADO:
+   - subordinado
+TENIENTE:
+   - teniente de navío
+   - teniente

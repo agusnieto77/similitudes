@@ -1,0 +1,3151 @@
+﻿termino_normalizado,frecuencia,ejemplo_original
+montevideo,15017,Montevideo
+rosario,8336,Rosario
+liverpool,5586,Liverpool
+genova,4961,Génova
+uruguay,4369,Uruguay
+la rada,4223,la rada
+santa fe,3289,Santa Fé
+cardiff,3167,Cardiff
+hamburgo,2898,Hamburgo
+burdeos,2756,Burdeos
+victoria,2436,Victoria
+san nicolas,2334,San Nicolas
+barcelona,2212,Barcelona
+islas,2177,Islas
+londres,2147,Londres
+corrientes,2081,Corrientes
+marsella,1938,Marsella
+cadiz,1789,Cadiz
+monte,1764,Monte
+amberes,1735,Amberes
+glasgow,1725,Glasgow
+paranagua,1696,Paranaguá
+nueva york,1663,Nueva York
+rio janeiro,1608,Rio Janeiro
+parana,1564,Paraná
+gualeguaychu,1545,Gualeguaychú
+asuncion,1497,Asuncion
+havre,1404,Havre
+carmelo,1388,Carmelo
+santa-fe,1350,Santa-Fé
+gualeguay,1341,Gualeguay
+baradero,1285,Baradero
+southampton,1128,Southampton
+bremen,1125,Bremen
+newport,1066,Newport
+san pedro,1063,San Pedro
+paraguay,1047,Paraguay
+san fernando,1046,San Fernando
+salto,955,Salto
+rada,942,rada
+concordia,926,Concordia
+zarate,899,Zárate
+pernambuco,894,Pernambuco
+colonia,835,Colonia
+la plata,814,La Plata
+martin garcia,707,Martin Garcia
+la paz,694,La Paz
+portland,668,Portland
+bella vista,581,Bella Vista
+campana,571,Campana
+goya,570,Goya
+boston,537,Boston
+bahia blanca,524,Bahía Blanca
+montreal,496,Montreal
+amsterdam,488,Amsterdam
+rio de janeiro,485,Rio de Janeiro
+san salvador,482,San Salvador
+rotterdam,479,Rotterdam
+mercedes,460,Mercedes
+patagones,445,Patagones
+dolores,444,Dolores
+tarragona,440,Tarragona
+pensacola,427,Pensacola
+new-york,421,New-York
+porto alegre,412,Porto Alegre
+tuyu,405,Tuyú
+nueva palmira,388,Nueva Palmira
+ajo,385,Ajo
+paysandu,351,Paysandú
+parnagua,333,Parnaguá
+nueva-york,328,Nueva-York
+dunkerque,314,Dunkerque
+hull,313,Hull
+rio grande,291,Rio Grande
+new york,285,New York
+new castle,282,New Castle
+magdalena,280,Magdalena
+habana,274,Habana
+valencia,272,Valencia
+florianopolis,271,Florianópolis
+valparaiso,259,Valparaiso
+swansea,253,Swansea
+empedrado,251,Empedrado
+santa catalina,250,Santa Catalina
+new-castle,245,New-Castle
+santos,237,Santos
+salado,212,Salado
+baltimore,210,Baltimore
+esquina,208,Esquina
+bahia,204,Bahia
+puertos del uruguay,203,Puertos del Uruguay
+cette,202,Cette
+buceo,201,Buceo
+concepcion del uruguay,190,Concepcion del Uruguay
+antonina,174,Antonina
+ensenada,173,Ensenada
+villa constitucion,172,Villa Constitucion
+savannah,169,Savannah
+la victoria,163,la Victoria
+quebec,159,Quebec
+san lorenzo,157,San Lorenzo
+puertos del sur,155,puertos del Sur
+napoles,154,Napoles
+trieste,153,Trieste
+matanzas,143,Matanzas
+estado oriental,142,Estado Oriental
+lisboa,139,Lisboa
+leith,139,Leith
+san geronimo,135,San Gerónimo
+brunswick,132,Brunswick
+bayona,125,Bayona
+paisandu,119,Paisandú
+islas del uruguay,118,Islas del Uruguay
+maldonado,117,Maldonado
+fray bentos,117,Fray Bentos
+villa colon,117,Villa Colon
+corumba,116,Corumbá
+malaga,115,Malaga
+sunderland,112,Sunderland
+islas de san fernando,99,Islas de San Fernando
+tigre,96,Tigre
+diamante,89,Diamante
+new port,86,New Port
+independencia,86,Independencia
+soriano,85,Soriano
+cabo verde,84,Cabo Verde
+punta arenas,82,Punta Arenas
+vigo,80,Vigo
+riachuelo,79,Riachuelo
+pascagoula,79,Pascagoula
+villa del salto,77,Villa del Salto
+salto oriental,76,Salto Oriental
+coruna,75,Coruña
+new-port,73,New-Port
+newcastle,72,Newcastle
+paz,70,Paz
+puerto alegre,69,Puerto Alegre
+arroyo de la china,68,Arroyo de la China
+interior del rio,68,Interior del Rio
+sta fe,67,Sta. Fé
+rio de la plata,67,Rio de la Plata
+fernandina,66,Fernandina
+greenock,66,Greenock
+mobile,64,Mobile
+ramallo,63,Ramallo
+south georgia,60,South Georgia
+higueritas,59,Higueritas
+la concordia,58,la Concordia
+filadelfia,57,Filadelfia
+calais,53,Calais
+rio,52,Rio
+san francisco,52,San Francisco
+calcuta,50,Calcuta
+colon,50,Colon
+comodoro rivadavia,50,Comodoro Rivadavia
+le havre,48,Le Havre
+europa,48,Europa
+colastine,48,Colastiné
+bilbao,46,Bilbao
+gothenburg,46,Gothenburg
+inglaterra,45,Inglaterra
+christiania,45,Christiania
+el havre,44,El Havre
+laguna de los padres,44,Laguna de los Padres
+itapiru,44,Itapirú
+san juan,43,San Juan
+altona,43,Altona
+quequen,42,Quequen
+isla de sal,41,Isla de Sal
+palmira,41,Palmira
+bella-vista,39,Bella-Vista
+curumba,39,Curumbá
+rosario oriental,38,Rosario oriental
+capetown,38,Capetown
+san antonio,37,San Antonio
+salem,36,Salem
+memel,36,Memel
+conchillas,36,Conchillas
+middlesbrough,36,Middlesbrough
+bangor,35,Bangor
+gualeguaichu,35,Gualeguaichú
+banda oriental,35,Banda Oriental
+islas queche,35,Islas queche
+manchester,34,Manchester
+torrevieja,34,Torrevieja
+la rada en el riachuelo,34,la rada en el Riachuelo
+gulfport,32,Gulfport
+canada,31,Canadá
+middlesborough,31,Middlesborough
+cuyaba,30,Cuyaba
+la colonia,28,la Colonia
+costa oriental,28,Costa Oriental
+apalachicola,28,Apalachicola
+gibraltar,27,Gibraltar
+brasil,27,Brasil
+chaco argentino,27,Chaco Argentino
+piramides,27,Pirámides
+setubal,26,Setubal
+la habana,26,la Habana
+las higueritas,26,Las Higueritas
+villa del pilar,26,Villa del Pilar
+v constitucion,26,V. Constitucion
+las palmas,25,Las Palmas
+helvecia,25,Helvecia
+entre rios,24,Entre Rios
+ibicuy,24,Ibicuy
+ultramar,24,Ultramar
+chubut,24,Chubut
+barry,24,Barry
+sauce,23,Sauce
+wilmington,23,Wilmington
+troon,23,Troon
+fray ventos,23,Fray Ventos
+dundee,23,Dundee
+st john,23,St. John
+villa occidental,23,Villa Occidental
+san borombon,22,San Borombon
+para,22,Para
+rangoon,22,Rangoon
+sarate,21,Sarate
+entre-rios,21,Entre-Rios
+st marys,21,St. Marys
+bridgewater,21,Bridgewater
+nancay,20,Nancay
+savona,20,Savona
+rio uruguay,20,rio Uruguay
+conchilla,20,Conchilla
+rio janeyro,19,Rio Janeyro
+rio negro,19,Rio Negro
+concepcion,19,Concepcion
+grangemouth,19,Grangemouth
+rivadavia,19,Rivadavia
+los puertos del sur,19,los puertos del Sur
+rio gallegos,19,Rio Gallegos
+paragua,18,Paraguá
+bristol,18,Bristol
+mallorca,18,Mallorca
+falmouth,18,Falmouth
+cardenas,18,Cárdenas
+oporto,18,Oporto
+talcahuano,17,Talcahuano
+gotemburgo,17,Gotemburgo
+sta catalina,17,Sta Catalina
+machias,17,Machias
+cardif,17,Cardif
+dolores e o,17,Dolores (E. O.)
+st mary,17,St. Mary
+ushuaia,17,Ushuaia
+puerto obligado,17,Puerto Obligado
+pasages,16,Pasages
+charleston,16,Charleston
+isla de mayo,16,Isla de Mayo
+canton,16,Canton
+islas del parana,16,Islas del Paraná
+conchas,16,Conchas
+humaita,16,Humaitá
+gualeguachu,15,Gualeguachú
+hamburg,15,Hamburg
+aguas arriba,15,aguas arriba
+islas lanchon,15,Islas lanchon
+benicarlo,15,Benicarló
+rio parana,15,Río Paraná
+halifax,15,Halifax
+port elizabeth,15,Port Elizabeth
+durban,15,Durban
+interior de los rios,14,interior de los Rios
+jacksonville,14,Jacksonville
+hong kong,14,Hong Kong
+la coruna,14,la Coruña
+habre,14,Habre
+boca,14,Boca
+mar del plata,14,Mar del Plata
+canal,14,canal
+port natal,14,Port Natal
+alburquerque,13,Alburquerque
+brunswich,13,Brunswich
+san vicente,13,San Vicente
+pascagonla,13,Pascagonla
+boulogne sur mer,13,Boulogne sur mer
+copenhague,12,Copenhague
+coronda,12,Coronda
+buenos aires,12,Buenos Aires
+mini,12,Miní
+hartlepool,12,Hartlepool
+santander,12,Santander
+ceara,12,Ceará
+callao,12,Callao
+nantes,12,Nantes
+de la rada,12,de la rada
+puerto borghi,12,Puerto Borghi
+janeiro,11,Janeiro
+cuba,11,Cuba
+isla,11,Isla
+santafe,11,Santafé
+guazu,11,Guazú
+satilla,11,Satilla
+rio lujan,11,Rio Lujan
+salto e o,11,Salto E. O.
+fiume,11,Fiume
+cristiania,11,Cristianía
+gefle,11,Gefle
+yarmouth,11,Yarmouth
+santa rosalia,11,Santa Rosalia
+san nicolas de los arroyos,10,San Nicolas de los Arroyos
+roterdam,10,Roterdam
+martin chico,10,Martin Chico
+shields,10,Shields
+tenerife,10,Tenerife
+sivansea,10,Sivansea
+liorna,10,Liorna
+christiannia,10,Christiannia
+formosa,10,Formosa
+napoli,10,Napoli
+rada de buenos aires,10,Rada de Buenos Aires
+estocolmo,10,Estocolmo
+ysla de sal,9,Ysla de Sal
+savanah,9,Savanah
+california,9,California
+marcella,9,Marcella
+amburgo,9,Amburgo
+cupalen,9,Cupalen
+bahia-blanca,9,Bahia-Blanca
+richmond,9,Richmond
+caracoles,9,Caracoles
+encenada,9,Encenada
+amsterdan,9,Amsterdan
+middlesbro,9,Middlesbró
+san carlos,9,San Carlos
+santa cruz,9,Santa Cruz
+reconquista,9,Reconquista
+gangremouth,9,Gangremouth
+tampico,9,Tampico
+agraciada,8,Agraciada
+carril,8,Carril
+fray vento,8,Fray Vento
+ibiza,8,Ibiza
+paraguay y corrientes,8,Paraguay y Corrientes
+nueva orleans,8,Nueva Orleans
+cabo de buena esperanza,8,Cabo de Buena Esperanza
+la magdalena,8,La Magdalena
+montes,8,Montes
+mayorca,8,Mayorca
+sta-fe,8,Sta-Fé
+rio apa,8,Rio Apa
+general lavalle,8,General Lavalle
+villa pilar,8,Villa Pilar
+norfolk,8,Norfolk
+san jose,7,San José
+rosario de santa fe,7,Rosario de Santa Fé
+san fe,7,San Fè
+las islas,7,las islas
+asuncion del paraguay,7,Asuncion del Paraguay
+pasajes,7,Pasajes
+new orleans,7,New Orleans
+bordeos,7,Bordeos
+froon,7,Froon
+pilar,7,Pilar
+san francisco brasil,7,San Francisco (Brasil)
+santo tome chile,7,Santo Tomé [Chile]
+marsela,7,Marsela
+carmelo e o,7,Carmelo (E. O.)
+bateria,7,Bateria
+punta piedras,7,Punta Piedras
+port townsend,7,Port Townsend
+puerto madryn,7,Puerto Madryn
+dique,7,dique 2
+la boca,7,la Boca
+la rada en la boca,7,la rada en la Boca
+malmo,7,Malmo
+stockholm,7,Stockholm
+las vacas,6,las Vacas
+ferrol,6,Ferrol
+coya,6,Coya
+suecia,6,Suecia
+islas de hornos,6,Islas de Hornos
+malvinas,6,Malvinas
+de la paz,6,De la Paz
+gualeguychu,6,Gualeguychú
+sante-fe,6,Sante-Fé
+puertos del brasil,6,Puertos del Brasil
+salto y concordia,6,Salto y Concordia
+calcutta,6,Calcutta
+paraguay y puertos intermedios,6,Paraguay y Puertos Intermedios
+porto allegre,6,Porto Allegre
+palmas,6,Palmas
+santo tome,6,Santo Tomé
+darien,6,Darien
+bahia blanca y patagones,6,Bahia Blanca y Patagones
+glasgon,6,Glasgon
+queenstown,6,Queenstown
+gardiff,6,Gardiff
+fray-bentos,6,Fray-Bentos
+patagonia,6,Patagonia
+st john s,6,St. John's
+pictou,6,Pictou
+greenok,6,Greenok
+saigon,6,Saigon
+savanach,6,Savanach
+rio gualeguay,6,Rio Gualeguay
+interior,6,Interior
+messina,6,Messina
+b blanca,6,B. Blanca
+flume,6,Flume
+emden,6,Emden
+manaos,6,Manaos
+sauce oriental,5,Sauce Oriental
+ysla de mayo,5,Ysla de Mayo
+bardeos,5,Bardeos
+santa lucia,5,Santa Lucia
+las conchas,5,las Conchas
+isla de hornos,5,Isla de Hornos
+frankfort,5,Frankfort
+sante fe,5,Sante Fé
+del monte,5,Del Monte
+arenal grande,5,Arenal Grande
+del havre,5,Del Havre
+atalaya,5,Atalaya
+cupaleu,5,Cupaleu
+cadiff,5,Cadiff
+zirate,5,Zirate
+lujan,5,Lujan
+tayu,5,Tayú
+gualegua,5,Gualegua
+monto,5,Monto
+gloucester,5,Gloucester
+istas,5,Istas
+salta,5,Salta
+isias,5,Isias
+parnagna,5,Parnagna
+tome,5,Tomé
+cenova,5,Cénova
+la asuncion,5,la Asuncion
+patagones y bahia blanca,5,Patagones y Bahia Blanca
+rosaria,5,Rosaria
+s fernando,5,S. Fernando
+portlan,5,Portlan
+new brunswick,5,New Brunswick
+saint john,5,Saint John
+saint mary,5,Saint Mary
+islas cuter,5,Islas cuter
+stockolmo,5,Stockolmo
+salas,5,Salas
+greenoch,5,Greenoch
+isla dos hermanos,5,Isla Dos Hermanos
+pictow,5,Pictow
+middlesbourgh,5,Middlesbourgh
+middlesbourg,5,Middlesbourg
+burrard inlet,5,Burrard Inlet
+bari,5,Bari
+v concepcion,5,V Concepción
+madero,5,Madero
+madryn,5,Madryn
+sur,5,Sur
+deseado,5,Deseado
+la ensenada,4,la Ensenada
+esquina corrientes,4,Esquina (Corrientes)
+savana,4,Savana
+san francisco de california,4,San Francisco de California
+carmen,4,Carmen
+bordeaux,4,Bordeaux
+yslas,4,Yslas
+villa del pilar en la provincia del paraguay,4,"Villa del Pilar, en la Provincia del Paraguay"
+rio-janeiro,4,Rio-Janeiro
+provincia del paraguay,4,Provincia del Paraguay
+puertos de inglaterra,4,Puertos de Inglaterra
+san isidro,4,San Isidro
+escocia,4,Escocia
+matanza,4,Matanza
+moute,4,Moute
+agde,4,Agde
+portland e u,4,Portland (E. U.)
+yeguada,4,Yeguada
+constitucion,4,Constitucion
+dunquerque,4,Dunquerque
+villa vista,4,Villa Vista
+santo fe,4,Santo fé
+genoa,4,Genoa
+pensacolas e u,4,Pensacolas (E. U.)
+paradero,4,Paradero
+paranagna,4,Paranagná
+restauracion,4,Restauracion
+baradera,4,Baradera
+guay,4,Guay
+glashow,4,Glashow
+tuyo,4,Tuyo
+sau pedro,4,Sau Pedro
+ibicui,4,Ibicuí
+searsport,4,Searsport
+cualeguay,4,Cualeguay
+gueleguay,4,Gueleguay
+puertos estrangeros,4,Puertos estrangeros
+gorrientes,4,Gorrientes
+s nicolas,4,S. Nicolas
+pernagua,4,Pernagüá
+santa elena,4,Santa Elena
+paranasito,4,Paranasito
+pailebot,4,Pailebot
+palma,4,Palma
+palermo,4,Palermo
+geneva,4,Géneva
+nueva escocia,4,Nueva Escocia
+hong-kong,4,Hong-Kong
+paso de la patria,4,Paso de la Patria
+st mary s,4,St. Mary's
+sonthampton,4,Sonthampton
+isla del uruguay,4,Isla del Uruguay
+boulogne,4,Boulogne
+l pool,4,L'pool
+los rios,4,Los Rios
+hervidero,4,Hervidero
+isla de san fernando,4,Isla de San Fernando
+ratterdam,4,Ratterdam
+savannach,4,Savannach
+alicante,4,Alicante
+glagow,4,Glagow
+c del uruguay,4,C. del Uruguay
+coronel,4,Coronel
+trinchera del san jose,4,Trinchera del San José
+santa maria,4,Santa Maria
+villa concepcion,4,Villa Concepcion
+v colon,4,V. Colon
+giava,4,Giava
+east london,4,East London
+penarth,4,Penarth
+mazaredo,4,Mazaredo
+aalborg,4,Aalborg
+pavon,3,Pavon
+san juan costa oriental,3,San Juan (costa oriental)
+ygueritas,3,Ygueritas
+sabona,3,Sabona
+pamagua,3,Pamaguá
+parnagui,3,Parnagui
+las conchillas,3,las Conchillas
+ysla de san gabriel,3,Ysla de San Gabriel
+arenal,3,Arenal
+banco ortiz,3,Banco Ortiz
+puertos de espana,3,Puertos de España
+bella visia,3,Bella Visia
+mereedes,3,Mereedes
+victaria,3,Victaria
+arroyo negro,3,Arroyo Negro
+cabo-verde,3,Cabo-Verde
+cetto,3,Cetto
+glasgw,3,Glasgw
+nueva palmyra,3,Nueva Palmyra
+gottemburgo,3,Gottemburgo
+gualeguayehu,3,Gualeguayehú
+la palmira,3,La Palmira
+baradeao,3,Baradeao
+este,3,Este
+rosario y san nicolas,3,Rosario y San Nicolas
+richemond,3,Richemond
+e oriental,3,E. Oriental
+holanda,3,Holanda
+cuyaba y paraguay,3,Cuyabá y Paraguay
+espana,3,España
+darien e u,3,Darien (E. U.)
+bucksport,3,Bucksport
+norte,3,Norte
+jujui,3,Jujui
+bara lero,3,Bara lero
+ambres,3,Ambres
+nicolas,3,Nicolas
+antillas,3,Antillas
+belfast,3,Belfast
+london,3,Lóndon
+bela vista,3,Bela Vista
+genoua,3,Génoua
+itati,3,Itati
+homburgo,3,Homburgo
+bremeu,3,Breméu
+corriente,3,Corriente
+parnaguaa,3,Parnaguaá
+gualegnaychu,3,Gualegnaychú
+paraguay y parana,3,Paraguay y Paraná
+montevide,3,Montevide
+monte queche,3,Monte queche
+gualegvay,3,Gualegvay
+new bedford,3,New Bedford
+llancay,3,Llancay
+nueva-yor,3,Nueva-Yor
+burdees,3,Burdees
+paranacito,3,Paranacito
+blanca,3,Blanca
+sarario,3,Sarario
+nueva yor,3,Nueva Yor
+raradero,3,Raradero
+puerto del uruguay,3,Puerto del Uruguay
+neuport,3,Neuport
+vitoria,3,Vitoria
+estados unidos,3,Estados Unidos
+burdeas,3,Burdeas
+grimsby,3,Grimsby
+uruguayana,3,Uruguayana
+havrre,3,Havrre
+clasgow,3,Clasgow
+punta del indio,3,Punta del Indio
+curupayti,3,Curupaytí
+porto-alegre,3,Porto-Alegre
+grenock,3,Grenock
+mercedes e o,3,Mercedes (E. O.)
+burntisland,3,Burntisland
+carabelas,3,Carabelas
+chaco,3,Chaco
+jelas,3,Jelas
+st johns,3,St Johns
+annapolis,3,Annapolis
+gadiz,3,Gadiz
+christiansand,3,Christiansand
+santa marys,3,Santa Marys
+ardrossan,3,Ardrossan
+islas plvot,3,Islas plvot.
+san miguel,3,San Miguel
+bremenhaven,3,Bremenhaven
+fernandino,3,Fernandino
+southamton,3,Southamton
+s lorenzo,3,S. Lorenzo
+ybicuy,3,Ybicuy
+quebeck,3,Quebeck
+brunsvick,3,Brunsvick
+montral,3,Montral
+st thomas,3,St. Thomas
+genovo,3,Genovo
+cienfuegos,3,Cienfuegos
+granton,3,Granton
+bruswick,3,Bruswick
+brunswik,3,Brunswik
+ituzaingo,3,Ituzaingo
+christiansund,3,Christiansund
+breemen,3,Breemen
+greeock,3,Greeock
+santiago,3,Santiago
+glasgou,3,Glasgou
+new por,3,New Por
+s fe,3,S. Fé
+mauricias,3,Mauricias
+villa formosa,3,Villa Formosa
+baston,3,Baston
+glascow,3,Glascow
+paris,3,Paris
+new-yorck,3,New-Yorck
+bdra de san fernando,3,Bdra de San Fernando
+chicountini,3,Chicountini
+madeira,3,Madeira
+brunwich,3,Brunwich
+ship island,3,Ship Island
+spezia,3,Spezia
+livorno,3,Livorno
+i de san fernando,3,I. de San Fernando
+puerto aragon,3,Puerto Aragon
+lourenco marques,3,Lourenço Marques
+gulf port,3,Gulf Port
+rawson,3,Rawson
+darsena norte,3,dársena Norte
+newport news,3,Newport News
+fredrikshalds,3,Fredrikshalds
+gottenburg,3,Gottenburg
+fredrikstad,3,Fredrikstad
+sotubal,2,Sotubal
+ys la de sil,2,Ys. la de Sil
+san juan nueva brunswick,2,San Juan Nueva Brunswick
+villa garcia,2,Villa García
+la bajada,2,la Bajada
+la concepcion del uruguay,2,la Concepcion del Uruguay
+banta-fe,2,Banta-Fé
+trapani sicilia,2,Trápani [Sicilia]
+yslas de san gabriel,2,Yslas de San Gabriel
+llanelly,2,Llanelly
+yala de sal,2,Yala de Sal
+trapani,2,Trapani
+philadelphia,2,Philadelphia
+gualeguayhu,2,Gualeguayhú
+gualeguay chu,2,Gualeguay chú
+santa fo,2,Santa Fó
+san gabriel,2,San Gabriel
+carcarana,2,Carcarañá
+isla de san gabriel,2,Isla de San Gabriel
+guale-guay,2,Guale-guay
+yslas de hornos,2,Yslas de Hornos
+madera,2,Madera
+isla de cuba,2,Isla de Cuba
+havre de gracia,2,Havre de Gracia
+isla de borbon,2,Isla de Borbon
+nueva castle,2,Nueva Castle
+rios interiores,2,Rios Interiores
+dia,2,Dia
+alloa,2,Alloa
+estados-unidos,2,Estados-Unidos
+paraguaya,2,Paraguayá
+nueva-palmira,2,Nueva-Palmira
+santr fe,2,Santr Fé
+julio,2,Julio
+gothemburgo,2,Gothemburgo
+tres bocas,2,Tres Bocas
+haburgo,2,Haburgo
+portland estados unidos,2,Portland (Estados Unidos)
+esquinas,2,Esquinas
+jamaica,2,Jamaica
+hayre,2,Hayre
+entrada de los rios,2,ENTRADA DE LOS RIOS
+santa-ee,2,Santa-Eé
+paranaguay,2,Paranaguay
+roman,2,Roman
+estado-oriental,2,Estado-oriental
+tordillo,2,Tordillo
+india,2,India
+oriental,2,Oriental
+bernambuco,2,Bernambuco
+lima,2,Lima
+fray bento,2,Fray Bento
+talas,2,Talas
+nueva-castle,2,Nueva-Castle
+wellington,2,Wellington
+lisbon,2,Lisbon
+plymouth,2,Plymouth
+corrientes y san nicolas,2,Corrientes y San Nicolas
+mauricio,2,Mauricio
+paranagui,2,Paranagui
+concordia y salto,2,Concordia y Salto
+sauta fe,2,Sauta Fé
+gualeguaycha,2,Gualeguaycha
+chascomus,2,Chascomus
+roman chico,2,Roman Chico
+brest,2,Brest
+algeciras,2,Algeciras
+cabotaje,2,CABOTAJE
+farnagua,2,Farnaguá
+dos hermanas,2,Dos Hermanas
+mar ella,2,Mar ella
+vacas,2,Vacas
+gualaguay,2,Gualaguay
+santa cruz de tenerife,2,Santa Cruz de Tenerife
+badiz,2,Badiz
+albuquerque,2,Albuquerque
+zarata,2,Zárata
+alburqueque,2,Alburqueque
+havana,2,Havana
+beila vista,2,Beila vista
+mente,2,Mente
+cardeff,2,Cardeff
+partland,2,Partland
+bagia,2,Bagia
+viatoria,2,Viatoria
+rio jeneiro,2,Rio Jeneiro
+panama,2,Panamá
+salto priental,2,Salto Priental
+tuya,2,Tuya
+hul,2,Hul
+africa,2,Africa
+liverpeol,2,Liverpeol
+jujuy,2,Jujuy
+s n pedro,2,S. n Pedro
+gualeguai,2,Gualeguai
+golonia,2,Golonia
+barmelo,2,Barmelo
+carmel,2,Carmel
+sant-fe,2,Sant-Fé
+buadeos,2,Buadeos
+parnahua,2,Parnahua
+senta fe,2,Senta Fé
+north shields,2,North Shields
+empedrada,2,Empedrada
+gonova,2,Gonova
+hamburga,2,Hamburga
+livarpool,2,Livarpool
+carmolo,2,Carmolo
+caruelo,2,Caruelo
+gualegnay,2,Gualegnay
+lelas,2,lelas
+bangor e u,2,Bangor (E. U.)
+aju,2,Ajú
+vella vista,2,Vella Vista
+cadis,2,Cadis
+new-bedford,2,New-Bedford
+curdeos,2,Curdeos
+mina,2,Mina
+melazzo,2,Melazzo
+llancoy,2,Llancoy
+empedrados,2,Empedrados
+dublin,2,Dublin
+vietoria,2,Vietoria
+guyaba,2,Guyabá
+nuova palmira,2,Nuova Palmira
+swamea,2,Swamea
+salvador,2,Salvador
+ria,2,ria
+pernambuce,2,Pernambuce
+islas pailebot,2,Islas pailebot
+anvers,2,Anvers
+el,2,el
+de mayo,2,28 de Mayo
+montovideo,2,Montovideo
+queguay,2,Queguay
+rotterdan,2,Rotterdan
+pernambueo,2,Pernambueo
+asunciou,2,Asunciou
+zanzibar,2,Zanzibar
+retterdam,2,Retterdam
+port,2,Port
+havro,2,Havro
+corientes,2,Corientes
+burdeo,2,Burdeo
+new casthe,2,New Casthe
+islas estado oriental,2,Islas [Estado Oriental]
+carril espana,2,Carril (España)
+sevansea,2,Sevansea
+urugua,2,Urugua
+cardiffe,2,Cardiffe
+franfort,2,Franfort
+st john n b,2,St. John (N. B.)
+islis,2,Islis
+santiago de cuba,2,Santiago de Cuba
+lieth,2,Lieth
+roterdan,2,Roterdan
+islas uruguay,2,Islas Uruguay
+san tome chile,2,San Tomé [Chile]
+portladd,2,Portladd
+machias e u,2,Machias (E. U.)
+macias e u,2,"Macias, (E. U.)"
+nuevo puerto,2,Nuevo puerto
+savannah e u,2,Savannah (E. U.)
+islrs,2,Islrs
+be la vista,2,Be la Vista
+swansca,2,Swansca
+islas baladra,2,Islas baladra
+milaso,2,Milaso
+cadix,2,Cadix
+fortland,2,Fortland
+aguas arribas,2,Aguas arribas
+montreal e u,2,Montreal (E. U.)
+san fernandez,2,San Fernandez
+sarannah,2,Sarannah
+rio paraguay,2,Río Paraguay
+necoport,2,Necoport
+colouia,2,Colouia
+matanzas isla de cuba,2,Matanzas (Isla de Cuba)
+new post,2,New Post
+new-brunswick,2,New-Brunswick
+montrael,2,Montrael
+quilmes,2,Quilmes
+biradero,2,Biradero
+st john s nueva brunswick,2,St. John's (Nueva Brunswick)
+bellavista,2,Bellavista
+boyona,2,Boyona
+la have nueva escocia,2,La Have (Nueva Escocia)
+sant -fe,2,Sant -Fé
+stettin,2,Stettin
+portugal,2,Portugal
+caravelas,2,Caravelas
+soutampton,2,Soutampton
+rosario del paraguay,2,Rosario del Paraguay
+guleguaychu,2,Guleguaychú
+marin espana,2,Marin (España)
+curuna,2,Curuña
+islas gia dominga,2,Islas gia. Dominga
+parauagua,2,Parauaguá
+dos hermanos,2,Dos hermanos
+swancea,2,Swancea
+taragona,2,Taragona
+bremon,2,Bremon
+villa-colon,2,Villa-Colon
+florida,2,Florida
+necuportel,2,Necúportel
+sebastian,2,Sebastian
+san antonio de itate,2,San Antonio de Itate
+nuevo san pedro,2,Nuevo San Pedro
+saint mary s,2,Saint Mary's
+san sebastian,2,San Sebastian
+monte carmelo,2,Monte Carmelo
+tuyu qche,2,Tuyú qche
+burdos,2,Burdos
+nva york,2,Nva. York
+santa cruz patagones,2,Santa Cruz (Patagones)
+benicarlo espana,2,Benicarló (España)
+islas del mini,2,Islas del Miní
+stanley,2,Stanley
+rio azul,2,Rio Azul
+savarah,2,Savarah
+santa-pe,2,Santa-Pé
+glasgoco,2,Glasgoco
+soderhamn,2,Soderhamn
+skutskar,2,Skutskar
+neustadt,2,Neustadt
+neucastle,2,Neucastle
+rosarp,2,Rosarp
+glasglow,2,Glasglow
+ita-ibate,2,Ita-Ibaté
+mercedes r o,2,Mercedes (R. O.)
+islas de s fernando,2,Islas de S. Fernando
+portvendre,2,Portvendre
+san john,2,San John
+guantanamo,2,Guantanamo
+villor del pilar,2,Villor del Pilar
+marsala,2,Marsala
+richimond,2,Richimond
+portvendres,2,Portvendres
+islas argentinas,2,Islas Argentinas
+lunderland,2,Lunderland
+cordiff,2,Cordiff
+leitt,2,Leitt
+nueva brigida,2,Nueva Brigida
+savannack,2,Savannack
+brunsvich,2,Brunsvich
+nue-york,2,Nue-York
+elizabeth,2,Elizabeth
+bdra del tuyu,2,Bdra del Tuyú
+del salto,2,del Salto
+s uruguay,2,S. Uruguay
+ibisa espana,2,Ibisa (España)
+almeria espana,2,Almería (España)
+new part,2,New Part
+mobile e u,2,Mobile (E U)
+penco chile,2,Penco (Chile)
+australia,2,Australia
+edinburgo,2,Edinburgo
+colombia,2,Colombia
+edimburgo,2,Edimburgo
+alto parana,2,Alto Paraná
+sevilla,2,Sevilla
+natal,2,Natal
+new porth,2,New Porth
+new catle,2,New Catle
+litoral,2,Litoral
+uraguay,2,Uraguay
+peusacola,2,Peusacola
+pcho de corrientes,2,Pcho de Corrientes
+saint nazaire,2,Saint Nazaire
+castro,2,Castro
+pbot de la paz,2,"Pbot, de la Paz"
+b vista,2,B. Vista
+necochea,2,Necochea
+posadas,2,Posadas
+aden,2,Aden
+bridgwater,2,Bridgwater
+ambores,2,Ambores
+brmnrick,2,Brmnrick
+dover,2,Dover
+aberdeen,2,Aberdeen
+gangremont,2,Gangremont
+brumwick,2,Brumwick
+candiff,2,Candiff
+gelle,2,Gelle
+gangremonth,2,Gangremonth
+desterro,2,DESTERRO
+townsend,2,Townsend
+pascagonia,2,Pascagonia
+quelve,2,Quelve
+gotenburg,2,Gotenburg
+farmouth,2,Farmouth
+de los rios,2,DE LOS RÍOS
+burddos,2,Burddos
+string,2,string
+aragon,2,Aragon
+biloxi,2,Biloxi
+chicontini,2,Chicontini
+villagarcia,2,Villagarcia
+canal sur,2,canal Sur
+loanda,2,Loanda
+dakar,2,Dakar
+durham,2,Durham
+puerto belgrano,2,Puerto Belgrano
+rada en el riachuelo,2,rada en el Riachuelo
+west hartlepool,2,West Hartlepool
+cabo blanco,2,Cabo Blanco
+camarones,2,Camarones
+arroyo verde,2,Arroyo Verde
+gulport,2,Gulport
+fredrikshald,2,Fredrikshald
+matane,2,Matane
+vancouver,2,Vancouver
+venecia,2,Venecia
+puerto militar,2,Puerto Militar
+spalato,2,Spalato
+lourenzo marquez,2,Lourenzo Marquez
+s salvador,1,S. Salvador
+assu,1,Assû
+sandbal,1,Sandbal
+rosario costa oriental,1,Rosario (costa Oriental)
+paisanda,1,Paisanda
+harre,1,Harre
+bath,1,Bath
+ysla de buena vista,1,Ysla de Buena Vista
+salto costa oriental,1,Salto (costa oriental)
+libau,1,Libau
+val de sal,1,Val de Sal
+usages,1,usages
+burdeus,1,Burdeus
+sito,1,Sito
+bucco,1,Bucco
+diamante entrerios,1,Diamante [Entrerios]
+yslas del uruguay,1,Yslas del Uruguay
+yslas del cabo verde,1,Yslas del Cabo Verde
+san catalina,1,San Catalina
+balaija,1,Balaija
+santis,1,Santis
+la bajada del parana,1,la Bajada del Paraná
+sau salvador,1,Sau salvador
+azu rio grande del norte,1,Azu (Rio Grande del Norte)
+yslas de cabo-verde,1,Yslas de Cabo-Verde
+las yalas del uruguay,1,las Yalas del Uruguay
+bath estados unidos,1,Bath (Estados Unidos)
+esquina en corrientes,1,Esquina (en Corrientes)
+gualeguay grande,1,Gualeguay Grande
+salao,1,Salao
+el buceo,1,El Buceo
+rahia,1,Rahia
+arroyo de in china,1,Arroyo de In China
+tumen,1,Tumen
+colonis,1,Colonis
+bella vista corrientes,1,Bella Vista (Corrientes)
+passages,1,Passages
+la concordi,1,la Concordi
+paronagua,1,Paronaguá
+gaya,1,Gaya
+la paz entre rios,1,La Paz (Entre Rios)
+alejandria,1,Alejandria
+yala de mayo,1,Yala de Mayo
+bueno,1,Bueno
+amarillo,1,Amarillo
+canava,1,Cánava
+yaguari,1,Yaguari
+bajada,1,Bajada
+colorado,1,Colorado
+arroyo del colorado,1,Arroyo del Colorado
+bahia de todos los santos,1,Bahia de todos los Santos
+empedrado provincia de corrientes,1,Empedrado (Provincia de Corrientes)
+bajada del parana,1,Bajada del Paraná
+ysla de hornos,1,Ysla de Hornos
+villa del pilar provincia del paraguay,1,Villa del Pilar (Provincia del Paraguay)
+saint vallery sour somme,1,Saint Vallery Sour Somme
+queche monte alegre,1,Queche Monte Alegre
+ynverkatking,1,Ynverkatking
+queche zarate,1,Queche Zárate
+camden,1,Camden
+asuncion en la provincia del paraguay,1,Asuncion en la Provincia del Paraguay
+punta de yndio,1,Punta de Yndio
+berweck tweed escocia,1,Berweck Tweed (Escocia)
+isla de sala,1,Isla de Sala
+new gastle,1,New Gastle
+sarandi,1,Sarandí
+hermanas,1,Hermanas
+mandioca,1,Mandióca
+rosari,1,Rosari
+wilminthon,1,Wilminthon
+magua,1,Maguá
+gow,1,Gow
+aga,1,Aga
+mems,1,Mems.
+glasgove,1,Glasgove
+memei,1,Memei
+nette,1,Nette
+puerto oriental,1,Puerto Oriental
+gothenburgo,1,Gothenburgo
+diamante provincia de entre-rios,1,"Diamante, provincia de Entre-Ríos"
+san borja,1,San Borja
+isla de la asuncion,1,Isla de la Asuncion
+seers port estados unidos,1,Seers Port (Estados Unidos)
+santa margarita,1,Santa Margarita
+st ubes,1,St. Ubes
+cetubal,1,Cetubal
+tonelero,1,Tonelero
+georgetown,1,Georgetown
+puerto nuevo,1,Puerto Nuevo
+fray santo,1,Fray Santo
+del tigre,1,Del Tigre
+gluckestadt,1,Gluckestadt
+darmelo,1,Darmelo
+costa del sud,1,Costa del Sud
+del salado,1,Del Salado
+llanelli,1,Llanelli
+costa del salado,1,Costa del Salado
+klein,1,Klein
+rio janairo,1,Rio Janairo
+venado,1,venado
+northe schields inglaterra,1,Northe Schields (Inglaterra)
+nuava palmira,1,Nuava Palmira
+del interior del rio,1,Del Interior del Rio
+bangotti,1,Bangotti
+cartty,1,Cartty
+valparayso,1,Valparayso
+empedrado corrientes,1,Empedrado (Corrientes)
+nueva yorka,1,Nueva Yorka
+fray-ventos,1,Fray-Ventos
+paraguay ol,1,Paraguay ol 10
+frayvento,1,Frayvento
+sorio,1,Sorio
+galeguay,1,Galeguay
+ventos,1,Ventos
+nueva palinira,1,Nueva Palinira
+fray-vento,1,Fray-Vento
+nueva buryport,1,Nueva Buryport
+hart-lipool,1,Hart-Lipool
+camacho,1,Camacho
+stock on,1,Stock'on
+costa de rio janeiro,1,Costa de Rio Janeiro
+san fedro,1,San Fedro
+providence,1,Providence
+concordia y paysandu,1,Concordia y Paysandú
+paaana,1,Paaaná
+gordon,1,Gordon
+e carranza,1,E. Carranza
+carlos,1,Carlos
+s pagliano,1,S. Pagliano
+gualeguaihuichu,1,Gualeguaihuichú
+norlk shields,1,Norlk Shields
+jacksonville florida,1,Jacksonville (Florida)
+gabo verde,1,Gabo Verde
+a pereyra,1,A Pereyra
+islas chalana,1,Islas chalana
+arroyo de san lorenzo,1,Arroyo de San Lorenzo
+havrs,1,Havrs
+sal salvador,1,Sal Salvador
+dia monte,1,Dia Monte
+gorrientes y santa fe,1,Gorrientes y Santa Fé
+r janeiro,1,R.Janeiro
+fuyer,1,Fuyer
+cupala,1,Cupalá
+restrio oriental,1,Restrio Oriental
+wilsnington e u,1,Wilsnington (E. U.)
+gualeguayohi,1,Gualeguayohi
+salubal,1,Salubal
+candiffel,1,Candiffel
+marselle,1,Marselle
+most,1,Most
+bostou,1,Bostou
+concepcion de penco,1,Concepcion de Penco
+paran i,1,Paran i
+gew fort,1,Gew fort
+harttepool,1,Harttepool
+boca del yaguari,1,Boca del Yaguarí
+paria,1,Paria
+san-nicolas,1,San-Nicolas
+jachsomelle e u,1,Jachsomelle (E. U.)
+rincon de las gallinas,1,Rincon de las Gallinas
+arroyo de la cecilia,1,Arroyo de la Cecilia
+ivise,1,Ivise
+arroyo grande,1,Arroyo Grande
+gualeguaychi,1,Gualeguaychi
+tanta-fe,1,Tanta-Fé
+parana gua,1,Parana' guá
+rate,1,Rate
+aradero,1,Aradero
+pebastiana,1,Pebastiana
+sabana,1,Sabana
+gualegaychu,1,Gualegaychú
+cupaliu,1,Cupaliú
+dunquerk,1,Dunquerk
+fonte,1,Fonte
+frias,1,Frias
+montevfileo,1,Montevfileo
+sants fe,1,Sants Fé
+balto,1,Balto
+mercades,1,Mercades
+ramon,1,Ramon
+tenarife,1,Tenarife
+gualeggay,1,Gualeggay
+ambarca,1,Ambarca
+pasage,1,Pasage
+palmina,1,Palmina
+turk,1,Turk
+fray bectos,1,Fray Bectos
+bamjou,1,Bamjou
+peredeo,1,Peredeo
+tagones,1,Tagones
+burgo,1,Burgo
+puertos extranjeros,1,Puertos extranjeros
+estro oriental,1,Estro Oriental
+provincia del uruguay,1,Provincia del Uruguay
+andes,1,Andes
+sunderlan,1,Sunderlan
+bartimore,1,Bartimore
+dankirke,1,Dankirke
+postland,1,Postland
+ilegible,1,[ilegible]
+rolos,1,Rolos
+santo-fe,1,Santo-Fé
+capaleu,1,Capaleu
+darien georgia e u,1,"Darien (Georgia, E. U.)"
+lesth escocia,1,Lesth [Escocia]
+alloa escocia,1,Alloa (Escocia)
+genava,1,Genava
+continguiva,1,Continguiva
+aracaju,1,Aracajú
+contiguiva,1,Contiguiva
+fernandinda flonda e u,1,Fernandinda (Flonda E: U.)
+corrieutes,1,Corrieutes
+callejon,1,Callejon
+prisandu,1,Prisandú
+parrguay,1,Parrguay
+zatate,1,Zátate
+searsport e u,1,Searsport (E. U.)
+salona,1,Salona
+bardero,1,Bardero
+vistoria,1,Vistoria
+beres,1,Beres
+entrate,1,Entrate
+chia blanca,1,Chia Blanca
+baltimoro,1,Baltimoro
+amsteres,1,Amsteres
+caeton,1,Caeton
+rai vento,1,Rai Vento
+pasancola,1,Pasancola
+paranaguas,1,Paranaguas
+radas de cabotaje,1,RADAS DE CABOTAJE
+posttamd,1,Posttamd
+posario,1,Posario
+o verde,1,O verde
+estade oriental,1,Estade Oriental
+patagonica,1,Patagónica
+paraguay e interior de los rios,1,Paraguay é interior de los ríos
+deteriorado,1,Deteriorado
+boca del tuyu,1,Boca del Tuyú
+leb,1,Leb
+lalas,1,Lalas
+estalo oriental,1,Estalo Oriental
+ban nicolrs,1,Ban Nicolrs
+ban nicolas,1,Ban Nicolas
+queche,1,Queche
+cualeguaychu,1,Cualeguaychú
+villalbo,1,Villalbo
+san sanda,1,San sanda
+ronan,1,Ronan
+victria,1,Victria
+gualagnaichu,1,Gualagnaichú
+maypu,1,Maypú
+bayonna,1,Bayonna
+huanuco,1,Huánuco
+levideo,1,Levideo
+gore africa,1,Goré [Africa]
+new-castell,1,New-Castell
+isla de ma yo,1,isla de ma yo
+parscagua,1,Parscagua
+peri,1,Peri
+verde,1,Verde
+carmagua,1,Carmaguá
+le cette,1,le Cette
+new castls,1,New Castls
+antuerpe,1,Antuerpe
+hasburgo,1,Hasburgo
+roman grande,1,Roman Grande
+gual guaychu,1,Gual guaychú
+guacay,1,Guacay
+lula de sal,1,Lula de Sal
+batavio,1,Batavio
+glaswon,1,Glaswon
+babia,1,Babia
+burd os,1,Burd os
+bello vista,1,Bello Vista
+canada mala,1,Cañada Mala
+pernambucos,1,Pernambucos
+basten,1,Basten
+st marys georgia e u,1,"St. Marys, Georgia E U"
+trwn escocia,1,Trwn [Escocia]
+sal pedro,1,Sal Pedro
+thoon escocia,1,Thoon (Escocia)
+balmore,1,Balmore
+samem,1,Samem
+cepelen,1,Cepelen
+boca del salado,1,Boca del Salado
+cuyuba y paraguay,1,Cuyuba y Paraguay
+bas pedro,1,Bas Pedro
+gual guay,1,Gual guay
+estado o gral paz,1,Estado o Gral. Paz
+new castelle,1,New Castelle
+p tagones y bahia blanca,1,P. tagones y Bahia Blanca
+santu fe,1,Santu Fé
+puerto basilio,1,Puerto basilio
+c corrientes,1,C. [¿Corrientes?]
+baraguay,1,Baraguay
+portana,1,Portana
+hartle pool,1,Hartle pool
+harlepool,1,Harlepool
+glasgew,1,Glasgew
+sivanssea,1,Sivanssea
+new cotte,1,New Cotte
+paraua,1,Parauá
+macao india,1,Macao [India]
+new costte,1,New Costte
+singapure,1,Singapure
+singapur,1,Singapur
+m tinga,1,M. tinga
+canil,1,Canil
+santa candida e r,1,Santa Candida E. R.
+rolterdem,1,Rolterdem
+neweustls,1,Neweustls
+anibada,1,Anibada
+sad pedro,1,Sad Pedro
+leutes,1,leutes
+ta catalina,1,ta Catalina
+victori,1,Victori
+castte,1,Castte
+bandero,1,Bandero
+ya,1,[ya]
+parnugua,1,Parnuguá
+frcon escocia,1,Frcon Escocia
+entrerrios,1,Entrerrios
+ozagua,1,Ozaguá
+vacasa,1,Vacasa
+emperador,1,Emperador
+cupatin provincia de entre-rios,1,Cupatin provincia de Entre-Rios
+saladillo,1,Saladillo
+ybisuy,1,Ybisuy
+barradero,1,Barradero
+cruz de santa fe,1,Cruz de Santa Fé
+samborombon,1,Samborombón
+glasgore,1,Glasgore
+arroyo de lujan,1,Arroyo de Lujan
+gette,1,Gette
+pernamburgo,1,Pernamburgo
+new caste,1,New Caste
+guale guay,1,Guale' guay
+puerto alegra,1,Puerto Alegrá
+zarat,1,Zàrat
+paraguay y puestos intermedios,1,Paraguay y puestos intermedios
+lujin,1,Lujin
+san jose del uruguay,1,San José del Uruguay
+fenova,1,Fenova
+new porte,1,New Porte
+becksport,1,Becksport
+paraguay y puertos interiores,1,Paraguay y puertos interiores
+sambrombon,1,Sambrombon
+santa candida e or,1,"Santa Candida [E, OR.]"
+guayleguaychu,1,Guayleguaychú
+garmelo,1,Garmelo
+froon escocia,1,Froon (Escocia)
+dantzig,1,Dantzig
+hamburg y montevideo,1,Hamburg y Montevideo
+guadalupe,1,Guadalupe
+rosario san nicolas,1,Rosario San Nicolás
+mamel,1,Mamel
+umpedrado,1,Umpedrado
+melo,1,Melo
+carm,1,Carm
+hyeres,1,Hyères
+rio janiero,1,Rio Janiero
+rurdeos,1,Rurdeos
+nueva castell,1,Nueva castell
+caliz,1,Caliz
+roston,1,Roston
+ri grande,1,Ri Grande
+higuerita,1,Higuerita
+tuju,1,Tujú
+cabo de corrientes,1,Cabo de Corrientes
+hall,1,Hall
+cayuba,1,Cayubá
+bania,1,Bania
+londrys,1,Lóndrys
+san p d o,1,San P. d. O.
+tucuman,1,Tucumán
+mata,1,Mata
+mont video,1,Mont video
+barcelona y malaga,1,Barcelona y Malaga
+z rate,1,Z rate
+elbe,1,Elbe
+fray santos,1,Fray Santos
+barranca,1,Barranca
+muyu,1,Muyú
+rincon de perez,1,Rincon de Perez
+solato,1,Solato
+hanburgo,1,Hanburgo
+mante,1,Mante
+san tafe,1,San tafé
+rio-plata,1,Rio-plata
+zara,1,Zara
+patacones,1,Patacones
+casiz,1,Casiz
+montd video,1,Montd video
+newpot,1,Newpot
+paraguay y salto oriental,1,Paraguay y Salto Oriental
+monvideo,1,Monvideo
+baradepo,1,Baradepo
+mouth,1,Mouth
+paraguay y rosario,1,Paraguay y Rosario
+ambercs,1,Ambercs
+rouen,1,Rouen
+cadir,1,Cadir
+i las,1,I las
+terragona,1,Terragona
+mendalena,1,Mendalena
+guaguaichu,1,Guaguaichu
+freyer,1,Freyer
+panadero,1,Pañadero
+corrientina,1,Corrientina
+zar,1,Zár
+boca del guazu,1,Boca del Guazú
+bahin blanes,1,Bahin Blanes
+ponton de las lligueritas,1,Ponton de las lligueritas
+mar chiquita,1,Mar Chiquita
+paragnay,1,Paragnay
+payrandu,1,Payrandú
+p ragua,1,P.ragua
+parasusy,1,ParaSusy
+parani,1,Parani
+cosarjo,1,Cosarjo
+gualegua chu,1,Gualegua chú
+liverdool,1,Liverdool
+san pedao,1,San Pedao
+fanagona,1,Fanagona
+gruauay,1,Gruauay
+gualeguayegn,1,Gualeguayegn
+parnaiba,1,Parnaíba
+guaieguay,1,Guaieguay
+victororla,1,Victororla
+glasgom,1,Glasgom
+cualegua,1,Cualegua
+sau geronimo,1,Sau Geronimo
+ibique,1,Ibique
+dolorez,1,Dolorez
+alburquezque,1,Alburquezque
+paraguai,1,Paraguai
+parnambuca,1,Parnambuca
+velez,1,Velez
+mendoza,1,Mendoza
+paraguay y goxa,1,Paraguay y Goxa
+new carbonid,1,New Carbonid
+parnaguay,1,Parnaguay
+villa de la constitucion,1,Villa de la Constitucion
+foya,1,Foya
+bosto,1,Bosto
+marchais,1,Marchais
+cudillero,1,Cudillero
+campanola,1,Campanola
+pacnagua,1,Pacnaguá
+dar,1,Dar
+interror del zio,1,Interror del Zio
+liveerpool,1,Liveerpool
+s a y i le,1,S a y I le
+santa fa,1,Santa Fá
+empedrade,1,Empedrade
+bolonia,1,Bolonia
+taparica,1,Taparica
+h vre,1,H vre
+grasgow,1,Grasgow
+nuova york,1,Nuova York
+rosa,1,Rosa
+gibralttr,1,Gibralttr
+aneta,1,Aneta
+pa sandu,1,Pa sandú
+gualeguichu,1,Gualeguichú
+ponton independencia,1,Ponton Independencia
+aren l grande,1,Aren l Grande
+menta,1,Menta
+concoron,1,Concorón
+tayon,1,Tayon
+madalena,1,Madalena
+merbedes,1,Merbedes
+basadero,1,Basadero
+paraguy,1,Paraguy
+dosario,1,Dosario
+p araguay,1,P. araguay
+carmejo,1,Carmejo
+carmels,1,Carmels
+sanaa fe,1,Sanaa Fé
+corrionlns,1,Corrionlns
+ialas,1,Ialas
+dolorns,1,Dolorns
+corrientos,1,Corrientos
+montevides,1,Montevides
+oruguay,1,Oruguay
+monie,1,Monie
+gualehuay,1,Gualehuay
+darinelo,1,Darinelo
+hicuy,1,Hicuy
+palmos,1,Palmos
+vicio-ia,1,Vicio-ia
+islas de cuba,1,Islas de Cuba
+rio janetro,1,Rio Janetro
+gualeguaicho,1,Gualeguaicho
+faz,1,Faz
+san tedro,1,San Tedro
+parand,1,Parand
+islac,1,Islac
+puerto luis isla de mauricio,1,Puerto Luis (Isla de Mauricio)
+interiar de los rios,1,Interiar de los rios
+lulspool,1,Lulspool
+haose,1,Haose
+paz oriental,1,Paz oriental
+gueleguaychu,1,Gueleguaychu
+bortlando,1,Bortlando
+aracazu,1,Aracazú
+golla,1,Golla
+poraguay,1,Poraguay
+mercodes,1,Mercodes
+costo oriental,1,Costo oriental
+montr,1,Montr
+matogroso,1,Matogroso
+jome chile,1,Jomé (Chile)
+guarizu,1,Guarizú
+gualeguaygu,1,Gualeguaygú
+brngor e u,1,Brngor (E. U.)
+amsterdams,1,Amsterdams
+san nicos,1,San Nicos
+nruguay,1,Nruguay
+dolore,1,Dolore
+lerona,1,Lerona
+ceronimo,1,Cerónimo
+nova,1,Nova
+fome,1,Fomé
+barcela,1,Barcela
+corrieines,1,Corrieines
+bareto,1,Bareto
+landerland,1,Landerland
+machios,1,Machios
+gerova,1,Gérova
+burdsos,1,Burdsos
+haurre,1,Haurre
+aictoria,1,Aictoria
+baradere,1,Baradere
+memet,1,Memet
+camelo,1,Camelo
+marein garcia,1,Marein Garcia
+magalena,1,Magalena
+cuyacoa,1,Cuyacoa
+wolgast,1,Wolgast
+nuera palaira,1,Nuera Palaira
+burdios,1,Burdios
+rosio,1,Rosio
+new bedford e n,1,New Bedford (E. N.)
+capiz,1,Capiz
+rosario ociental,1,Rosario Ociental
+cabo de san antonio,1,Cabo de San Antonio
+payaandu,1,Payaandú
+rio ganeiro,1,Rio Ganeiro
+habona,1,Habona
+nueoa palmira,1,Nueoa Palmira
+isla de man inglaterra,1,Isla de Man (Inglaterra)
+san nicola,1,San Nicola
+lanta fe,1,Lanta Fé
+cuhaba,1,Cuhabá
+cueva palmira,1,Cueva Palmíra
+parana y la paz,1,Paraná y La Paz
+monre,1,Monre
+islas del parada,1,Islas del Parada
+nrusuay,1,Nrusuay
+partagua,1,Partaguá
+maldonada,1,Maldonada
+carinelo,1,Carinelo
+mercepes,1,Mercepes
+victora,1,Victora
+sanicolas,1,Sanicolas
+gualegvaichu,1,Gualegvaichú
+portand,1,Portand
+nneva york,1,Nneva York
+mnte,1,Mnte
+geya,1,Geya
+doloros,1,Doloros
+parana y diamante,1,Paraná y Diamante
+zurate,1,Zúrate
+cormelo,1,Cormelo
+mte,1,Mte
+migre,1,Migre
+barcelena,1,Barcelena
+modte,1,Modte
+oictoria,1,Oictoria
+rosa is,1,"Rosa,is"
+alburquerque y paraguay,1,Alburquerque y Paraguay
+rincon de ajo,1,Rincon de Ajó
+a melo,1,6a melo
+gualeguaybhu,1,Gualeguaybhú
+paeagnay,1,Paeagnay
+la laguna de los padres,1,La Laguna de los Padres
+asuncion del uruguay,1,Asuncion del Uruguay
+isla larga,1,Isla Larga
+potland,1,Potland
+portlouis,1,Portlouis
+b hall,1,B. Hall
+rodrigez,1,Rodrigez
+trouu,1,Trouu
+searspor estados unidos,1,Searspor (Estados Unidos)
+frey bentos,1,Frey Bentos
+zaraguay,1,Zaraguay
+alto rio,1,Alto Rio
+piriapolis,1,Piriápolis
+delores,1,Delores
+baugor,1,Baugor
+pasana,1,Pasaná
+empedradp,1,Empedradp
+dolorss,1,Dolorss
+parnangua,1,Parnanguá
+sta gta,1,Sta. Gta.
+gurumba,1,Gurumba
+francfort e u,1,Francfort (E U)
+seamport,1,Seamport
+searsfort,1,Searsfort
+burleos,1,Burleos
+carlo,1,Carlo
+trinidad de cuba,1,Trinidad de Cuba
+nueva palmina,1,Nueva Palmina
+gual guay egu,1,Gual guay egú
+hong yong,1,Hong Yong
+carmelo y colonia,1,Carmelo y Colonia
+gualeguaichi,1,Gualeguaichi
+purteo alegre,1,Purteo Alegre
+fray betos,1,Fray Betos
+guayleguay,1,Guayleguay
+marchias,1,Marchias
+parmagua,1,Parmagua
+breman,1,Breman
+nieuwediep holanda,1,Nieuwediep (Holanda)
+shields inglaterra,1,Shields (Inglaterra)
+salto y paisandu,1,Salto y Paisandú
+zarati,1,Zárati
+siranse,1,Siranse
+rio januiro,1,Rio Januiro
+mosario,1,Mosario
+esquina y goya,1,Esquina y Goya
+conceas,1,Conceas
+marseila,1,Marseila
+lunderlaps,1,Lunderlaps
+par agua,1,Par aguá
+arsenal,1,Arsenal
+pa paz,1,Pa Paz
+monte chatana,1,Monte chatana
+patron del uruguay,1,Patron del Uruguay
+san nicolass,1,San Nicolass
+new portel,1,New Portel
+now port,1,Now Port
+palma mallorca,1,Palma (Mallorca)
+treon,1,Treon
+esquins,1,Esquins
+muelle,1,Muelle
+puertos de uruguay,1,Puertos de Uruguay
+goya y san nicolas,1,Goya y San Nicolas
+cabotage,1,Cabotage
+edro,1,edro
+ordia queche,1,"ordia, queche"
+tarcaaona,1,Tarcaaona
+zarete,1,Zárete
+empalmado,1,Empalmado
+mayo,1,Mayo
+fella vista,1,Fella Vista
+junio,1,junio
+san pa,1,San Pa.
+magdalen,1,Magdalen
+san gonimo,1,San Gónimo
+empirado,1,Empirado
+santa-fe y san nicolas,1,Santa-Fé y San Nicolás
+dunk isanta-fe,1,dunk iSanta-Fé
+wollgast,1,Wollgast
+wallgast,1,Wallgast
+sella,1,Sella
+naona,1,Naona
+e u,1,E. U.
+marchu,1,Marchú
+las,1,Las
+rado,1,Rado
+ova,1,Ova
+sario,1,Sario
+fe,1,Fé
+an,1,An
+ay,1,ay
+el de junio,1,el 21 de Junio
+el de julio,1,el 16 de Julio
+vicsoria,1,Vicsoria
+west islas,1,West islas
+concordid,1,Concordid
+goya y san pedro,1,Goya y San Pedro
+saint john e u,1,Saint John (E. U.)
+curumba y paraguay,1,Curumbá y Paraguay
+san niclas,1,San Niclas
+asnncinn,1,Asnncinn
+west indies e u,1,West Indies (E U.)
+burdeol,1,Burdeol
+rarate,1,Rárate
+patagonos,1,Patagonos
+amuterdam,1,Amuterdam
+saint john n e,1,Saint John (N. E)
+ros rio,1,Ros rio
+morens,1,Morens
+esquina y rosario,1,Esquina y Rosario
+hongkong,1,Hongkong
+visteria,1,Visteria
+fron,1,Fron
+bosten,1,Bosten
+de diciembre,1,7 de Diciembre
+livensea,1,Livensea
+ellsworth,1,Ellsworth
+buedeos,1,Buedeos
+vletsria,1,Vletsria
+hainburgo,1,Hainburgo
+dunkirque,1,Dunkirque
+kosarie,1,Kosarie
+borrientes,1,Borrientes
+islae,1,Islae
+rador,1,Rador
+rabia blanca,1,Rabia Blanca
+victorla,1,Victorla
+esquina grande,1,Esquina Grande
+paraiso,1,paraiso
+ojo,1,Ojó
+certe,1,Certe
+pernangua,1,Pernanguá
+guaya,1,Guaya
+islas balandra,1,Islas balandra
+genosa,1,Genosa
+entro,1,Entró
+pernambuc,1,Pernambuc
+eoquina,1,Eoquina
+paraguay y san nicolas,1,Paraguay y San Nicolás
+matanxas,1,Matanxas
+esterior de los rios,1,Esterior de los rios
+islas uallebot,1,Islas uallebot
+bercelona,1,Bercelona
+frioste y gibraltar,1,Frioste y Gibraltar
+setiembre,1,Setiembre
+york,1,York
+embuco,1,Embuco
+quell eb concordia,1,quell eb Concordia
+anzar,1,Anzar
+mew por,1,Mew Por
+monteviddo,1,Monteviddo
+lucrebremense,1,lucrebremense
+londret,1,Londret
+nunes,1,Nuñes
+quevec,1,Quevec
+tala,1,Tala
+gualeguay y victoria,1,Gualeguay y Victoria
+parapacito,1,Parapacito
+pets bestcorrien,1,Pets Bestcorrien
+asuucion,1,Asuucion
+nueva palmera,1,Nueva Palmera
+islas paylebot,1,Islas paylebot
+brestol,1,Brestol
+y islas,1,y Islas
+bangor norte america,1,Bangor (Norte América)
+san pedrs,1,San Pedrs
+islas pailsbat,1,Islas pailsbat
+saint john estados unidos,1,Saint John (Estados Unidos)
+san martin antillas,1,San Martin [Antillas]
+carrielo,1,Carrielo
+marid garcia,1,Marid Garcia
+santo-te,1,Santo-Té
+las queche,1,Las queche
+coya y san nicolas,1,Coya y San Nicolás
+frankfort estados unidos,1,Frankfort (Estados Unidos)
+southampton estados unidos,1,Southampton (Estados Unidos)
+curacao,1,Curacao
+glesgow,1,Glesgow
+froom,1,Froom
+grinsby,1,Grinsby
+mewport,1,Mewport
+montevidco,1,Montevidco
+yarmouth norte america,1,Yarmouth (Norte América)
+rio jaeiro,1,Rio Jaeiro
+las hermanas,1,Las Hermanas
+santo domingo,1,Santo Domingo
+puerto constitucional chile,1,Puerto Constitucional (Chile)
+troon escocia,1,Troon (Escocia)
+maldonado estado oriental,1,Maldonado [Estado Oriental]
+santa lucia estado oriental,1,Santa Lucía [Estado Oriental]
+san juan nueva bruseik,1,San Juan [Nueva Bruseik]
+saint john new brunswick,1,Saint John (New Brunswick)
+uruhuay,1,Uruhuay
+peisandu,1,Peisandú
+son fernando,1,Son Fernando
+porto angelos,1,Porto Angelos
+isla coralda,1,Isla Coralda
+islas carapachay,1,Islas Carapachay
+schiedam,1,Schiedam
+blaye,1,Blaye
+item,1,Item
+rio janei,1,Rio Janei
+coloniafa,1,Coloniafa
+dartmouth,1,Dartmouth
+burueos,1,Burueos
+glasgoo,1,Glasgoó
+pranagua,1,Pranagua
+carniff,1,Carniff
+potterdam,1,Potterdam
+qarnagua,1,Qarnaguá
+wampoa,1,Wampoa
+hambuago,1,Hambuago
+gualeguaycue,1,Gualeguaycué
+sorrano,1,Sorrano
+san potrb,1,San Potrb
+dsquina,1,Dsquina
+islas lanehon,1,Islas lanehon
+midelalesboro,1,Midelalesboro
+hon kong,1,Hon Kong
+cuxhaven,1,Cuxhaven
+paso de los libres,1,Paso de los Libres
+bella-visto,1,Bella-Visto
+babo verde,1,Babo Verde
+frankfort eu,1,Frankfort (EU)
+cardiffei,1,Cardiffei
+babona,1,Babona
+panagua,1,Panaguá
+nueva yorck,1,Nueva Yorck
+seasport,1,Seasport
+bondres,1,bóndres
+riberpool,1,Riberpool
+seaport,1,Seaport
+pernam buco,1,Pernam.buco
+bette,1,Bette
+asuecion del paraguay,1,Asuecion del Paraguay
+lve poo,1,Lve.poo.
+sant fe,1,Sant Fé
+lundres,1,Lúndres
+bella colon,1,Bella Colon
+boncordia,1,Boncordia
+tt nazaire,1,Tt. Nazaire
+concepcion y paysandu,1,Concepcion y Paysandú
+belfast inglaterra,1,Belfast (Inglaterra)
+bordeles,1,Bordeles
+pdol,1,pdol
+santr catalina,1,Santr Catalina
+baraderos,1,Baraderos
+san antonio de las bodegas chile,1,San Antonio de las Bodegas (Chile)
+beemen,1,Beemen
+bedford,1,Bedford
+no-bedford,1,No-Bedford
+barela,1,Barela
+lagunas de los padres,1,Lagunas de los Padres
+bamburgo,1,Bamburgo
+niza,1,Niza
+leath,1,Leath
+constitucion chile,1,Constitucion (Chile)
+santos brasil,1,Santos (Brasil)
+savannah estados unidos,1,Savannah (Estados Unidos)
+navdort,1,Navdort
+tree rivers canada,1,Tree Rivers [Canada]
+beyoga,1,Beyoga
+whampoa china,1,Whampoa (China)
+llanely,1,Llanely
+leanely,1,Leanely
+san juan nuevo brunswick,1,San Juan (Nuevo Brunswick)
+havce,1,Havce
+gualeguy,1,Gualeguy
+salt marg n y,1,Salt Marg [N. Y.]
+bureeos,1,Bureeos
+campania,1,Campania
+ria janeiro,1,Ria Janeiro
+goja,1,Goja
+caniz,1,Caniz
+baltimores,1,Baltimores
+hanre,1,Hanre
+dorrientes,1,Dorrientes
+nualeguaychu,1,Nualeguaychú
+buceos,1,Buceos
+san tome,1,San Tomé
+belta vista,1,Belta Vista
+itapirn,1,Itapirň
+retterdan,1,Retterdan
+new cass,1,New Cass
+sivausea,1,Sivausea
+burdebs,1,Burdebs
+saint mary e u,1,Saint Mary (E. U.)
+foon,1,Foon
+suvansea,1,Suvansea
+glaogow,1,Glaogow
+cio janeiro,1,Cío Janeiro
+havrr,1,Havrr
+goyo,1,Goyo
+fernandina florida,1,Fernandina (Florida)
+nueva brynowick,1,Nueva Brynowick
+liverpool new escosia,1,Liverpool (New Escosia)
+darien estados unidos,1,Darien (Estados Unidos)
+ghamphoa hong kong,1,Ghamphoa (Hong Kong)
+itepiru,1,Itepirú
+aciera york,1,Aciera York
+genoza,1,Genoza
+turdeos,1,Turdeos
+parnagub,1,Parnagub
+hacbour,1,Hacbour
+sheet harbour,1,Sheet Harbour
+saint john s n b,1,Saint John's (N. B.)
+picton,1,Picton
+itupiru,1,Itupirú
+annapolis new burnswick,1,Annapolis (New Burnswick)
+gimsey,1,Gimsey
+mars,1,Mars
+cetta,1,Cetta
+itadiru,1,Itadirú
+mataazas,1,Mataazas
+islas queche san jose,1,Islas queche San José
+punta de indio,1,Punta de Indio
+galicia,1,Galicia
+maasella,1,Maasella
+ma sella,1,Ma sella
+salind d hyeres,1,Salind d'Hyeres
+punta del india,1,Punta del India
+milfora,1,Milfora
+milford,1,Milford
+norte america,1,Norte América
+pan fernando,1,Pan Fernando
+clasgou,1,Clasgou
+san goronimo,1,San Goronimo
+santa marys estados unidos,1,Santa Marys (Estados Unidos)
+santa maria farys estados unidos,1,Santa Maria Farys (Estados Unidos)
+santa-ue,1,Santa-Ué
+curupaity,1,Curupaity
+liamburgo,1,liamburgo
+aracaju brasil,1,Aracaju (Brasil)
+concepcion chile,1,Concepcion (Chile)
+parnague,1,Parnagué
+dardiff,1,Dardiff
+gualegurychu,1,Gualegurychú
+santo-tome,1,Santo-Tomé
+matanzas cuba,1,Matanzas (Cuba)
+aguas arrica,1,Aguas arrica
+villa oliva,1,Villa Oliva
+paranagur,1,Paranagur
+middlesbro inglaterra,1,Middlesbro (Inglaterra)
+gavannah e unidos,1,Gavannah (E. Unidos)
+villa garcia galicia,1,Villa Garcia (Galicia)
+st johns nueva york,1,"St. Johns, Nueva York"
+saranaah estados unidos,1,Saranaah (Estados Unidos)
+liem,1,Liem
+winterport,1,Winterport
+parn gua,1,Parn guá
+satilla river e u,1,Satilla River (E. U.)
+javre,1,Javre
+aguas airiba,1,Aguas Airiba
+affre,1,Affre
+golja,1,Golja
+lendres,1,Léndres
+porto piaye,1,Porto Piaye
+merc des,1,Merc des
+qweenstow,1,Qweenstow
+arroyo negro e o,1,Arroyo Negro (E O.)
+baaadero,1,Baaadero
+campito,1,Campito
+srn nicolas,1,Srn Nicolás
+stockholmo,1,Stockholmo
+quecetown,1,Quecétown
+flekeford,1,Flekeford
+arberes,1,Arberes
+palma mayorca,1,Palma (Mayorca)
+l anelly,1,L'anelly
+colonie,1,Colonie
+hyieres,1,Hyieres
+bet a vista,1,Bet a Vista
+livarsea,1,Livarsea
+osario,1,Osario
+jansberg,1,Jansberg
+satilla e u,1,Satilla (E. U.)
+pensacola e u,1,Pensacola (E. U.)
+nekkeford,1,Nekkeford
+tona,1,toná
+new castle inglaterra,1,New Castle (Inglaterra)
+livanses,1,Livanses
+sivanses,1,Sivanses
+pensacoa,1,Pensacoa
+cadia,1,Cadia
+bel a-vista,1,Bel a-Vista
+islas pt laccio,1,Islas pt. Laccio
+victoria pt,1,Victoria pt.
+s n fernando,1,S. n Fernando
+urehuay,1,Urehuay
+islas pt pepito,1,Islas pt. Pepito
+va paraiso,1,Va paraiso
+por hand,1,Por hand
+jensaco,1,Jensaco
+hartlepool inglaterra,1,Hartlepool (Inglaterra)
+bentos,1,Bentos
+portiard,1,Portiard
+geova,1,Géova
+la bea,1,La bea
+benicarle espana,1,Benicarle (España)
+grangemouth inglaterra,1,Grangemouth (Inglaterra)
+nova scotia,1,Nova Scotia
+meo way nueva escosia,1,Meo way (Nueva Escosia)
+pugwash n e,1,Pugwash (N. E.)
+annapolis e u,1,Annapolis (E. U.)
+castellammar napoles,1,Castellammar (Nápoles)
+san juan e o,1,San Juan (E. O.)
+rangoon india,1,Rangoon (India)
+castellamare napoles,1,Castellamare (Nápoles)
+puebla de caraminal galicia,1,Puebla de Caramiñal (Galicia)
+camacho e o,1,Camacho (E. O.)
+isla de mayo cabo verde,1,Isla de Mayo (Cabo Verde)
+diff,1,Diff
+helsingborg,1,Helsingborg
+poles,1,poles
+erpool,1,Erpool
+ansea,1,Ansea
+ordeos,1,Ordeos
+salins d hyeres,1,Salins d'Hyeres
+vilva,1,Vilva
+matreal,1,Matreal
+steilten,1,Steilten
+stellarys,1,Stellarys
+fredriksalnds,1,Fredriksalnds
+saint marys,1,Saint Marys
+sabanat,1,Sabanat
+canton china,1,Canton (China)
+genoba,1,Genoba
+bernicalo,1,Bernicaló
+farragona,1,Farragona
+sevaneca,1,Sevaneca
+porpland,1,Porpland
+carabela,1,Carabela
+sivanesca,1,Sivanesca
+pasacola,1,Pasacola
+hvre,1,Hvre
+sanit john,1,Sanit John
+pimacola,1,Pimacola
+pensacela,1,Pensacela
+paysaudu,1,Paysaudú
+meremachi,1,Meremachi
+miramiche,1,Miramiche
+glasguo,1,Glasguo
+sao pedro,1,Sao Pedro
+thyu,1,Thyú
+meddlesbro,1,Meddlesbro
+truguay,1,Truguay
+bermuda,1,Bermuda
+cabo frio,1,Cabo Frio
+celle,1,Celle
+st jhon,1,St Jhon
+g johon,1,G. Johon
+trigre,1,Trigre
+san ceronimo,1,San Cerónimo
+svvanrea,1,Svvanrea
+soulhampton,1,Soulhampton
+brunsivick,1,Brunsivick
+lr paz,1,Lr Paz
+bella bista,1,Bella Bista
+costas del uruguay,1,Costas del Uruguay
+bradero,1,Bradero
+mercedes f o,1,Mercedes (F. O.)
+islaa del uruguay,1,Islaa del Uruguay
+carnelo,1,Carnelo
+elasgow,1,Elasgow
+islas plab,1,Islas plab.
+middelburgo,1,Middelburgo
+victor,1,Victor
+islas d de mayo,1,"Islas d «3 de Mayo,»"
+islas del cabo verde,1,Islas del Cabo Verde
+islas de uruguay,1,Islas de Uruguay
+ense ada,1,Ense ada
+pastland,1,Pastland
+snta fe,1,Snta Fé
+swanda,1,Swanda
+empredrado,1,Empredrado
+almini,1,Almini
+san eernando,1,San Eernando
+armini,1,Armini
+arroyo negro bs as,1,Arroyo Negro (Bs. As.)
+islas del lujan,1,Islas del Lujan
+islas d,1,Islas d
+esquiva,1,Esquiva
+p ran,1,P. ran
+prana,1,Praná
+sr geronimo,1,Sr. Geronimo
+wampoa china,1,Wampoa (China)
+islas e u,1,Islas (E. U.)
+st mary o,1,St. Mary'o
+m marys,1,M Marys
+payta,1,Payta
+alton,1,Alton
+chacho argentino,1,Chacho Argentino
+scarport,1,Scarport
+st sohnis,1,St. Sohnis
+escondido,1,Escondido
+st fe,1,St. Fé
+chaco r a,1,Chaco R. A.
+bolimare,1,Bolimare
+lanus,1,Lanus
+chanar,1,Chañar
+polonia,1,Polonia
+iina,1,Iina.
+hernosand,1,Hernosand
+santa marijs,1,Santa Marijs
+santa mary s,1,Santa Mary's
+christiana,1,Christiana
+martleport,1,Martleport
+st marijo,1,St. Marijo
+san-fernando,1,San-Fernando
+harblepool,1,Harblepool
+castellammare,1,Castellammare
+gerdiff,1,Gerdiff
+hebgo,1,Hebgo
+christcaria,1,Christcaria
+meni echor,1,Meni Echor
+s t m,1,S T. M
+meni,1,Méni
+st mays,1,"St, Mays"
+souahmpton,1,Souahmpton
+maldonado e o,1,Maldonado (E. O)
+neco castle,1,Neco Castle
+saint john s,1,Saint John's
+islas pivot,1,Islas pívot
+laislada,1,Laislada
+buideos,1,Buideos
+savonnth,1,Savonnth
+fraumuth,1,Fraumuth
+souttampton,1,Souttampton
+martin gareia,1,Martin Gareia
+chistiania,1,Chistiania
+billa vista,1,Billa Vista
+jiume,1,Jiume
+hartlepoolf,1,Hartlepoolf
+san antonio de itati,1,San Antonio de Itati
+richmon,1,Richmon
+gran bretana,1,Gran Bretaña
+sodion,1,Sodion
+francisco,1,Francisco
+firenze,1,Firenze
+sou thompton,1,Sou Thompton
+san antonio de itabaite,1,San Antonio de Itabaité
+mondeo,1,Mondeo
+saint-marys,1,Saint-Marys
+newcaltte,1,Newcaltte
+yatay,1,Yatay
+torriera,1,Torriera
+villa del occidental,1,Villa del Occidental
+islas del guazu,1,Islas del Guazú
+middlestro,1,Middlestró
+new-castte,1,New-Castte
+chrisania,1,Chrisania
+saint john s new brunswick,1,Saint John's (New Brunswick)
+islas pcot,1,Islas pcot
+villa de colon,1,Villa de Colon
+rio chuput,1,Rio Chupút
+yslas lanchon,1,Yslas Lanchon
+zorate,1,Zórate
+ajo y tuyu,1,Ajó y Tuyú
+ba yo empedrado,1,Ba Yo Empedrado
+marcella y genova,1,Marcella y Génova
+salto eo,1,Salto (EO)
+segunda,1,Segunda
+san saivodos,1,San Saivodos
+rivadavia y bermejo,1,Rivadavia y Bermejo
+san lernando,1,San Lernando
+glausgow,1,Glausgow
+fernando,1,Fernando
+masella,1,Masella
+tuyu cuter,1,Tuyú cuter
+cristiannia,1,Cristiannia
+huergo y forris,1,Huergo y Forris
+bajadero,1,Bajadero
+sewansea,1,Sewansea
+macao,1,Macao
+maca,1,Maca
+marsellas,1,Marsellas
+barasil y cuba,1,Barasil y Cuba
+martin-garcia,1,Martin-Garcia
+sau lorenzo,1,Sau Lorenzo
+memel rusia,1,Memel (Rusia)
+islas del capitan,1,Islas del Capitan
+rotterdamberg,1,Rotterdamberg
+new-castie,1,New-Castie
+islas de entre-rios,1,Islas de Entre-Ríos
+amapolis nueva escocia,1,Amápolis (Nueva Escocia)
+amapolis,1,Amapolis
+glasgouis,1,Glasgouis
+riachuelo y barracas,1,Riachuelo y Barracas
+villeta,1,Villeta
+sn lorenzo,1,Sn Lorenzo
+santa e queche,1,Santa É queche
+sauce e r,1,Sauce (E. R.)
+j martin garcia,1,J. Martin Garcia
+new-brunwicks,1,New-Brunwicks
+new brunwick,1,New Brunwick
+carnarron,1,Carnarron
+asunsion,1,Asunsion
+carnarvon,1,Carnarvon
+ria chuelo,1,Ria. chuelo
+lpool,1,Lpool
+traponi,1,Traponi
+sahave canada,1,Sahave (Canadá)
+nuca york,1,Nuca York
+villa golon,1,Villa Golon
+asuncion y curumba,1,Asuncion y Curumbà
+villa pilar y villa occidental,1,Villa Pilar y Villa Occidental
+corrientel,1,Corrientel
+islas pbot,1,Islas pbot.
+adrogue,1,Adrogué
+bella vista y santa isabel,1,Bella Vista y Santa Isabel
+memel prusia,1,Memel (Prusia)
+cuyaba y curumba,1,Cuyabá y Curumbá
+paranu,1,Paranú
+sta ee,1,Sta Eé
+chaco arjentino,1,Chaco Arjentino
+bongor,1,Bongor
+ituzaingo p c,1,Ituzaingo (P. C.)
+burcelona,1,Burcelona
+rremen,1,Rremen
+cardiffet,1,Cardiffet
+cuyaba y corumba,1,Cuyabá y Corumbá
+islas pabt nueva palmira,1,Islas pabt Nueva Palmira
+brunswk,1,Brunswk
+chastirinia,1,Chastirinia
+tavernier,1,Tavernier
+poutic,1,Poutic
+empedrado y esquina,1,Empedrado y Esquina
+islas pbot nueva palmira,1,Islas pbot Nueva Palmira
+canta fe,1,Canta Fé
+brunsweick,1,Brunsweick
+sabannach,1,Sabannach
+tuyu bea,1,Tuyú bea
+san lerenzo,1,San Lerenzo
+victeria,1,Victeria
+cavour,1,Cavour
+ita-ivate,1,Ita-Ivaté
+san fernando isola de sestro,1,San Fernando Isola de Sestro
+darien honduras,1,Darien (Honduras)
+victorja,1,Victorja
+san antonio de sanghi,1,San Antonio de Sanghi
+santa- fe,1,Santa- Fé
+rio jeiro,1,Rio Jeiro
+gualegay,1,Gualegay
+zraate,1,Zràate
+sant stephen,1,Sant Stephen
+sant mary,1,Sant Mary
+isla de s fernando,1,Isla de S. Fernando
+de las nieves,1,De las Nieves
+islas lehon,1,Islas lehon
+recuy,1,Recuy
+portrero,1,Portrero
+soansea,1,Soansea
+boulogue,1,Boulogue
+shieldoy,1,Shieldoy
+novo mercedes,1,Novo Mercedes
+cupelon,1,Cupelon
+eaquina,1,Eaquina
+st stephen,1,St. Stephen
+stettin prusia,1,Stettin [Prusia]
+itajati,1,Itajati
+l extendres,1,L	extendres
+cebu,1,Cebú
+guayeguay,1,Guayeguay
+queche estuila,1,Queche Estuila
+islas de mini,1,Islas de Mini
+sta ibate,1,Sta Ibate
+bargona,1,Bargona
+las islas bermudas,1,Las Islas Bermudas
+messna,1,Messna
+messiria,1,Messiria
+isla de lobos,1,Isla de Lobos
+barcelana,1,Barcelana
+fernanderina,1,Fernanderina
+urugnay,1,Urugnay
+rio de oro,1,Rio de Oro
+cordova,1,Córdova
+destland,1,Destland
+suansea,1,Suansea
+pisarello,1,Pisarello
+brunsewick,1,Brunsewick
+greevihe,1,Greevihe
+eequina,1,Eequina
+glasgovv,1,Glasgovv
+paranague,1,Paranagué
+itajahy brasil,1,Itajahy (Brasil)
+st jones,1,St. Jones
+tuyu pobt,1,Tuyú pobt
+san pernando,1,San Pernando
+fernandim,1,Fernandim
+bateria dolores,1,Bateria Dolores
+rchlo,1,Rchlo.
+bolla vista,1,Bolla Vista
+ituzaingo y corrientes,1,Ituzaingó y Corrientes
+bransinck,1,Bransinck
+mont,1,Mont
+a vieja carmelo,1,(A. Vieja) Carmelo
+ita,1,Ita
+china,1,China
+saigon china,1,Saigon (China)
+brunwsick,1,Brunwsick
+sontompton,1,Sontompton
+lompres,1,Lompres
+m stephen s,1,M. Stephen's
+st stephens,1,St. Stephens
+amberss,1,Amberss
+st petersburg,1,St. Petersburg
+islas de santa fe,1,Islas de Santa Fé
+groengemouth,1,Groengemouth
+percambuco,1,Percambuco
+tarrogona,1,Tarrogona
+villa del pilar y chaco argentino,1,Villa del Pilar y Chaco Argentino
+hon-kong,1,Hon-Kong
+islas de san fernando cuter magdalena,1,Islas de San Fernando Cuter Magdalena
+fredrikstards,1,Fredrikstards
+saguerray canada,1,Saguerray (Canada)
+saguenay canada,1,Saguenay (Canada)
+tullu,1,Tullú
+montereal,1,Montereal
+martiu garcia,1,Martiu Garcia
+punta de piedra,1,Punta de Piedra
+punta piedra,1,Punta Piedra
+avre,1,Avre
+rio san pedro,1,Rio San Pedro
+cabo walohuan,1,Cabo Walohuan
+dantzic,1,Dantzic
+urugunay,1,Urugunay
+ria-chuelo,1,Ria-chuelo
+nueva concepcion,1,Nueva Concepcion
+lan fernando,1,Lan Fernando
+rio san fernando,1,Río San Fernando
+villa pilar y san nicolas,1,Villa Pilar y San Nicolas
+moreno,1,Moreno
+sariano,1,Sariano
+st shirs,1,St shirs
+tuyu-gueche,1,Tuyú-gueche
+frederickstadt,1,Frederickstadt
+bella villa,1,Bella Villa
+thee rivers,1,Thee Rivers
+satillor,1,Satillor
+flensburgo,1,Flensburgo
+islas lel uruguay,1,Islas lel Uruguay
+islas do la palma,1,Islas do la Palma
+saigan,1,Saigan
+tarrascona,1,Tarrascona
+licith,1,Licith
+licsth,1,Licsth
+licth,1,Licth
+victoria y zarate,1,Victoria y Zárate
+southhampton,1,Southhampton
+comodoro,1,Comodoro
+martni garcia,1,Martni Garcia
+villa colom,1,Villa Colom
+huld,1,Huld
+guadalegnay,1,Guadalegnay
+shaldsboro,1,Shaldsboro
+rio vermejo,1,Rio Vermejo
+taba costa de patagones,1,Taba [Costa de Patagones]
+goncordia,1,Goncordia
+isles del uruguay,1,Islés del Uruguay
+leilh,1,Leilh
+oran,1,Oran
+rio victoria,1,Río Victoria
+lorea,1,Lorea
+sipansea,1,Sipansea
+boremen,1,Boremen
+rlo concordia,1,Rlo. Concordia
+st maryss,1,St. Maryss
+satillla,1,Satillla
+sante fera,1,Sante Féra
+cuchilla,1,Cuchilla
+parttond,1,Parttond
+portaamd,1,Portaamd
+montraca,1,Montraca
+new caslle,1,New Caslle
+vicioria,1,Vicioria
+noucastle,1,Noucastle
+mart n garcia,1,Martın Garcia
+baraden,1,Baraden
+chester,1,Chester
+islas de las doshermanas,1,Islas de las Doshermanas
+islas de las dos hermanas,1,Islas de las Dos Hermanas
+magala,1,Magala
+puertos alegres,1,Puertos Alegres
+swansao,1,Swansao
+ita-hati,1,Itá-Hati
+swanse,1,Swanse
+villr de colon,1,Villr de Colon
+sannavah,1,Sannavah
+islas dos hermanos,1,Islas Dos Hermanos
+carapachay,1,Carapachay
+porttovid,1,Porttovid
+glaegow,1,Glaegow
+a dicion,1,A dicion
+colonia nueva,1,Colonia Nueva
+la pal,1,La Pal
+rio lehupa,1,Rio Lehupá
+riojaneiro,1,Riojaneiro
+villa de constitucion,1,Villa de Constitucion
+rottedam,1,Rottedam
+caraville de la paz,1,Caraville de la Paz
+bas on,1,Bas.on
+bayonne,1,Bayonne
+gaston,1,Gaston
+newportt,1,Newportt
+bancelona,1,Bancelona
+choco argentino,1,Choco Argentino
+arsena de la paz,1,Arsena de la Paz
+nueva dolores,1,Nueva Dolores
+la poz,1,La Poz
+la colonia r o,1,la Colonia (R. O.)
+badaraco,1,Badaraco
+santa,1,Santa
+pica,1,Pica
+sao nicolas,1,Sao Nicolas
+cfaco argentino,1,CFaco Argentino
+bcas ajo,1,Bcas. Ajó
+pecsacola,1,Pecsacola
+islas del durazno,1,Islas del Durazno
+pensecola,1,Pensecola
+sertri de levante,1,Sertri de Levante
+rio chubut,1,Rio Chubut
+puerto-alegre,1,Puerto-Alegre
+conchillas e o,1,Conchillas [E. O.]
+sivanse,1,Sivanse
+san ferdando,1,San Ferdando
+rlo martin garcia,1,Rlo. Martin Garcia
+barracas,1,Barracas
+santa-fe y diamante,1,Santa-Fé y Diamante
+flekkford,1,Flekkford
+sinanza,1,Sinanza
+lheildsborsugh,1,Lheildsborsugh
+islas de las carabelas,1,Islas de las Carabelas
+s pedro,1,S. Pedro
+islas de carabelas,1,Islas de Carabelas
+cerrito y alto parana,1,Cerrito y alto Paraná
+san antonio paraguay,1,San Antonio (Paraguay)
+calonia,1,Calonia
+rio chaput,1,Rio Chaput
+g de rosas,1,G. de Rosas
+leitz,1,Leitz
+islas de san ferrando,1,Islas de San Ferrando
+islas de paicabi,1,Islas de Paicabi
+victoria pbat,1,Victoria pbat
+la pab,1,La Pab
+islas carabelas,1,Islas Carabelas
+manila,1,Manila
+richmand,1,Richmand
+millazo,1,Millazo
+guasu,1,Guasú
+villa humaita,1,Villa Humaitá
+del carril,1,Del Carril
+nueve york,1,Nueve York
+magdalera,1,Magdalera
+seith,1,Seith
+montarzu,1,Montarzu
+tuyu queche,1,Tuyú queche
+guantemamo,1,Guantemamo
+matin garcia,1,Matin Garcia
+pietra liguria,1,Pietra Liguria
+carmela,1,Carmela
+newportort,1,Newportort
+pait-vendres,1,Pait-Vendres
+montrede,1,Montrede
+valencio,1,Valencio
+erimsby,1,Erimsby
+aracayu,1,Aracayu
+lynn,1,Lynn
+stannach,1,Stannach
+itaty,1,Itaty
+erismby,1,Erismby
+schields,1,Schields
+necopont,1,Necopont
+poatlaed,1,Poatlaed
+rosarios,1,Rosarios
+pictou canada,1,Pictou (Canadá)
+cerdiz,1,Cérdiz
+southampon,1,Southampon
+naymouth,1,Naymouth
+berceos,1,Berceos
+glooe,1,Glooe
+nuevas york,1,Nuevas York
+pernabuco,1,Pernabuco
+viena,1,Viena
+sautampton,1,Sautampton
+glasgoso,1,Glasgoso
+louares,1,Louares
+neiocastln,1,Neiocastln
+shanthampton,1,Shanthampton
+feay-bentos,1,Feay-Bentos
+gualeguaycho,1,Gualeguaycho
+new-pert,1,New-Pert
+nueva palmida,1,Nueva Palmida
+new-casthe,1,New-Casthe
+govte,1,Govte
+nva palmira,1,Nva Palmira
+mariin garcia,1,Mariin Garcia
+sauthampton,1,Sauthampton
+neropart,1,Neropart
+neupart,1,Neupart
+neio-part,1,Neio-part
+chaput,1,Chaput
+nuw-yok,1,Nuw-Yok
+islas do san fernando,1,Islas do San Fernando
+cochillas,1,Cochillas
+asencion,1,Asencion
+harburgo,1,Harburgo
+lavannah,1,Lavannah
+hong rong,1,Hong Rong
+st-mary,1,St-Mary
+bermejo,1,Bermejo
+st masyo,1,St Masyó
+vagencka,1,Vagencka
+swausea,1,Swausea
+concorastas,1,Concorastas
+nueva colomba,1,Nueva Colomba
+nueva octavia,1,Nueva Octavia
+boglias china,1,Boglias China
+parapa,1,Parapa
+liguria,1,Liguria
+antwerp,1,Antwerp
+rincon de soto,1,Rincon de Soto
+fulminencia,1,Fulminencia
+camunila,1,Camunila
+sestri de levante,1,Sestri de Levante
+roiner,1,Roiner
+chuput,1,Chuput
+aranagna,1,Aranagná
+marzo,1,Marzo
+alfaque,1,Alfaque
+antorina,1,Antorina
+bronswich,1,Bronswich
+santa catarina,1,Santa Catarina
+st jons,1,St. Jons
+c de buena esperanza,1,C. de Buena Esperanza
+harthpool,1,Harthpool
+genov,1,Génov
+marseilla,1,Marseilla
+santa-catalina,1,Santa-Catalina
+b reslona,1,B. reslona
+columbia,1,Columbia
+new-foot,1,New-Foot
+new-pont,1,New-Pont
+goole,1,Goole
+hamburgos,1,Hamburgos
+greedock,1,Greedock
+pagones,1,Pagones
+londre,1,Lóndre
+tunderland,1,Tunderland
+rotherdam,1,Rotherdam
+anionina,1,Anionina
+carlais,1,Carlais
+quebece,1,Quebece
+moglia,1,Moglia
+monteviedo,1,Monteviedo
+pietow,1,Pietow
+guatemala,1,Guatemala
+capetorn,1,Capetorn
+uruguay oriental,1,Uruguay oriental
+british columbia,1,British Columbia
+daker,1,Daker
+baacelona,1,Baacelona
+portlandi,1,Portlandi
+ambures,1,Ambures
+nva sta candida,1,Nva Sta Cándida
+fuime de recco,1,Fuime de Recco
+isidro pbot del del parana,1,Isidro Pbot del del Parana
+rafael,1,Rafael
+oeste pbot de martin garcia,1,Oeste pbot de Martin Garcia
+del carmelo,1,del Carmelo
+santa-fo,1,Santa-Fó
+burdeos-tornquist,1,Burdeos-Tornquist
+cien fuegos,1,Cien Fuegos
+nencatte,1,Nencatte
+victoria t chata del rosario,1,Victoria T. Chata Del Rosario
+sociedad pht del parana,1,Sociedad pht del Paraná
+nueva magdalena,1,Nueva Magdalena
+serransea,1,Serransea
+antonina y paranagua,1,Antonina y Paranaguá
+porto-rico,1,Porto-Rico
+loith,1,Loith
+hielk,1,Hielk
+hambargo,1,Hambargo
+rasario,1,Rásario
+cabo de buena speranza,1,Cabo de Buena speranza
+bunward i let,1,Bunward I let
+burmard inlet,1,Burmard Inlet
+new caltse,1,New Caltse
+cafe foin,1,Cafe Foin
+nevo castle,1,Nevo Castle
+burrard inlet colombia,1,Burrard Inlet (Colombia)
+rio appa,1,Rio Appa
+cerdiff,1,Cerdiff
+n york,1,N. York
+sorel canada,1,Sorel (Canadá)
+new casttle,1,New Casttle
+ferro c de la ensenada,1,Ferro C. de la Ensenada
+snt mary,1,Snt Mary
+chicontine,1,Chicontine
+new-porth,1,New-Porth
+new parth,1,New Parth
+cedia,1,Cedía
+colonia e o,1,Colonia (E. O)
+losario,1,Losario
+carmelo ro,1,Carmelo (RO)
+b unwisck,1,B unwisck
+southamp,1,Southamp
+peirot,1,Peirot
+newporte,1,Newporte
+grewick,1,Grewick
+newpont,1,Newpont
+negro,1,Negro 1º
+chile,1,Chile
+card f,1,Card'f
+antonina brasil,1,Antonina (Brasil)
+grenwick,1,Grenwick
+geenock,1,Geenock
+marquez,1,Márquez
+hamburgs,1,Hamburgs
+piracone,1,Piracone
+valenciana,1,Valenciana
+talcahuano chile,1,Talcahuano (Chile)
+savannak,1,Savannak
+mauricius,1,Mauricius
+punta lara,1,Punta Lara
+palma de mallorca,1,Palma de Mallorca
+fownsend,1,Fownsend
+hayro,1,Hayro
+sajto,1,Sajto
+cab taje,1,CAB TAJE
+isla pequin,1,Isla Pequin
+antonino,1,Antonino
+n w castle en tyne,1,N. w Castle en Tyne
+brunsiwick,1,Brunsiwick
+villa encarnacion,1,Villa Encarnacion
+brunswiek,1,Brunswiek
+helvencia,1,Helvencia
+mantanzas,1,Mantanzas
+formoza,1,Formoza
+vinarez,1,VINAREZ
+goole inglaterra,1,Goole (Inglaterra)
+sanderland,1,Sanderland
+bruuswich,1,Bruuswich
+massone,1,Massone
+almeiria espana,1,Almeiria (España)
+congo,1,Congo
+lidney australia,1,Lidney (Australia)
+new-parts,1,New-Parts
+v,1,V
+willmigthon,1,Willmigthon
+victoria de sori,1,Victoria de Sori
+santa maria e u,1,"Santa Maria (E, U.)"
+st maris,1,St Maris
+ultrrmar,1,ULTRRMAR
+il salto di liberia,1,Il Salto di Liberia
+brigelwater,1,Brigelwater
+costa de entre rios,1,costa de Entre Rios
+nueva real trinidad,1,Nueva Real Trinidad
+ita-ibete,1,Ita-Ibete
+nueva felisa,1,Nueva Felisa
+ra-sario,1,Ra-Sario
+borcelona,1,Borcelona
+tarro,1,Tarro
+savonnah,1,Savonnah
+roa catorica,1,Roá Catorica
+buen aire,1,Buen Aire
+rio branzo,1,Rio Branzo
+senegal,1,Senegal
+ville de san nicolas,1,Ville de San Nicolás
+cabo buena esperanza,1,Cabo Buena Esperanza
+colina,1,Colina
+brausivick,1,Brausivick
+uru,1,Uru
+pensaco,1,Pensaco
+progreso,1,Progreso
+peruambuco,1,Peruambuco
+villarino,1,Villarino
+gaulegay,1,Gaulegay
+buena esperanza,1,Buena Esperanza
+hayre y burdeos,1,Hayre y Burdeos
+bahai blanca,1,Bahai Blanca
+sidilartla,1,Sidilartla
+bremonton,1,Bremonton
+robaco,1,Robaco
+abaredo de magdalena,1,Abaredo de Magdalena
+hamburge,1,Hamburge
+villa del s,1,Villa del S.
+suvas,1,Suvas
+darrien,1,Darrien
+p ilegible s,1,P[ilegible]s
+rio de la piata,1,Rio de la Piata
+romrlo,1,Romrlo
+greenacke,1,Greenacke
+cape town,1,Cape Town
+wiscassel eu,1,Wiscassel (EU)
+sta maya eu,1,Sta Maya (EU)
+middlebrough,1,Middlebrough
+catex,1,Catex
+crunswick,1,Crunswick
+barcolana,1,Barcolana
+branwick,1,Branwick
+sabanah,1,Sabanah
+brunwicn,1,Brunwicn
+barrou,1,Barrou
+sydney australia,1,Sydney (Australia)
+gremsby,1,Gremsby
+punta arena,1,Punta Arena
+gro julio,1,Gro Julio
+quebes,1,Quebes
+baranagua,1,Baranagua
+gero-castle,1,Gero-Castle
+lucerne,1,Lucerne
+santhamphu,1,Santhamphu
+manilla,1,Manilla
+la quiete,1,La Quiete
+bdra del rosario,1,Bdra del Rosario
+floar argentina,1,Floar Argentina
+leadros,1,Léadros
+austria,1,Austria
+bdra de s fe,1,Bdra de S Fé
+pcho de s fe,1,Pcho de S Fé
+pcho de victoria,1,Pcho de Victoria
+new-yor,1,New-Yor
+nueva rosa,1,Nueva Rosa
+brumwich,1,Brumwich
+ronta,1,Ronta
+san antonio pbot de concordia,1,San Antonio—Pbot de Concordia
+faros,1,Faros
+banda de ajo,1,Banda de Ajó
+aradus,1,Aradus
+virginia l stafford,1,Virginia L. Stafford
+bdra de esquina,1,Bdra de Esquina
+origen,1,Origen
+bdra de gualeguay,1,Bdra de Gualeguay
+bdra de las islas,1,Bdra de las Islas
+gta de formosa,1,Gta de Formosa
+brunsnich,1,Brunsnich
+christeaemia,1,Christeaemia
+s rita,1,S Rita
+de agosto,1,15 de Agosto
+catalina,1,Catalina
+dolores r,1,Dolores R
+bdra del uruguay,1,Bdra del Uruguay
+pbot de la magdalena,1,Pbot de la Magdalena
+nuevitas,1,Nuevitas
+villa el salto,1,Villa el Salto
+santr-fe,1,Santr-Fé
+esteva s,1,Esteva[s]
+cant a os,1,Cant[a]os
+oriz,1,Oriz
+nva teresa,1,Nva Teresa
+pensacol,1,Pensacol
+grangernauth,1,Grangernauth
+eben exer,1,Eben Exer
+pans,1,Pans
+rio caneiro,1,Rio Caneiro
+antonime,1,Antonime
+busdeos,1,Busdeos
+borton,1,Borton
+liberpool,1,Liberpool
+santa mary,1,Santa Mary
+almeira,1,Almeira
+pcho de la paz,1,Pcho de La Paz
+pcho de san lorenzo,1,Pcho de San Lorenzo
+gwle,1,Gwle
+montrevel,1,Montrevel
+german,1,German
+pbot del urugnay,1,Pbot. del Urugnay
+aten,1,Aten
+fuerza del d,1,Fuerza del D.
+puerto de m del plata,1,Puerto de M. del Plata
+cataruin,1,Cataruin
+middlesbousgt,1,Middlesbousgt
+souderland,1,Souderland
+carhue,1,Carhué
+s del tibero,1,S. del Tibero
+villa ocampo,1,Villa Ocampo
+gyarrus,1,Gyarrus
+p de napoli bdra,1,P.de Napoli Bdra
+esperanza pcho de colon,1,Esperanza Pcho de Colon
+kesmarks,1,Kesmarks
+pampa,1,Pampa
+newyork,1,NewYork
+cincinnati,1,Cincinnati
+lobo,1,Lobo
+guayu,1,Guayú
+p de solis,1,P. de Solis
+chante,1,Chante
+gironde,1,Gironde
+genotava,1,Génotava
+rio san salvador,1,Rio San Salvador
+new cartle,1,New Cartle
+liverool,1,Liverool
+basle,1,Basle
+washington,1,Washington
+almeria,1,Almeria
+hatlepool,1,Hatlepool
+delambre,1,Delambre
+brunawich,1,Brunawich
+gloncester,1,Gloncester
+burrard jules canada,1,Burrard Jules (Canadá)
+hadtlefool,1,Hadtlefool
+punta del mesco,1,Punta del Mesco
+el empedrado,1,El Empedrado
+prranagua,1,Prranaguá
+glocester,1,Glocester
+middlesbroug,1,Middlesbroug
+darien brunswich,1,Darien (Brunswich)
+caidiff,1,Caidiff
+louthampton,1,Louthampton
+marsal,1,Marsal
+christianshaun,1,Christianshaun
+marsello,1,Marsello
+liverpohl,1,Liverpohl
+new castile,1,New Castile
+new-castlo,1,New-Castlo
+castle,1,Castle
+toronsend e-u,1,Toronsend (E-U)
+brnswick,1,Brnswick
+fortand,1,Fortand
+paranruua,1,Paranruuá
+gangemarth,1,Gangemarth
+manella,1,Manella
+w castle,1,w Castle
+gorumba,1,Gorumbá
+stanley canada,1,Stanley (Canadá)
+sadannah,1,Sadannah
+augusta sicilia,1,Augusta (Sicilia)
+nord america,1,Nord América
+southamnton,1,Southamnton
+brudswick,1,Brudswick
+hambre,1,Hambre
+calieri,1,Calieri
+rosorio,1,Rosorio
+londros,1,Londros
+santa-fa,1,Santa-Fá
+belgrano,1,Belgrano
+now-castle,1,Now-Castle
+marsalla,1,Marsalla
+gewport,1,Gewport
+neworleans,1,NewOrleans
+grinwby,1,Grinwby
+greeneck,1,Greeneck
+liverpost,1,Liverpost
+glasgo,1,Glasgo
+sault canada,1,Sault (Canadá)
+gangremsuth,1,Gangremsuth
+morsella,1,Morsella
+chicoutini e u,1,Chicoutini (E. U)
+rosse,1,Rosse
+zeante,1,Zéante
+rew-york,1,Rew-York
+glancester,1,Glancester
+port-and,1,Port-and
+paramagua,1,Paramaguá
+gelfe,1,Gelfe
+gelie,1,Gelie
+now castle,1,Now Castle
+eincomb,1,Eincomb
+sivamea,1,Sivamea
+hubbards cove,1,Hubbards Cove
+w cardiff,1,W. Cardiff
+now york,1,Now York
+suamea,1,Suamea
+new yorke,1,New Yorke
+pescagonla,1,Pescagonla
+now-port,1,Now-Port
+de cette,1,DE CETTE
+leits,1,Leits
+chintiamia,1,Chintiamia
+aortland,1,Aortland
+fascagoula,1,Fascagoula
+grangemonth,1,Grangemonth
+chistiamira,1,Chistiamira
+beltenden,1,Beltenden
+villa del sallo,1,Villa del Sallo
+st etienne canada,1,St. Etienne (Canada)
+men-castle,1,men-castle
+rangow,1,Rangow
+selle,1,Selle
+werterwick,1,Werterwick
+saint-etienne canada,1,Saint-Etienne (Canadá)
+raugoon,1,Raugoon
+harbados,1,Harbados
+horse,1,Horse
+cardiz,1,Cardiz
+holl,1,Holl
+lissabon,1,Lissábon
+kiel,1,Kiel
+mustre,1,Mustre
+westerwick,1,Westerwick
+girou,1,Girou
+trejednica,1,Trejednica
+nassalle,1,Nassalle
+gomgremorth,1,Gomgremorth
+stamboul,1,Stamboul
+campbelton,1,Campbelton
+rio-grande,1,Rio-Grande
+brunvick,1,Brunvick
+de genova,1,DE GENOVA
+carrara,1,Carrara
+roma,1,Roma
+pascaguala,1,Pascaguala
+porsland,1,Porsland
+liban,1,Liban
+isla de luzon,1,Isla de Luzon
+kunderland,1,Kunderland
+pascagowla,1,Pascagowla
+san tomas,1,San Tomás
+gotinburgo,1,Gotinburgo
+livorn canada,1,Livorn (Canadá)
+ulmatrar,1,ULMATRAR
+matapan,1,Matapan
+willmington,1,Willmington
+livorna,1,Livorna
+n america,1,N. América
+ameberes,1,Ameberes
+westhartlpool,1,Westhartlpool
+de havre,1,de Havre
+nempot,1,Nempot
+weymouth,1,Weymouth
+gretnock,1,Gretnock
+yarmasth,1,Yarmasth
+liorno,1,Liorno
+chandernagor,1,Chandernagor
+shieldsborough,1,Shieldsborough
+miedlesbrough,1,Miedlesbrough
+bostrn,1,Bostrn
+sbidlds,1,Sbidlds
+paranafua,1,Paranafuá
+fondres,1,Fondres
+s francisco,1,S. Francisco
+amberet,1,Amberet
+boeton,1,Boeton
+venezia,1,Venezia
+newoort,1,Newoort
+merrina,1,Merrina
+tondres,1,Tondres
+formouth,1,Formouth
+now-york,1,Now-York
+new-orleans,1,New-Orleans
+greenwich,1,Greenwich
+stocktolm,1,Stocktolm
+straits of belle isle,1,Straits of Belle Isle
+odessa,1,Odessa
+montreai,1,Montreai
+rangon,1,Rangon
+paranahua,1,Paranahuá
+curitiba,1,Curitiba
+nesoport,1,Nesoport
+new carth,1,New Carth
+paranogua,1,Paranogua
+cotaluna,1,Cotaluña
+luders,1,Luders
+lowrig,1,Lowrig
+gutemburgo,1,Gutemburgo
+puscagoula,1,Puscagoula
+gargrenoth,1,Gargrenoth
+larrig,1,Larrig
+e unidos,1,E. Unidos
+towsen,1,Towsen
+amheres,1,Amheres
+st nazaire,1,St Nazaire
+st george,1,St George
+brinswick,1,Brinswick
+junank,1,Junank
+midlerbis,1,Midlerbis
+hartlepopl,1,Hartlepópl
+nueva scotia,1,Nueva Scotia
+hawre,1,Hawre
+queenock,1,Queenock
+glasgouw,1,Glasgouw
+paseogonla,1,Paseogonla
+cardoff,1,Cardoff
+paramata,1,Paramata
+grangemontt,1,Grangemontt
+harslepool,1,Harslepool
+rottendan,1,Rottendan
+helsington,1,Helsington
+noorkoping,1,Noorkoping
+loudres,1,Loudres
+friediskostad,1,Friediskostad
+parnnagua,1,Parnnaguá
+sarannat,1,Sarannat
+friedrisktad,1,Friedrisktad
+midlesbro,1,Midlesbró
+jarmonth,1,Jarmonth
+bremed,1,Bremed
+gotemburg,1,Gótemburg
+geffle,1,Geffle
+campana y zarate,1,Campana y Zárate
+s geronimo,1,S. Gerónimo
+islas san isidro,1,Islas San Isidro
+new clastle,1,New Clastle
+lerth,1,Lerth
+magdalena cerro,1,Magdalena Cerro
+santa fe y parana,1,Santa Fé y Paraná
+saramah,1,Saramah
+sothemburgo,1,Sothemburgo
+la paza mania,1,La Paza Mania
+zarate y campana,1,Zarate y Campana
+santa fe y rosario,1,Santa Fé y Rosario
+colodia,1,Colodia
+gotenburgo,1,Gotenburgo
+v de pilar,1,V. de Pilar
+panara,1,Panará
+pascagouta,1,Pascagouta
+glefe,1,Glefe
+new claste,1,New Claste
+porland,1,Porland
+montevicio,1,Montevicio
+cap town,1,Cap Town
+cardiif,1,Cardiif
+agar,1,Agar
+frias y g,1,Frias y G
+amberes y londres,1,Amberes y Londres
+chabut,1,Chabut
+santo,1,Santo
+lahusen ca,1,Lahusen Ca.
+matane hay canada,1,Matane Hay (Canadá)
+premen y amberes,1,Prémen y Amberes
+mesina,1,Mesina
+newfort,1,Newfort
+s genonimo,1,S. Genónimo
+londres-mieres,1,Londres-Mieres
+tarando,1,Tarando
+afalachicola,1,Afalachicola
+de coruna,1,De Coruña
+cal,1,Cal.
+conchillas b o,1,Conchillas (B. O.)
+puerto bermejo,1,Puerto Bermejo
+bremen y amberes,1,Brémen y Amberes
+quequea,1,Quequea
+chatam,1,Chatam
+bretnen,1,Bretnen
+belixi e u,1,Belixi (E. U.)
+constellano,1,Constellano
+beloxi,1,Beloxi
+belfart,1,Belfart
+newfodt,1,Newfodt
+v pilar,1,V. Pilar
+biloxi e u,1,Biloxi (E. U.)
+flare,1,flare
+colonia r o,1,Colonia (R. O.)
+belixi,1,Belixi
+villa,1,Villa
+barranqueras,1,Barranqueras
+pasaje,1,Pasaje
+womouth,1,Womouth
+grinsbay,1,Grinsbay
+humayta,1,Humaytá
+salto r o,1,Salto (R. O.)
+setrebal,1,Setrebal
+barletto,1,Barletto
+banco londres,1,Banco Londres
+dajas,1,Dajas
+chicomtini,1,Chicomtini
+bridgemater,1,Bridgemater
+savanaad,1,Savanaad
+canarias,1,Canarias
+guanleguay,1,Guanleguay
+isla de navarino,1,Isla de Navarino
+oregon,1,Oregon
+yannouth,1,Yannouth
+st yohn,1,St. Yohn
+barletta,1,Barletta
+canal norte,1,canal Norte
+genova y el brasil,1,Génova y el Brasil
+manchester y liverpool,1,Manchester y Liverpool
+lorenzo marquez,1,Lorenzo Marquez
+puerto madero,1,Puerto Madero
+glasgow y liverpool,1,Glasgow y Liverpool
+new port new s,1,New port New's
+sidney,1,Sidney
+sauce r o,1,Sauce (R. O.)
+ciudad del cabo,1,ciudad del Cabo
+albany,1,Albany
+san pablo de loanda,1,San Pablo de Loanda
+curtiembre,1,Curtiembre
+banco chico,1,Banco Chico
+port stanley malvinas,1,Port Stanley (Malvinas)
+norfolk virginia,1,Norfolk (Virginia)
+dique de o,1,dique 3 de O.
+dique seco,1,dique seco
+mares del sur,1,mares del Sur
+new-y,1,New-y
+bunbury,1,Bunbury
+san francisco do sur,1,San Francisco do Sur
+lota,1,Lota
+gottenborg,1,Gottenborg
+bonny,1,Bonny
+colastine en el riachuelo,1,Colastiné en el Riachuelo
+sea bear bay,1,Sea Bear Bay
+rio do janeiro,1,Río do Janeiro
+punta indio,1,Punta Indio
+port blakely,1,Port Blakely
+port stanley,1,Port Stanley
+polo sur,1,Polo Sur
+bermudas,1,Bermudas
+gutport,1,Gutport
+isla fernandina,1,Isla Fernandina
+parahyba,1,Parahyba
+elsinore,1,Elsinore
+cclastine,1,Cclastiné
+cabo bianco,1,Cabo Bianco
+boulogne-sur-mer,1,Boulogne-sur-mer
+puertos del sud,1,puertos del Sud
+san julian,1,San Julián
+luderitzlucht,1,Luderitzlucht
+iguape,1,Iguapé
+cordoba,1,Córdoba
+costa sur,1,costa Sur
+stokolmo,1,Stokolmo
+angra pequena,1,Angra Pequeña
+luderitzbucht,1,Luderitzbucht
+puerto borgh,1,Puerto Borgh
+swakopmund,1,Swakopmund
+calenta,1,Calenta
+salffort,1,Salffort
+oriente,1,Oriente
+genona,1,Génona
+puerto georgia,1,Puerto Georgia
+puertos de lsur,1,puertos de lSur
+cerona,1,Cérona
+burnstisland,1,Burnstisland
+novorossisk,1,Novorossisk
+puerto sauce,1,Puerto Sauce
+batry,1,Batry
+ros,1,Ros
+islas orcadas,1,Islas Orcadas
+flarianopolis,1,Flarianópolis
+puerto ester,1,Puerto Ester
+florenopolis,1,Florenópolis
+maryport,1,Maryport
+manyport,1,Manyport
+saranagua,1,Saranaguá
+exterior,1,exterior
+helsingfors,1,Helsingfors
+middleborough,1,Middleborough
+niddlesborough,1,Niddlesborough
+edinburg,1,Edinburg
+blachuelo,1,Blachuelo
+budeos,1,Budeos
+dock sur,1,dock Sur
+isla ascension,1,Isla Ascensión
+fredriksjalds,1,Fredriksjalds
+burntinsland,1,Burntinsland
+pacifico,1,Pacífico
+banco ingles,1,Banco Inglés
+lysekil grecia,1,Lysekil (Grecia)
+eureka,1,Eureka
+florionopolis,1,Florionópolis
+la nuda,1,la nuda
+santiago de mari,1,Santiago de Mari
+fredrickshald,1,Fredrickshald
+la palice,1,La Palice
+tutoya,1,Tutoya
+st andrews,1,St. Andrews
+malnio,1,Malnio
+gafle,1,Gafle
+ushuala,1,Ushuala
+tacoma,1,Tacoma
+delaware,1,Delaware
+ancona,1,Ancona
+maranhao,1,Maranhao
+middlesbough,1,Middlesbough
+isle of jura,1,Isle of Jura
+frederik stad,1,Frederik Stad
+guthenburgo,1,Guthenburgo
+towey,1,Towey
+la paloma,1,La Paloma
+noruega,1,Noruega
+lysekil,1,Lysekil
+itapahy,1,Itapahy
+stromstad,1,Stromstad
+fredrickshalds,1,Fredrickshalds
+estockolmo,1,Estockolmo
+san-pedro,1,San-Pedro
+texas,1,Texas
+gavle,1,Gävle
+watermouth,1,Watermouth
+pireo,1,Pireo
+itapahi,1,Itapahí
+clyde,1,Clyde
+malta,1,Malta
+mexico,1,México
+bombay,1,Bombay
+sabine pass,1,Sabine Pass
+aarkus,1,Aarkus
+cayena,1,Cayena
+aarhus,1,Aarhus

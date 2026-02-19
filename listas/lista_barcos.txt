@@ -1,0 +1,293 @@
+ALLEGE:
+   - allege
+AVISO:
+   - aviso
+BALANCELLE:
+   - balancelle
+   - bal
+BALANDRA:
+   - balandra
+   - balandro
+   - bal.a
+   - bal.o
+   - bal.
+   - baland.
+   - balandre
+BALLENERA:
+   - ballenera
+BARCA:
+   - barca
+   - barke
+   - bk.
+   - bark
+   - bca.
+   - barque
+   - bk
+BARCA POLACRA:
+   - barca polacra
+BÂTEAU:
+   - bateau
+   - bat
+   - bat.
+   - batean
+  * - bateo
+  * - batel (és francés)
+  * - batelo (es francés)
+BERGANTIN:
+   - bergantín
+   - bgn
+   - berg.
+   - brigantine
+   - bg.
+   - ber.
+   - brg.
+   - brick
+   - brig
+   - br
+BERGANTIN-BARCA:
+   - bergantín-barca
+   - b.n-barca
+   - brick-barca
+   - brik-barca
+BERGANTIN-CORBETA:
+   - bergantín-corbeta
+   - bk-goélette
+   - bk-gtte
+   - bark-g
+   - bk-g
+   - bk-goel
+   - bk-goël
+BERGANTIN-GOLETA:
+   - bergantín-goleta
+   - bergantín goleta
+   - bn goleta
+   - b.n-goleta
+   - b.gt.a
+   - berg.gol.
+   - berg gta
+   - brick-goélette
+   - br.-goelette
+   - br-goel
+   - br.-g
+BOMBARDA:
+   - bombarda
+   - bombarde
+   - bom
+   - bomb
+BOTE:
+   - bote
+BUQUE:
+  * - buque
+CANDRAY:
+   - candray
+CHALANA:
+   - chalana
+   - chalan
+   - chal
+CHALOUPE:
+   - chaloupe
+CHASSE-MARÉE:
+   - chasse-marée
+   - ch.m
+   - ch.-m
+   - ch.mar
+   - ch.-mar
+   - ch.-marée
+   - char.-m
+   - chas-mar
+   - chass.-m
+   - chass.-mar
+   - chasse-mar
+   - chasse-marrée
+   - chass-m
+CAÑONERO:
+   -cañonero
+CARABELA:
+   -carabela
+CORBETA:
+   - corbeta
+   - corb.a
+   - corvette
+   - barque
+   - bk
+CUTER:
+   - cuter
+   - cutter
+   - cut
+   - cutt
+   - cuttere
+DOGRE:
+   - dogre
+   - dog
+FALUCHO:
+   - falucho
+FRAGATA:
+   - fragata
+   - frag.
+   - frégate
+   - frég
+GABARRA:
+   - gabarra
+   - gabar
+   - gabarre
+GALEASSE:
+   - galeasse
+  * - galeas (son naves holandesas, hannoverians o danesas, con carbon de piedra)
+GALIOTE:
+   - galiote
+   - galiole
+   - galiothe
+   - galiotte
+GARANDUMBA:
+   - garandumba
+GOLETA:
+   - goleta
+   - gol.
+   - gol.a
+   - gt.a
+   - gta.
+   - gol
+   - gl.
+   - goélette
+   - goel
+   - schooner
+   - sch.
+   - s.
+GUAIRO:
+   - guairo
+GUADAÑO:
+   - guadaño
+JABEQUE:
+   - jabeque
+   - javeque
+   - jabeq
+   - chebeck
+   - cheb
+   - chebeek
+LANCHA:
+   - lancha
+LANCHON
+   - lanchon
+   - lanchón
+LAUD:
+   - laud
+LORCHA:
+   - lorcha
+LUGRE:
+   - lugre
+   - lugger
+   - lougre
+MISTICO:
+   - místico
+   - mist.
+MISTICO-GOLETA:
+  *- mistico goleta
+   - místico-goleta
+   - mistick
+   - mistik
+   - mist
+NAVIRE:
+   - navire
+   - nav
+PAILEBOT:
+   - pailebot
+   - pailevot
+   - pailebote
+   - pail.
+   - pail.bot
+   - pbot
+   - pilot bout
+PAILEBOT-GOLETA:
+   - pailebot-goleta
+PANCO:
+   - panco
+PATACHE:
+   - patache
+   - pat
+   - patacho
+PAQUETE:
+   - paquete
+   - paquete vapor
+   - packed
+PACKED SCHOONER:
+   - packed schooner
+PINQUE:
+   - pinque
+   - pinquo
+POLACRA:
+   - polacra
+   - pol.
+   - pol.a
+   - polacre
+POLACRA GOLETA:
+   - polacra goleta
+   - polacra-goleta
+   - pol. gol.
+   - pol.-gol.
+   - p.a-goleta
+   - p.gta
+PONTIN:
+   - pontin
+QUECHE:
+   - queche
+   - quech
+QUECHEMARIN:
+   - quechemarin
+REMOLCADOR:
+   - remolcador
+   - remorqueur
+   - rem
+   - rém
+   - remorq
+SHIP:
+   - ship
+   - sp.
+TARTANA:
+   - tartana
+   - tartane
+   - tart
+TRABAC:
+   - trabac
+   - trab
+TRANSPORTE:
+   -transporte
+TROIS-MÂTS:
+   - trois-mâts
+   - 3-mâts
+   - tr.-mâts
+TROIS-MÂTS-GOÉLETTE:
+   - trois-mâts-goélette
+   - tr.-m.-goélette
+   - tr.-m.-g
+   - tr.-m.goel
+   - tr.-m.-goél
+   - tr.-m.-goël
+   - tr.-m.tgoel
+   - tr.-m-g
+VAPOR:
+   - vapor
+   - vp
+   - v
+   - vap.
+   - vp.
+   - vapor paquete
+   - vapeur
+   - vapeur-poste
+   - steam packed
+VAPOR-CORREO:
+   - vapor-correo
+VAPOR-GOLETA:
+   - vapor-goleta
+VIVERO:
+   - vivero
+   - viv.
+   - viver
+YACHT:
+   - yacht
+   - yach
+   - yachte
+   - yate
+ZUMACA:
+   -zumaca
+   -sumaca
+   -zum.

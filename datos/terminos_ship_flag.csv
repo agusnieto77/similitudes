@@ -1,0 +1,845 @@
+﻿termino_normalizado,frecuencia,ejemplo_original
+ingles,28247,ingles
+nacional,14921,nacional
+frances,6933,frances
+inglesa,6153,inglesa
+oriental,5379,Oriental
+aleman,5154,alemán
+italiano,4924,italiano
+italiana,4155,italiana
+espanol,3364,español
+noruega,2995,noruega
+francesa,2848,Francesa
+argentino,2770,Argentino
+americana,2547,Americana
+espanola,2232,española
+holandes,1754,holandés
+brasilero,1674,brasilero
+americano,1461,americano
+alemana,1217,alemana
+noruego,680,noruego
+holandesa,603,holandesa
+belga,586,belga
+danes,560,Danes
+brasileno,525,brasileño
+sueco,500,sueco
+sueca,496,sueca
+austriaco,489,austriaco
+sardo,398,Sardo
+sarda,389,sarda
+ing,362,ing.
+austriaca,343,austriaca
+brasilera,339,brasilera
+hamburgues,260,hamburgues
+paraguayo,260,paraguayo
+danesa,258,danesa
+nac,248,nac.
+portugues,239,portugues
+hamburguesa,206,hamburguesa
+bremense,204,bremense
+oriental nacional,189,oriental nacional
+ital,170,ital
+franc,166,franc.
+prusiano,157,prusiano
+prusiana,155,prusiana
+rusa,155,rusa
+entreriana,140,entreriana
+correntina,132,correntina
+dinamarques,130,dinamarques
+santafecina,126,santafecina
+uruguayo,124,uruguayo
+hanoveriano,122,hanoveriano
+ingles nacional,117,Ingles Nacional
+esp,115,esp.
+bonaerense,112,bonaerense
+argentina,110,argentina
+griego,110,griego
+nacl,96,nacl
+portuguesa,91,portuguesa
+hanoveriana,90,hanoveriana
+oriental ingles,90,oriental inglés
+norteamericano,90,norteamericano
+ingleses,81,ingleses
+entreriano,73,entreriano
+brazilero,72,brazilero
+brasileiro,71,brasileiro
+ruso,70,ruso
+correntino,67,correntino
+orient,61,orient
+norteamericana,56,norteamericana
+dinamarquesa,55,dinamarquesa
+santafecino,54,santafecino
+oldemburgues,53,oldemburgués
+alem,50,alem
+norte-americana,45,norte-americana
+norte-americano,43,norte-americano
+oriental frances,42,oriental francés
+noruegas,42,noruegas
+estado de buenos aires,38,Estado de Buenos Aires
+s m b,35,S. M. B.
+uruguay,33,Uruguay
+americ,30,americ.
+nacional del uruguay,28,nacional del Uruguay
+holandez,24,holandez
+entrerriana,23,entrerriana
+oldemburguesa,23,oldemburguesa
+chileno,23,chileno
+oriental brasilero,22,oriental brasilero
+holand,21,holand.
+paraguaya,20,paraguaya
+griega,20,griega
+nacional de uruguay,19,nacional de Uruguay
+fran,18,fran.
+bdra,18,Bdra.
+ita,18,ita
+hamburgo,17,hamburgo
+holsteines,17,holsteines
+frances nacional,17,francés nacional
+argentinos,17,argentinos
+mecklemburgues,16,mecklemburgues
+ingles oriental,16,inglés oriental
+italianos,16,italianos
+alemanes,15,alemanes
+napolitano,14,napolitano
+uruguaya,14,uruguaya
+lubequesa,14,lubequesa
+brasilena,14,brasileña
+amer,13,amer.
+libre,13,libre
+aleman de hamburgo,13,alemán de Hamburgo
+chilena,12,chilena
+britanica,12,británica
+entrerriano,12,entrerriano
+napolitana,12,napolitana
+portuguez,12,portuguez
+santafesina,12,santafesina
+oriental italiano,12,oriental italiano
+del estado de buenos aires,11,del Estado de Buenos Aires
+mecklemburguesa,11,Mecklemburguesa
+nacional ingles,11,nacional ingles
+de s m b,10,de S. M. B.
+brazilera,10,brazilera
+oriental del uruguay,10,oriental del Uruguay
+toscana,9,toscana
+del uruguay,9,del Uruguay
+aleman de bremen,9,aleman de Bremen
+britanico,8,Británico
+toscano,8,toscano
+yngles,7,Yngles
+dinamarquez,7,Dinamarquez
+romano,7,romano
+hamburguez,7,hamburguez
+pn,7,pn.
+it,7,it
+nacional oriental,7,nacional oriental
+italiano nacional,7,italiano nacional
+noruega de brunswick,7,noruega de Brunswick
+lubeques,6,lubeques
+nacionales,6,nacionales
+estado oriental,6,Estado Oriental
+ingles brasilero,6,inglés brasilero
+italia,6,italia
+oriental ingles nacional,6,oriental inglés nacional
+aust,6,aust
+italiana de cadiz,6,italiana de Cadiz
+ingl,5,ingl
+u,5,u.
+norte americano,5,Norte Americano
+norte americana,5,norte americana
+brasil,5,brasil
+hamburquesa,5,hamburquesa
+entre-riana,5,entre-riana
+de las islas,5,de las Islas
+del estado,5,del Estado
+america,5,america
+italianas,5,italianas
+na,5,na.
+nueva,5,nueva
+iugles,5,iugles
+italiano brasilero,5,italiano brasilero
+frances oriental,5,francés oriental
+helvecia,5,Helvecia
+nc,5,nc
+n,4,n.
+holstein,4,holstein
+ynglesa,4,Ynglesa
+meklemburguesa,4,meklemburguesa
+anoveriano,4,anoveriano
+hamburgoes,4,hamburgoes
+bras,4,bras.
+zueca,4,zueca
+bolandes,4,bolandes
+italo,4,italo
+oriental americano,4,oriental americano
+italian,4,italian
+ingles italiano,4,inglés italiano
+oriental nac,4,oriental nac.
+pat,4,pat
+itl,4,itl
+ingle,4,inglé
+frances brasilero,4,francés brasilero
+bdra de las islas,4,Bdra de las Islas
+inglesa de canada,4,inglesa de Canadá
+americana de boston,4,americana de Boston
+de la legacion de los estados unidos de norte america,3,de la Legacion de los Estados Unidos de Norte América
+amburgues,3,amburgues
+islas,3,Islas
+cupalen,3,Cupalen
+hamburgois,3,hamburgois
+burgues,3,burgués
+hambur-guesa,3,hambur-guesa
+brazileno,3,brazileño
+franco,3,Franco
+paraguay,3,paraguay
+panola,3,pañola
+brasilers,3,brasilers
+brasileira,3,brasileira
+holandese,3,holandese
+bremese,3,bremese
+suecos,3,suecos
+brasilenos,3,brasileños
+holsteinesa,3,holsteinesa
+americano ingles,3,americano inglés
+ingles americano,3,inglés americano
+inglesas,3,inglesas
+francese,3,francese
+italiana francesa,3,italiana francesa
+italiana sueca,3,italiana sueca
+holande,3,holande
+italiano oriental,3,italiano oriental
+nal,3,nal
+austro-hungaro,3,austro-húngaro
+austro-hungara,3,austro-hungara
+am,3,am.
+espanol nacional,3,español nacional
+oriental aleman,3,oriental alemán
+italiano de genova,3,italiano de Gènova
+italiana de genova,3,italiana de Génova
+alemana de brunswick,3,alemana de Brunswick
+italiana de cardiff,3,italiana de Cardiff
+sueca de canada,3,sueca de Canadá
+santa fe,3,Santa Fé
+mexicano,3,mexicano
+hungaro,3,húngaro
+dalmata,3,dalmata
+rumano,3,rumano
+extrangero,2,extrangero
+santa-fecina,2,santa-fecina
+surdo,2,surdo
+holdemburgues,2,holdemburgues
+b,2,B.
+norte-america,2,Norte-América
+e u de norte-america,2,E. U. de Norte-América
+franqui,2,franqui
+hannoveriano,2,hannoveriano
+france,2,france
+oldemburguez,2,oldemburguez
+hambur-guez,2,hambur-guez
+espanoles,2,españoles
+lubeguesa,2,lubeguesa
+sarde,2,sarde
+espanolas,2,españolas
+bonacrense,2,bonacrense
+jerusalemitana,2,jerusalemitana
+holondes,2,holondes
+suiza,2,suiza
+orienta,2,orienta
+bamburgues,2,bamburgues
+ganoveriano,2,ganoveriano
+de guerra,2,de guerra
+e u,2,E. U.
+anoveriana,2,anoveriana
+hamburgesa,2,hamburgesa
+hamburgueses,2,hamburgueses
+bremence,2,bremence
+ingleso,2,ingleso
+lamburguesa,2,Lamburguesa
+arjentino,2,arjentino
+oldenburguesa,2,oldenburguesa
+brilero,2,brilero
+polaca italiana,2,polaca italiana
+bremensa,2,bremensa
+prusia,2,prusia
+americano oriental,2,americano oriental
+donesa,2,donesa
+americano nacional,2,americano nacional
+nor,2,nor.
+naliano,2,Naliano
+holandeza,2,holandeza
+nacional brasilero,2,nacional brasilero
+uruguay nacional,2,Uruguay nacional
+espan,2,españ
+norruego,2,norruego
+anglo americana,2,anglo americana
+italiana inglesa,2,italiana inglesa
+holandesa inglesa,2,holandesa inglesa
+nat,2,nat
+hol,2,hol.
+brasilerio,2,brasilerio
+nacido,2,nacido
+italn,2,italn
+italiano frances,2,italiano francés
+americana oriental,2,americana oriental
+colombiano,2,colombiano
+frac,2,frac
+frances noruego,2,francés noruego
+nacional frances,2,nacional frances
+frances ingles,2,francés ingles
+alema,2,alema
+nocional,2,nocional
+ingles brazilero,2,inglés brazilero
+argentinas,2,Argentinas
+del diamante,2,del Diamante
+oriental brazilero,2,oriental brazilero
+barcelona,2,Barcelona
+del parana,2,del Paraná
+de colon,2,de Colon
+ingles aleman,2,inglés alemán
+italiana alemana,2,italiana alemana
+pac,2,pac
+nac de uruguay,2,nac de Uruguay
+victoria,2,Victoria
+nomega,2,nomega
+americana de portland,2,americana de Portland
+americana de canada,2,americana de Canadá
+espanola de barcelona,2,española de Barcelona
+americana de pensacola,2,americana de Pensacola
+patagonia,2,Patagonia
+americana de new york,2,americana de New York
+noruega de canada,2,noruega de Canadà
+string,2,string
+italiana y norteamericana,2,italiana y norteamericana
+noruega italiana,2,"noruega, italiana"
+moruega,2,moruega
+noruega e italiana,2,noruega e italiana
+ingles y espanol,2,inglés y español
+noruego ingles,2,noruego inglés
+sueco ingles,2,sueco inglés
+frances holandes,2,francés holandés
+extranger,1,extranger
+extranjero,1,extranjero
+sintafecino,1,sintafecino
+bracense,1,bracense
+r,1,r.
+sard,1,sard.
+nanoveriana,1,nanoveriana
+de s m,1,de S. M.
+santaferina,1,santaferina
+santa-fecino,1,santa-fecino
+brasiro,1,Brasiro
+ytalia,1,Ytalia
+n americana,1,N. americana
+brasilero de guerra,1,brasilero de guerra
+montevideana,1,Montevideana
+labequesa,1,labequesa
+estados unidos de n a,1,Estados Unidos de N. A.
+correo maritimo de s m b,1,correo Marítimo de S. M. B.
+de los e u de norte america,1,de los E. U. de Norte América
+de los estados unidos de norte america,1,de los Estados Unidos de Norte América
+norte america,1,Norte América
+de la legacion de los e unidos de norte america,1,de la Legacion de los E. Unidos de Norte América
+estados unidos de norte america,1,Estados Unidos de Norte América
+e u de norte america,1,E. U. de Norte América
+correo maritimo de la legacion de los estados unidos de norte america,1,Correo Marítimo de la Legacion de los Estados Unidos de Norte América
+correo maritimo de la legacion de los estados unidos de norte-america,1,Correo Marítimo de la Legacion de los Estados Unidos de Norte-América
+de la legacion de los e u de norte-america,1,de la Legacion de los E. U. de Norte-América
+mklenburgeza,1,Mklenburgeza
+de la legacion de los estados unidos de norte-america,1,de la Legacion de los Estados Unidos de Norte-América
+nacionai,1,nacionai
+hamburg,1,hamburg
+entre riano,1,entre riano
+sardo brasilero,1,sardo Brasilero
+provincia mayo,1,Provincia Mayo
+bremesa,1,bremesa
+rio uruguay,1,Rio Uruguay
+provincia de julio,1,Provincia 9 de Julio
+francesu,1,francesu
+de esta provincia,1,de esta Provincia
+sisiliana,1,sisiliana
+provincia,1,Provincia
+provincia buenos aires,1,Provincia Buenos Aires
+provincia maypu y santa clara,1,Provincia Maypú y Santa Clara
+brasilsro,1,brasilsro
+provincia santa clara,1,Provincia Santa Clara
+lubequeza,1,lubequeza
+ohalana,1,ohalana
+jerosolimitana,1,jerosolimitana
+hamburgueza,1,hamburgueza
+entre-rina,1,entre-rina
+estados-unidos,1,Estados-Unidos
+guadano,1,Guadaño
+succo,1,succo
+estado de buenos ayres,1,Estado de Buenos Ayres
+entre-riano,1,entre-riano
+mocklemburguesa,1,mocklemburguesa
+hambarguesa,1,hambarguesa
+ingless,1,ingless
+copanola,1,copañola
+corentina,1,corentina
+de estado de buenos aires,1,de Estado de Buenos Aires
+brasliero,1,brasliero
+brasileco,1,brasileco
+canadiense,1,canadiense
+del estado de buenos ayres,1,del Estado de Buenos Ayres
+bremens,1,bremens
+polaca espanola,1,polaca española
+mejicana,1,mejicana
+lubequese,1,lubequese
+bonarense,1,bonarense
+peatugues,1,peatugues
+crasilera,1,crasilera
+brasiler,1,brasiler
+darres,1,darres
+brazileira,1,brazileira
+del estado buenos aires,1,del Estado Buenos Aires
+mecklembinquese,1,Mecklembinquese
+siciliano,1,siciliano
+romana,1,romana
+autriaca,1,autríaca
+oldemburgnes,1,Oldemburgnes
+bremente,1,bremente
+saudo,1,saudo
+fria,1,fría
+amoa,1,amoa.
+breme,1,breme.
+concordia,1,Concordia
+daneses,1,daneses
+sardada,1,sardada
+sarca,1,sarca
+brso,1,brso.
+hambur gues,1,hambur gues
+vives,1,vives
+brasildro,1,brasildro
+ingls,1,ingls
+haburguesa,1,haburguesa
+pailebot,1,pailebot
+oidemburguesa,1,oidemburguesa
+bega,1,bega
+del interior del rio,1,del Interior del Rio
+rusiana,1,rusiana
+norveriano,1,norveriano
+lubiquesa,1,lubiquesa
+hanoverado,1,hanoverado
+montevideo,1,Montevideo
+hannoveriana,1,hannoveriana
+oldemburgesa,1,oldemburgesa
+mericano,1,mericano
+oldemburg,1,Oldemburg
+guaiano,1,guaiano
+zuico,1,zuico
+de la furia,1,de la Furia
+dalesa,1,dalesa
+hano verjano,1,hano verjano
+inolesa,1,inolesa
+portena,1,porteña
+honoveriano,1,honoveriano
+hamb,1,hamb.
+chilana,1,chilana
+dancs,1,dancs
+oldembmigues,1,oldembmigues
+fuancesa,1,fuancesa
+noveriano,1,noveriano
+pousiano,1,pousiano
+estado unidos,1,Estado Unidos
+mechlemburgues,1,Mechlemburgues
+itelina,1,itelina
+amburguesa,1,amburguesa
+holandut,1,holandut
+lubecquos,1,lubecquos
+bremonse,1,bremonse
+del havre,1,del Havre
+oldenburgues,1,oldenburgues
+olbemburgues,1,olbemburgues
+sartafecino,1,sartafecino
+hulandesa,1,hulandesa
+sin bandera,1,sin bandera
+esponola,1,espoñola
+hambuaguesa,1,hambuaguesa
+paraguayp,1,paraguayp
+b emense,1,b.emense
+americrna,1,americrna
+novoriano,1,novoriano
+naciones,1,naciones
+brasileras,1,brasileras
+barato,1,Barato
+pusiana,1,pusiana
+peruana,1,peruana
+ausiriaco,1,ausiriaco
+ameri,1,ameri
+nacianal,1,nacianal
+bremenas,1,bremenas
+germano,1,germano
+paraguaye,1,paraguaye
+hamburguess,1,hamburguess
+hambuesa,1,hambuesa
+brasiliero,1,brasiliero
+austriasa,1,austriasa
+brumense,1,brumense
+mechleburgues,1,mechleburgues
+hamburques,1,hamburques
+lombardo,1,lombardo
+macklemburguesa,1,macklemburguesa
+bamburguesa,1,bamburguesa
+bremerese,1,bremerese
+inges,1,inges
+brenense,1,brenense
+lanes,1,lanes
+mecklimburguesa,1,mecklimburguesa
+bremecse,1,bremecse
+hanoveria,1,hanoveria
+italiado,1,italiado
+italia-no,1,italia-no
+heldemburguesa,1,heldemburguesa
+ganoveriana,1,ganoveriana
+meklembuiguesa,1,meklembuiguesa
+espaaola,1,espaaola
+hamburgoesa,1,hamburgoesa
+zueco,1,zueco
+anovereano,1,anovereano
+brasitero,1,brasitero
+holandis,1,holandis
+bresilero,1,bresilero
+bremesen,1,bremesen
+brasileros,1,brasileros
+hanoveiana,1,hanoveiana
+frsa,1,frsa.
+ingesa,1,ingesa.
+olandes,1,olandés
+braz,1,braz.
+inules,1,inules
+nacional de guerra,1,nacional de guerra
+holsteinos,1,holsteinos
+oldemburgos,1,oldemburgos
+haveriano,1,haveriano
+isalian,1,isalian
+braoilera,1,braoilera
+mecklenburguesa,1,mecklenburguesa
+mecklemburquesa,1,mecklemburquesa
+helsteins,1,helsteins
+lodemburgues,1,lodemburgues
+bremen,1,bremen
+poliliana,1,poliliana
+oldemburques,1,oldemburques
+holsteinese,1,holsteinese
+holsteinesse,1,holsteinesse
+sueso,1,sueso
+prusa,1,prusá
+italino,1,italino
+hamburges,1,hamburges
+hamburhuesa,1,hamburhuesa
+hanoriana,1,hanoriana
+holstensa,1,holstensa
+holste,1,holste
+holn,1,holn.
+oldemburgueso,1,oldemburgueso
+hemburguesa,1,hemburguesa
+inglez,1,ingléz
+old uruguayo,1,old Uruguayo
+banoveriana,1,banoveriana
+inylesa,1,inylesa
+ftaliabo,1,ftaliabo
+iog,1,iog.
+holsteriana,1,holsteriana
+holst,1,holst.
+american,1,american
+meckemburgues,1,meckemburgues
+hambnrguesa,1,hambnrguesa
+holternesa,1,holternesa
+hambugues,1,hambugues
+americana brasilera,1,americana brasilera
+daneaa,1,daneaa
+nolandes,1,nolandes
+ruza,1,ruza
+hanoberiano,1,hanoberiano
+prosiano,1,prosiano
+holsteneis,1,holsteneis
+portugnes,1,portugnes
+alomana,1,alomana
+nisa,1,nisa
+ueca,1,ueca
+panol,1,pañol
+americena,1,americena
+port,1,port.
+espanola paraguaya,1,española paraguaya
+americano vapor ingles vapor holandes,1,americano vapor inglés vapor holandés
+a n,1,a.n.
+noit,1,noit
+aleman vapor ingles,1,alemán vapor inglés
+polaca,1,polaca
+danes nacional,1,danes nacional
+brasilero ingles,1,brasilero inglés
+ultramar,1,Ultramar
+ingles de guerra italiano,1,ingles de guerra italiano
+polonia,1,Polonia
+nacional italiano,1,nacional italiano
+gnatemalteca,1,gnatemalteca
+brasilere,1,brasilere
+bra itero,1,bra itero
+china,1,China
+bolandesa,1,bolandesa
+brasilero de guerra espanol,1,brasilero de guerra español
+guatemalense,1,guatemalense
+noruege,1,noruege
+naliana,1,naliana
+italieua,1,italieua
+panar,1,panar
+nacional holandes,1,nacional holandes
+maleman,1,maleman
+oriental italiano nacional,1,oriental italiano nacional
+oriental paraguayo,1,oriental paraguayo
+espananola,1,españañola
+especial,1,especial
+de barcelona,1,de Barcelona
+f sa,1,f'sa
+alen,1,alen
+patron,1,patron
+aleman holandes,1,alemán holandés
+amc,1,amc.
+amrc,1,amrc
+re-brasilero,1,Re-brasilero
+ings,1,ings
+fcesa,1,fcesa
+amera,1,amera
+nacional ing,1,nacional ing.
+nao,1,nao.
+brasilero nacional,1,brasilero nacional
+inglesa italiana,1,inglesa italiana
+oriental nacl,1,oriental nacl
+pa,1,pa
+portu gues,1,portu gues
+inglesa nacional,1,inglesa nacional
+americana ingles,1,americana inglés
+ncl,1,ncl
+ningles,1,ningles
+francesas,1,francesas
+patr n,1,patr n
+oriental frances italiano,1,oriental francés italiano
+denes,1,denes
+naa,1,naa
+ina,1,ina.
+holanda,1,holanda
+nouuega,1,nouuega
+fianc,1,fianc.
+ital nacl,1,ital nacl
+expl,1,expl.
+in c w bem y ca gles,1,in. & C. W. Bem y ca gles
+frsncesa,1,frsncesa
+fsa,1,fsa
+ingiesa,1,ingiesa
+bea ing,1,bea ing
+inglesa americana,1,inglesa americana
+aspanola,1,aspañola
+la,1,la.
+francia,1,francia
+italana,1,italana
+italiano espanol,1,italiano español
+alemana sueca,1,alemana sueca
+fces,1,fcés
+aeman,1,aeman
+americana sueca,1,americana sueca
+americana inglesa,1,americana inglesa
+britisher,1,britisher
+capital,1,Capital
+fnc,1,fnc
+noruega belga,1,noruega belga
+oriental ital,1,oriental ital
+frae,1,frae
+norg,1,norg
+esa,1,esa
+espano,1,españo
+aleman paraguayo,1,alemán paraguayo
+espil,1,espil
+nornego,1,nornego
+california,1,California
+auricana,1,auricana
+aliana,1,aliana
+oriental franco,1,oriental franco
+espanol brasilero,1,español brasilero
+americado,1,americado
+americano aleman,1,americano aleman
+igles,1,igles
+alemana noruega,1,alemana noruega
+gre,1,gre
+del tuyu,1,del Tuyú
+inglesa noruega,1,inglesa noruega
+italiana espanola,1,italiana española
+espanol aleman,1,español aleman
+alaman,1,alaman
+ingles espanol,1,inglés español
+aleman noruego,1,alemán noruego
+italieno,1,italieno
+norruega,1,norruega
+id,1,id
+sumasa,1,sumasa
+espanol italiano,1,español italiano
+ingles frances,1,inglés francés
+ingles brasileno,1,inglés brasileño
+brazileiro,1,brazileiro
+oriental brasileno,1,oriental brasileño
+org es,1,org'es
+francas,1,francas
+almericano,1,almericano
+frauces,1,fraucés
+ncal,1,ncal.
+italianr,1,italianr
+inglaterra,1,inglaterra
+brasilero nacl,1,brasilero nacl
+aleman brasilero,1,alemán brasilero
+can,1,can.
+oriental belga,1,oriental belga
+otiental,1,otiental
+americana italiana americana americana americana,1,americana italiana americana americana americana
+del zarato,1,del Zarato
+bdra del carmelo,1,Bdra del Carmelo
+de formaza,1,de Formaza
+del carmelo,1,del Carmelo
+de la asuncion,1,de la Asuncion
+bdra del rosario,1,bdra del Rosario
+del rosario,1,del Rosario
+bdra de san geronimo hillner,1,bdra de San Gerónimo & Hillner
+de santa fe,1,de Santa Fé
+de m gaacia,1,de M. Gaacia
+bdra de gualeguaychu,1,bdra de Gualeguaychú
+inglon,1,inglón
+italiana belga,1,italiana belga
+intaliano,1,intaliano
+italiano aleman,1,italiano alemán
+amerino,1,amerino
+portuguaz,1,portuguaz
+rio de la plata,1,Rio de la Plata
+hirlandesa,1,hirlandesa
+portugueza,1,portugueza
+idglesa,1,idglesa
+alena,1,alena
+italiana frances,1,italiana frances
+noruego nacional,1,noruego nacional
+frances austriaco,1,francés austriaco
+americara,1,americara
+pat frances,1,pat frances
+rac,1,rac
+anstriaca,1,anstriaca
+gaeta,1,Gaeta
+a eman,1,a'eman
+genoves,1,genovés
+bolga,1,bolga
+ingis,1,Ingis
+nrc,1,nrc
+de mercedes,1,de Mercedes
+orien,1,orien
+ins,1,ins
+fes,1,fes
+ortal,1,ortal
+itn,1,itn
+nic,1,nic
+an-triaba,1,an-triaba
+francos,1,francos
+bac,1,bac
+inaliano,1,inaliano
+inales,1,inales
+iug,1,iug
+norusga,1,norusga
+allmana,1,allmana
+diamante,1,Diamante
+bdra del parana,1,Bdra del Paraná
+de v colon,1,de V Colon
+ensenada,1,Ensenada
+bdra de m garcia,1,Bdra de M. García
+ittaliano,1,ittaliano
+carmelo,1,Carmelo
+austro hungaro,1,Austro Húngaro
+s,1,S
+austro hungara,1,austro húngara
+ing-esa,1,ing-esa
+gualeguaychu,1,Gualeguaychú
+alemena,1,alemena
+notuega,1,notuega
+finlandes,1,finlandés
+de la victoria,1,de la Victoria
+franos,1,franos
+suecu,1,suecu
+ncruega,1,ncruega
+nortego,1,nortego
+alemande,1,alemande
+oleman,1,oleman
+alemon,1,alemon
+sneca,1,sneca
+turca,1,turca
+roruega,1,roruega
+iaglesn,1,iaglesn
+noriega,1,noriega
+nacional de hamburgo,1,nacional de Hamburgo
+mala-real,1,Mala-Real
+urugua,1,Urugua
+iuglesa,1,iuglesa
+inglesa de norte america,1,inglesa de Norte América
+noraega,1,noráega
+americana de new-york,1,americana de New-York
+norueega de brunswick,1,norueega de Brunswick
+espanol de brunswick,1,español de Brunswick
+austriaca de brunswick,1,austriaca de Brunswick
+quache,1,Quache
+holandesa de hamburgo,1,holandesa de Hamburgo
+noruega de e unidos,1,noruega de E. Unidos
+italiano de cadiz,1,italiano de Cadiz
+alamana,1,alamana
+frances de burdeos,1,francés de Burdeos
+americana de calais,1,americana de Calais
+de newport,1,de Newport
+americana de brunswick,1,americana de Brunswick
+italina,1,italina
+italiana de hamburgo,1,italiana de Hamburgo
+auctriaca,1,auctriaca
+nornega,1,nornega
+americana de quebec,1,americana de Quebec
+americana de cardiff,1,americana de Cardiff
+noruega de savamat,1,noruega de Savamat
+e o,1,E. O.
+ingles de barcelona,1,inglés de Barcelona
+de la paz,1,de La Paz
+san nicolas,1,San Nicolas
+campana,1,campana
+orientales,1,orientales
+espanola de cadiz,1,española de Cádiz
+brastiero,1,brastiero
+americana de portlan,1,americana de Portlan
+itno,1,itno
+de cardiff,1,de Cardiff
+heivecia,1,Heivecia
+nacional de santa fe,1,nacional de Santa Fé
+italiana de ibiza,1,italiana de Ibiza
+americana de marsella,1,americana de Marsella
+nacional de curumba,1,nacional de Curumbá
+oriental de uruguay,1,oriental de Uruguay
+alemana de estados unidos,1,alemana de Estados Unidos
+americano de new-york,1,americano de New-York
+oriental de santos,1,oriental de Santos
+holandosa,1,holandosa
+italiano ingles,1,italiano inglés
+nacional del brasil,1,nacional del Brasil
+deman,1,deman
+de cadiz,1,de Cádiz
+haitiana,1,haitiana
+artino,1,artino
+italiano holandes,1,italiano holandes
+norueg,1,norueg
+inglesa y norteamericana,1,inglesa y norteamericana
+italiana y danesa,1,italiana y danesa
+holandesas,1,holandesas
+noruega y rusa,1,noruega y rusa
+noruega e inglesa,1,noruega e inglesa
+noruegas e italiana,1,noruegas e italiana
+italiana y sueca,1,italiana y sueca
+inglesa y sueca,1,inglesa y sueca
+cardiff,1,Cardiff
+franceses,1,franceses
+ingles austriaco,1,"inglés, austriaco"
+noruegas inglesa,1,"noruegas, inglesa"
+rusas,1,rusas
+ingles y noruego,1,inglés y noruego
+cubano,1,cubano
+ingles holandes,1,inglés holandés
+aleman y belga,1,alemán y belga
+belgas,1,belgas
+norandes,1,norandés
+frances y argentino,1,francés y argentino
+italiana y noruega,1,italiana y noruega

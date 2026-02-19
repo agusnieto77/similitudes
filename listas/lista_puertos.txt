@@ -1,0 +1,9970 @@
+20_DE_MAYO:
+  - 20 de mayo
+A_GRAÑA:
+  - a graña
+A_LOMBA:
+  - a lomba
+A_POBRA_DO_CARAMIÑAL:
+  - a pobra do caramiñal
+A_PONTE_DO_PORTO:
+  - a ponte do porto
+A_PORTELA:
+  - a portela
+AALBORG:
+  - aalborg
+AALESUND:
+  - aalesund
+  - ålesund
+  - alesund
+AARHUS:
+  - aarhus
+AASIAAT:
+  - aasiaat
+ABADAN:
+  - abadan
+ABARAN:
+  - abaran
+ABASHIRI_KO:
+  - abashiri ko
+ABENRA:
+  - abenra
+ABERAERON:
+  - aberayron
+  - aberarth
+  - aberavon
+  - aberdaron
+ABERDEEN_GB:
+  - aberdeen
+ABERDEEN_US:
+  - aberdeen
+ABERDOVEY:
+  - aberdovey
+ABERDYFI:
+  - aberdyfi
+ABERFFRAW:
+  - aberffraw
+ABERTHAW:
+  - aberthaw
+  - aberystwith
+ABIDJAN:
+  - abidjan
+ABO:
+  - abo
+ABU_KHAMMASH:
+  - abu khammash
+ABU_ZABY:
+  - abu zaby
+ACAJUTLA:
+  - acajutla
+ACAPULCO:
+  - acapulco
+ACHLADI:
+  - achladi
+ACI_REALE:
+  - aci reale
+AD_DAKHLA:
+  - ad dakhla
+ADAK_NAVAL_AIR_STATION:
+  - adak naval air station
+ADELAIDE:
+  - adelaide
+ADEN:
+  - aden
+ADLER:
+  - adler
+ADMIRALTY_BAY:
+  - admiralty bay
+ADRA:
+  - adra
+AFRICA:
+  - africa
+  - afrique
+AEROSKOBING:
+  - aeroskobing
+AGADIR:
+  - agadir
+AGAY:
+  - agay
+AGDE:
+  - agde
+AGRACIADA
+  - agraciada
+AGROPOLI:
+  - agropoli
+AGUADILLA:
+  - aguadilla
+AGUAS_ARRIVA
+  - aguas arriba
+AGUILAS:
+  - aguilas
+AGUILAR:
+  - aguilar
+AHOUSAT:
+  - ahousat
+AHUKINI_LANDING:
+  - ahukini landing
+AHUS:
+  - ahus
+AIGUES_MORTES:
+  - aigues-mortes
+  - aguas muertas
+AIOI:
+  - aioi
+AIYION:
+  - aiyion
+AJACCIO:
+  - ajaccio
+  - ana
+AJMAN:
+  - ajman
+AJO:
+  - ajó
+AKANTHUI:
+  - akanthou
+AKAROA:
+  - akaroa
+AKITA_FUNAKAWA_KO:
+  - akita  -funakawa ko
+AKRA_KAVONISI:
+  - akra kavonisi
+AKRAHAMN:
+  - akrahamn
+AKSAZ_LIMANI:
+  - aksaz limani
+AKUREYRI:
+  - akureyri
+AKUTAN_HARBOR:
+  - akutan harbor
+AKYAB:
+  - sitwe
+AL_AHMADI:
+  - al ahmadi
+AL_AQABAH:
+  - al aqabah
+AL_BASRAH:
+  - al basrah
+AL_BURAYQAH:
+  - al burayqah
+AL_JAZEERA_PORT:
+  - al jazeera port
+AL_JUBAYL:
+  - al jubayl
+AIX:
+  - aix
+AL_KUWAYT:
+  - al kuwayt
+AL_LADHIQIYAH:
+  - al ladhiqiyah
+AL_MANAMAH:
+  - al manamah
+AL_MUKALLA:
+  - al mukalla
+AL_MUKHA:
+  - al mukha
+AL_QUSAYR:
+  - al qusayr
+ALABASTER:
+  - alabaster
+ALAMEDA:
+  - alameda
+ALANYA:
+  - alanya
+ALBANY_AU:
+  - albany
+ALBANY_US:
+  - albany
+ALBERTON:
+  - alberton
+ALBI_BO
+ALBORG:
+  - alborg
+ALBUFERA:
+  - albufera
+ALBUÑOL:
+  - albuñol
+ALBURQUERQUE
+  - alburquerque
+ALCAN_HARBOR:
+  - alcan harbor
+ALCANAR:
+  - alcanar
+ALCUDIA:
+  - alcudia
+  - alcúdia
+ALDAN:
+  - aldan
+ALDBOROUGH:
+  - alderburgh
+ALDERNEY:
+  - alderney
+ALERT_BAY:
+  - alert bay
+ALEIRA:
+  - aleira
+ALES:
+  - ales
+ALEXANDRIA_EG:
+  - alexandria
+  - alejandria
+  - al iskandariyh
+ALEXANDRIA_US:
+  - alexandria
+  - alejandria
+ALEXANDROUPOLI:
+  - alexandroupoli
+ALFAQUES:
+  - alfaques
+ALGECIRAS:
+  - algeciras
+ALGER:
+  - argel
+  - algiers
+  - alghero
+ALGOMA:
+  - algoma
+ALGONAC:
+  - algonac
+ALGUES-MORTES:
+  - algues-mortes
+ALIAGA:
+  - aliaga
+ALICANTE:
+  - alacant
+ALLIFORD_BAY:
+  - alliford bay
+ALLONBY:
+  - allonby
+ALMERIA:
+  - almeria
+ALMIRA:
+  - almira
+ALMIRANTE:
+  - almirante
+ALMUÑECAR:
+  - almuñecar
+ALNMOUTH:
+  - alnmouth
+ALOFI:
+  - alofi
+ALOTOA:
+  - alotoa
+ALPENA:
+  - alpena
+ALTA:
+  - alta
+ALTAMIRA:
+  - altamira
+ALTEA:
+  - altea
+ALUSHTA:
+  - alushta
+ALVEAR:
+  - alvear
+AMAGASAKI:
+  - amagasaki
+AMAMAPARE:
+  - amamapare
+AMBARCHIK:
+  - ambarchik
+AMBARLI:
+  - ambarli
+AMBERES:
+  - antwerp
+  - antwerpen
+AMBES:
+  - ambes
+AMBLE:
+  - amble
+AMBON:
+  - ambon
+AMELAND:
+  - ameland
+AMHERSTBURG:
+  - amherstburg
+AMLWCH:
+  - amlwch
+AMOY:
+  - xiamen
+AMPOSTA:
+  - amposta
+AMPENAN:
+  - ampenan
+AMSTERDAM:
+  - amsterdam
+AMUAY:
+  - amuay
+ANACORTES:
+  - anacortes
+ANAPA:
+  - anapa
+ANCHORAGE:
+  - anchorage
+ANCONA:
+  - ancona
+  - ancone
+ANDALSNES:
+  - andalsnes
+ANDENES:
+  - andenes
+ANDERSEN_HARBOR:
+  - andersen harbor
+ANDOANY:
+  - andoany
+ANDRATX:
+  - andratx
+  - andraix
+  - andraitx
+ANDROS:
+  - andros
+ANGELHOLM:
+  - engelholm
+ANGRA_DO_HEROISMO:
+  - angra do heroismo
+ANGRA_DOS_REIS:
+  - angra dos reis
+ANKINGCHENG:
+  - ankingcheng
+ANNABA:
+  - annaba
+ANNAPOLIS:
+  - annapolis
+ANNAPOLIS_ROYAL:
+  - annapolis royal
+ANNOTTA_BAY:
+  - annotta bay
+ANSE_TEMBLADORA:
+  - anse tembladora
+ANTALYA:
+  - antaly
+  - adalia
+ANTIBES:
+  - antibes
+ANTIGUA:
+  - antigua
+ANTILLA:
+  - antilla
+ANTIOCH:
+  - antioch
+ANTISRANANA:
+  - antisranana
+ANTOFAGASTA:
+  - antofagasta
+ANTONINA:
+  - antonina
+ANTSOHIM_BONDRONA:
+  - antsohim bondrona
+ANYER_LOR:
+  - anyer lor
+ANZIO:
+  - anzio
+  - anzo
+AOKATA:
+  - aokata
+AOMORI_KO:
+  - aomori ko
+APALACHICOLA:
+  - apalachicola
+APARRI:
+  - aparri
+APIA:
+  - apia
+APPALACHICOLA:
+  - appalachicola
+APPLEDORE:
+  - aberbrothock
+APRA_HARBOR:
+  - apra harbor
+AQUIN:
+  - aquin
+ARACAJU:
+  - aracayu
+ARATU:
+  - aratu
+ARBATAX:
+  - arbatax
+ARBROATH:
+  - arbroath
+ARCACHON:
+  - arcachon
+ARCHANGEL:
+  - arjánguelsk
+ARDALSTANGEN:
+  - ardalstangen
+ARDGLASS:
+  - ardglass
+ARDJUNA_OIL_FIELD:
+  - ardjuna oil field
+ARDRISHAIG:
+  - ardrishaig
+ARDROSSAN:
+  - ardrossan
+ARECIBO:
+  - arecibo
+ARENDAL:
+  - arendal
+ARENAL_GRANDE
+  - arenal grande
+ARENYS:
+  - arenys
+  - arenys de mar
+ARES:
+  - ares
+ARGENTIA:
+  - argentia
+ARGENTELLA:
+  - argentella
+  - l'argentella
+ARGOSTOLION:
+  - argostolion
+ARGUINEGUIN:
+  - arguineguin
+ARHUS:
+  - arhus
+ARICA:
+  - arica
+ARICHAT:
+  - arichat
+ARINAGA:
+  - arinaga
+ARIANOPOLI:
+  - arianopoli
+ARKHANGELS'K:
+  - arkhangels'k
+ARLES:
+  - arles
+ARLEY:
+  - arley
+ARMA:
+  - arma
+  - arma di Taggia
+ARNSIDE:
+  - arnside
+ARRECIFE:
+  - arrecife
+ARROYO_PR:
+  - arroyo
+ARROYO_SECO:
+  - arroyo seco
+ARUNDEL:
+  - arundel
+ARZEW:
+  - arzew el djedid
+AS_SIDR:
+  - as sidr
+AS_SUWAYS:
+  - as suways
+ASH_SHARIQAH:
+  - ash shariqah
+ASHDOD:
+  - ashdod
+ASHLAND:
+  - ashland
+ASHLEWORTH:
+  - ashleworth
+ASHQELON:
+  - ashqelon
+ASHTABULA:
+  - ashtabula
+ASNOUN:
+  - asnoun
+ASPROPIRGOS:
+  - aspropirgos
+ASSAB:
+  - assab
+ASSENS:
+  - assens
+ASTAKOS:
+  - astakos
+ASTLY:
+  - astly
+ASTORIA:
+  - astoria
+ASUNCION:
+  - asuncion
+ATALAYA
+  - atalaya
+ATLANTIC_CITY:
+  - atlantic city
+ATSUMI:
+  - atsumi
+ATTU:
+  - attu
+ATUCHA:
+  - atucha
+ATUONA:
+  - atuona
+AU_SABLE:
+  - au sable
+AUCKLAND:
+  - auckland
+AUGUSTA_IT:
+  - augusta
+AUGUSTA_US:
+  - augusta
+AUGUSTENBORG:
+  - augustenborg
+AULTBEA:
+  - aultbea
+AUST:
+  - aust
+AUX_CAYES:
+  - los cayos
+AVALON:
+  - avalon
+AVATIU:
+  - avatiu
+AVEIRO:
+  - aveiro
+AVENZA:
+  - avenza
+AVILES:
+  - aviles
+AVONMOUTH:
+  - avonmouth
+AWRE:
+  - awre
+AXMOUTH:
+  - axmouth
+AXWATER:
+  - axwater
+AYAMONTE:
+  - ayamonte
+AYIOS_NIKOLAOS:
+  - ayios nikolaos
+AYLSFORD:
+  - aylsford
+AYR:
+  - ayr
+AYRESOME:
+  - ayresome
+AYVALIK:
+  - ayvalik
+AZ_ZAWIYA:
+  - az zawiya
+AZHIKAL:
+  - azhikal
+AZOV:
+  - azov
+AZUA
+  -azua
+BACTON:
+  - bacton
+BADALONA:
+  - badalona
+BADINO:
+  - badino
+BAGILLT:
+  - bagillt
+BAGLAN:
+  - baglan
+BAGNOLI:
+  - bagnoli
+BAHAI_DE_LA_HABANA:
+  - bahai de la habana
+BAHIA:
+  - bahia
+  - salvador bahía
+BAHIA_AGUA_FRESCA:
+  - bahia agua fresca
+BAHIA_BLANCA:
+  - bahia blanca
+BAHIA_DE_ANCON:
+  - bahia de ancon
+BAHIA_DE_FAJARDO:
+  - bahia de fajardo
+BAHIA_DE_JOBOS:
+  - bahia de jobos
+BAHIA_DE_LAS_MINAS:
+  - bahia de las minas
+BAHIA_DE_MATARANI:
+  - bahia de matarani
+BAHIA_DE_PERTIGALETE:
+  - bahia de pertigalete
+BAHIA_DE_SAGUA_DE_TANAMO:
+  - bahia de sagua de tanamo
+BAHIA_DE_SAN_SEBASTIAN:
+  - bahia de san sebastian
+BAHIA_DE_VALDIVIA:
+  - bahia de valdivia
+BAHIA_DE_VALPARAISO:
+  - bahia de valparaiso
+BAHIA_HARRIS:
+  - bahia harris
+BAHIA_HERRADURA_GUAYACAN:
+  - bahia herradura guayacan
+BAHIA_HONDA:
+  - bahia honda
+BAHIA_QUINTERO:
+  - bahia quintero
+BAHIA_SAN_NICOLAS:
+  - bahia san nicolas
+BAHIA_SAN_VICENTE:
+  - bahia san vicente
+BAIE_COMEAU:
+  - baie comeau
+BAIE_DE_KOUAOUA:
+  - baie de kouaoua
+BAIE_DU_MARIGOT:
+  - baie du marigot
+BAIE_TAIOHAE:
+  - baie taiohae
+BAIE_UGUE:
+  - baie ugue
+BAIS:
+  - bais
+BAJO_GRANDE:
+  - bajo grande
+BAKAPIT:
+  - bakapit
+BAKAR:
+  - bakar
+BALAKLAVA:
+  - balaklava
+BALBOA:
+  - balboa
+BALESTRATE;
+  - balestrate	
+BALHAF:
+  - balhaf
+BALIKPAPAN:
+  - balikpapan
+BALLINA:
+  - ballina
+BALLSTAD:
+  - ballstad
+BALTIMORE:
+  - baltimore
+BALTIYSK:
+  - baltiysk
+BAMBAYA:
+  - bambaya
+BAMBERTON:
+  - bamberton
+BANANA:
+  - banana
+  - banane
+BANDAR_ABBAS:
+  - bandar abbas
+BANDAR_KHOMEYNI:
+  - bandar khomeyni
+BANDAR_SERI_BEGAWAN:
+  - bandar seri begawan
+BANDAR_E_MAHSHAHR:
+  - bandar  -e mahshahr
+BANDAR_E_SHAHID_REAJIE:
+  - bandar  -e shahid reajie
+BANDHOLM:
+  - bandholm
+BANDIRMA:
+  - bandirma
+BANDON:
+  - bandon
+BANFF:
+  - banff
+BANG_SAPHAN:
+  - bang saphan
+BANGHAZI:
+  - banghazi
+BANGKOK:
+  - bangkok
+BANGOR_US:
+  - bangor
+BANGOR_GB:
+  - bangor
+  - bangor wales
+BANIYAS:
+  - baniyas
+BANJARMASIN:
+  - banjarmasin
+BANJUL:
+  - banjul
+BANTEN:
+  - banten
+BANTRY:
+  - bantry
+BANZART:
+  - banzart
+BANYULS:
+  - banyuls
+BAR:
+  - bar
+BAR_HARBOR:
+  - bar harbor
+BARAAWE:
+  - baraawe
+BARACOA;
+  - baracoa
+BARADERO:
+  - baradero
+BARAGA:
+  - baraga
+BARALOF_BAY:
+  - baralof bay
+BARBADOS:
+  - bridgetown
+BARBER'S_POINT:
+  - barber's point
+BARCANES:
+  - barcanes
+BARCELONA:
+  - barcelona
+  - barcelone
+BARCAGGIO:
+  - barcaggio
+BARENTSBURG:
+  - barentsburg
+BARI:
+  - bari
+BARKING:
+  - barking
+BALAGNE:
+  - balagne
+BARLETTA:
+  - barletta
+BARMOUTH:
+  - barmouth
+BARNEGAT:
+  - barnegat
+BARNSTAPLE:
+  - barnstaple
+BARQUERO:
+  - o barqueiro
+BARRANQUERAS:
+  - resistencia
+BARRANQUILLA:
+  - barranquilla
+BARROW_US:
+  - barrow
+BARROW_GB:
+  - barrow
+  - barrow in furness
+BARROWHAVEN:
+  - barrowhaven
+BARRY:
+  - muelles de barry
+BASARABI:
+  - basarabi
+BASCO:
+  - basco
+BASILIAN_CITY:
+  - basilian city
+BASS_HARBOR:
+  - bass harbor
+BASSE_TERRE:
+  - basse terre
+BASSEIN:
+  - bassein
+BASTIA:
+  - bastia
+BASSORAH:
+  - bassorah
+BASUO:
+  - basuo
+BATA:
+  - bata
+BATABANÓ:
+  -batabanó
+BATANGAS_CITY:
+  - batangas city
+BATAVIA:
+  - batavia
+  - yakarta
+BATCHAWANA_BAY:
+  - batchawana bay
+BATEMANS_BAY:
+  - batemans bay
+BATERIAS:
+  - baterias
+BATH:
+  - bath
+BATHURST:
+  - bathurst
+BATON_ROUGE:
+  - baton rouge
+BATOUM:
+  - batoum
+BATSFJORDEN:
+  - batsfjorden
+BATUMI:
+  - batumi
+BAUBAU:
+  - baubau
+BAY_CITY:
+  - bay city
+BAY_OF_ISLANDS:
+  - bay of islands
+BAY_OF_PILLARS:
+  - bay of pillars
+BAYBAY:
+  - baybay
+BAYBORO:
+  - bayboro
+BAYFIELD:
+  - bayfield
+BAYONNE_FR:
+  - bayonne
+  - bayona
+BAYONNE_US:
+  - bayonne
+BAYRUT:
+  - bayrut
+BAYTOWN:
+  - baytown
+BAYUQUAN:
+  - bayuquan
+BAYWAY:
+  - bayway
+BEACHLEY:
+  - beachley
+BEANEANDSEATON:
+  - beaneandseaton
+BEAR_ISLAND:
+  - bear island
+BEAUFORT:
+  - beaufort
+BEAUHARNOIS:
+  - beauharnois
+BEAUMARIS:
+  - beaumaris
+BEAUMONT:
+  - beaumont
+BEAUTY_POINT:
+  - beauty point
+BECCLES:
+  - beccles
+BEDHAMPTON:
+  - bedhampton
+BEDI:
+  - bedi
+BEERCOVE:
+  - beercove
+BEGUR:
+  - begur
+  - bagur
+BEIHAI:
+  - beihai
+BEIRA:
+  - beira
+BEJAIA:
+  - bejaia
+BELAWAN:
+  - belawan
+BELEKERI:
+  - belekeri
+BELEM:
+  - para
+  - belen do para
+BELFAST_GB:
+  - belfast
+BELFAST_US:
+  - belfast
+BELGOROD_DNESTROVSKY:
+  - belgorod  -dnestrovsky
+BELHAVEN:
+  - belhaven
+BELIZE_CITY:
+  - belize city
+  - belize
+  - belice
+BELKOFSKI:
+  - belkofski
+BELLA_BELLA:
+  - bella coola
+BELLA_VISTA:
+  - bella vista
+BELLEVILLE:
+  - belleville
+BELLINGHAM:
+  - bellingham
+BELOMORSK:
+  - belomorsk
+BEMBRIDGE:
+  - bembridge
+BENDER:
+  - bender
+BENGHAZI:
+  - benghazi
+BENFLEET:
+  - benfleet
+BENGKALIS:
+  - bengkalis
+BENGKULU:
+  - bengkulu
+BENICARLO:
+  - benicarlo
+BENICASIM:
+  - benicasim
+BENICIA:
+  - benicia
+BENIDORM:
+  - benidorm
+BENISAFF:
+  - beni saf
+BENOA:
+  - benoa
+BENTHALL:
+  - benthall
+BENTI:
+  - benti
+BEPPU:
+  - beppu
+BERBERA:
+  - berbera
+BERBICE:
+  - berbice
+BERDIANSK:
+  - berdyansk
+  - berdianska
+BERGEN:
+  - berg
+BERGH_COVE:
+  - bergh cove
+BERGKVARA:
+  - bergkvara
+BERKELEY_GB:
+  - berkeley
+BERKELEY_US:
+  - berkeley
+BERLEVAG:
+  - berlevag
+BERMEO:
+  - bermeo
+BERNARD_HARBOR_US:
+  - bernard harbor
+BERNARD_HARBOR_CA:
+  - bernard harbor
+BERWICK:
+  - berwick  -upon  -tweed
+  - berwickupontweed
+BETANZOS:
+  - betanzos
+BETHEL:
+  - bethel
+BEVERLY:
+  - beverly
+BEWDLEY:
+  - bewdley
+BEYPORE:
+  - beypore
+BEYROUTH:
+  - beyrout
+BHAVNAGAR:
+  - bhavnagar
+BIALLA:
+  - bialla
+BIDEFORD:
+  - bideford
+BIG_PORT_WALTER:
+  - big port walter
+BIGBURY_BAY:
+  - bigbury bay
+BILBAO:
+  - bilbao
+BILDUDALUR:
+  - bildudalur
+BILOXI:
+  - biloxi
+BINTANGOR:
+  - bintulu
+BJORNEBORG:
+  - bjorneborg
+  - bjornborg
+  - björneborg
+  - bjørneborg
+björneborg
+BILIPATAN:
+  - bimlipatan
+BIRD_PORT:
+  - bird port
+BIRKENHEAD:
+  - birkenhead
+BISSETTE:
+  - bissette
+BISSAU:
+  - bissau
+BITUNG:
+  - bitung
+BLACKFRIARS:
+  - blackfriars
+BLACKHALL:
+  - blackhall
+BLAINE:
+  - blaine
+BLAKENEY:
+  - blakeney
+BLANC_SABLON:
+  - blanc sablon
+BLANES:
+  - blanes
+BLANGLANCANG:
+  - blanglancang
+BLAYE:
+  - blaye
+BLIND_RIVER:
+  - blind river
+BLINYU:
+  - blinyu
+BLONDUOS:
+  - blonduos
+BLUEFIELDS:
+  - bluefields
+BLUFF_HARBOR:
+  - bluff harbor
+BLYTH:
+  - blyth haven
+BOCA_GRANDE:
+  - boca grande
+BOCAS_DEL_TORO:
+  - bocas del toro
+BODEGA_BAY:
+  - bodega bay
+BODO:
+  - bodo
+BODRUM:
+  - bodrum
+BOLLSTABRUK:
+  - bollstabruk
+BOLSHAYA_PIRYU_GUBA:
+  - bolshaya piryu guba
+BOLUNGAVIK:
+  - bolungavik
+BOMA:
+  - boma
+BOMBAY:
+  - bombay
+BONA:
+  - böna
+BONANZA:
+  - bonanza
+BONAVISTA_HARBOR:
+  - bonavista harbor
+BONCHURCH:
+  - isle of wight
+BONE:
+  - bone
+  - bône
+BONIFACIO:
+  - bonifacio
+BONNY:
+  - bonny
+BONTHE:
+  - bonthe
+BONN:
+  - bonn
+BOSA:
+  - bosa
+BOOSAASO:
+  - boosaaso
+BOOTHBAY_HARBOR:
+  - boothbay harbor
+BORDEAUX:
+  - bordeaux
+  - burdeos
+BORGHETTO:
+  - borghetto
+BORNHOLM:
+  - island of bornholm
+BORUSAN_FERTILIZER_JETTY:
+  - borusan fertilizer jetty
+BOSCASTLE:
+  - boscastle
+BOSTON_GB:
+  - boston
+BOSTON_US:
+  - boston
+BOTANY_BAY:
+  - botany bay
+BOTAS:
+  - botas
+BOTLEY:
+  - botley
+BOUC:
+  - bouc
+BOULOGNE_SUR_MER:
+  - boulogne  -sur  -mer
+BOURI_OIL_FIELD:
+  - bouri oil field
+BOUZAS:
+  - bouzas
+BOVALLSTRAND:
+  - bovallstrand
+BOWLING:
+  - bowling
+BRADWELL:
+  - bradwell
+BRAILA:
+  - br?ila
+BRAKE_NA:
+  - brake
+BRAKE_DE:
+  - brake
+BRANCASTERSTAITHE:
+  - brancasterstaithe
+BRANNFORS:
+  - brannfors
+BRANSCOMBE:
+  - branscombe
+BRASIL:
+  - brasil
+BRATTHOLMEN:
+  - brattholmen
+BREDVIK:
+  - bredvik
+BREMEN:
+  - bremen
+BREMERHAVEN:
+  - bremerhaven
+BREMERTON:
+  - bremerton
+BREST:
+  - brest
+BRETTESNES:
+  - brettesnes
+BREVIK:
+  - brevik
+BRIDGEPORT:
+  - bridgeport
+BRIDGNORTH:
+  - bridgnorth
+BRIDGWATER:
+  - bridgwater
+BRIDLINGTON:
+  - bridlington quay
+BRIDPORT:
+  - bridport
+BRIGHTLINGSEA:
+  - brightlingsea
+BRIGHTON:
+  - brighton
+BRINDISI:
+  - brindisi
+BRISBANE:
+  - moreton bay, n. s. w.
+BRISTOL_US:
+  - bristol
+BRISTOL_GB:
+  - bristol
+BRITISH_ACCRA:
+  - jamestown
+BRITON-FERRY:
+  - briton-ferry
+BRIXHAM:
+  - brixham
+BROADFORD_BAY:
+  - broadford bay
+BROADSTAIRS:
+  - broadstairs
+BROCKVILLE:
+  - brockville
+BROCKWEIR:
+  - brockweir
+BROFJORDEN:
+  - brofjorden
+BRONNOYSUND:
+  - bronnoysund
+BRONTE:
+  - bronte
+BROOKLIN:
+  - brooklin
+BROOME:
+  - broome
+BROSELEY:
+  - broseley
+BROWNSVILLE:
+  - brownsville
+BRSICA:
+  - brsica
+BRUCE_MINES:
+  - bruce mines
+BRUGES:
+  - bruges
+BRUGO:
+  - brugo
+BRUNSBUTTEL_ELBAHAFEN:
+  - brunsbuttel elbahafen
+BRUNSWICK:
+  - bruswick
+BRUXELLES:
+  - bruxelles
+BUCEO:
+  -buceo
+BUCHANAN:
+  - buchanan
+BUCKIE_HARBOR:
+  - buckie harbor
+BUCKSPORT:
+  - bucksport
+BUD:
+  - bud
+BUDE:
+  - bude
+BUDIR:
+  - budir
+BUDUA:
+  - budva
+BUENAVENTURA:
+  - buenaventura
+BUENOS_AIRES:
+  - buenos aires
+BUEU:
+  - bueu
+BUFFALO:
+  - buffalo
+BUFFINGTON:
+  - buffington
+BUGIA:
+  - bugia
+BUGO:
+  - bugo
+BUILDWAS:
+  - buildwas
+BUKHTA_GAYDAMAK:
+  - bukhta gaydamak
+BUKHTA_NAGAYEVA:
+  - bukhta nagayeva
+BUKHTA_VANINO:
+  - bukhta vanino
+BULA:
+  - bula
+BULLEN_BAAI:
+  - bullen baai
+BULLOPILL:
+  - bullopill
+BUNBURY:
+  - bunbury
+BUNDABERG:
+  - bundaberg
+BUR_SAFAGA:
+  - bur safaga
+BUR_SAID:
+  - bur said
+BURELA:
+  - burela
+BURGAS:
+  - burgas
+  - bourgas
+BURGEO:
+  - burgeo
+BURGHEAD:
+  - burghead
+BURIN:
+  - burin
+BURLINGTON:
+  - burlington
+BURNETT_INLET:
+  - burnett inlet
+BURNHAM:
+  - burnhamoncrouch
+  - burnhamoverystaithe
+BURNTISLAND:
+  - burntisland
+BURRIANA:
+  - burriana
+BURRYPORT:
+  - burryport
+BURSLEDON:
+  - bursledon
+BURTONUPONSTATHER:
+  - burtonuponstather
+BURUTU:
+  - burutu
+BUSHEHR:
+  - bushehr
+BUSUM:
+  - busum
+BUTEDALE:
+  - butedale
+BUTUAN_CITY:
+  - butuan city
+BUTZFLETH:
+  - butzfleth
+BYNG_INLET:
+  - byng inlet
+CABANAS:
+  - cabanas
+CABEDELO:
+  - cabedelo
+CABINDA:
+  - cabinda
+CABO_DE_BUENA_ESPERANZA:
+  - cabo de buena esperanza
+CABO_ROJO:
+  - cabo rojo
+CABO_SAN_ANTONIO:
+  - cabo san antonio
+CABO_VERDE:
+  - cabo verde
+CADAQUES:
+  - cadaques
+CADIZ:
+  - cadiz
+CAERLEON:
+  - caerleon
+CAERNARVON:
+  - caernarfon
+CAGAYAN_DE_ORO:
+  - cagayan de oro
+CAGLIARI:
+  - cagliari
+CAGNANO:
+  - cagnano
+CAIBARIEN:
+  - caibarien
+CAIRNS:
+  - cairns
+CALABAR:
+  - calabar
+CALAIS:
+  - calais
+CALAPAN:
+  - calapan
+CALCITE:
+  - calcite
+CALCUTA:
+  - calcutta
+CALDY:
+  - caldy
+CALETA_CLARENCIA:
+  - caleta clarencia
+CALETA_LOBITOS:
+  - caleta lobitos
+CALETA_MINA_ELENA:
+  - caleta mina elena
+CALETA_PATILLOS:
+  - caleta patillos
+CALETA_PAULA:
+  - caleta paula
+CALETASEBO:
+  - caletasebo
+CALICUT:
+  - calicut
+CALIFORNIA:
+  - california
+CALLELONGUE:
+  - callelongue
+CALMAR:
+  - kalmar
+CALMAUR:
+  - calmau
+CALPE:
+  - calpe
+CALSTOCK:
+  - calstock
+CALINGAPATAM
+  - calingapatam
+CALUMET_HARBOR:
+  - calumet harbor
+CALVI:
+  - calvi
+CALZARELLO:
+  - calzarello
+CAM_PHA:
+  - cam pha
+CAMARIÑAS:
+  - camariñas
+CAMAS:
+  - camas
+CAMBADOS:
+  - cambados
+CAMBRIDGE_BAY:
+  - cambridge bay
+CAMBRILS:
+  - cambrils
+CAMDEN:
+  - camden
+CAMETA:
+  - cameta
+CAMOCIM:
+  - camocim
+CAMOGLI:
+  - camogli
+CAMPANA:
+  - campana
+CAMPBELL_RIVER:
+  - campbell river
+CAMPBELTOWN:
+  - campbeltown
+CAMPECHE:
+  - campeachy
+CAMPOSANCOS:
+  - camposancos
+CANADA:
+  - canada
+CANAKKALE:
+  - canakkale
+CANAPORT:
+  - canaport
+CANARIAS:
+  - canarias
+  - islas canarias
+CANAVERAL_HARBOR:
+  - canaveral harbor
+CANDAS:
+  - candas
+CANDELARIA_ES:
+  - candelaria
+CANDELARIA_AR:
+  - candelaria
+CANGAS:
+  - cangas
+CANNERY_BAY:
+  - cannery bay
+CANNES:
+  - cannes
+CANSO:
+  - canso
+CANTON:
+  - canton
+CAP_COST:
+  - cap cost
+CAP_HAITIEN:
+  - cap haitien
+CAP_LOPEZ:
+  - cap lopez
+CAP_ROUGE:
+  - cap rouge
+CAP_Y_CORP:
+  - cap y corp
+  - capicorp
+CAPDEPERA:
+  - capdepera
+CAPE_BRETON:
+  - cape breton
+CAPE_CHARLES:
+  - cape charles
+CAPE_COAST_CASTLE:
+  - cape coast castle
+CAPE_CUVIER:
+  - cape cuvier
+CAPE_DE_VERD_ISLANDS:
+  - cape de verd islands
+CAPE_FLATTERY_HARBOR:
+  - cape flattery harbor
+CAPE_HAYTIEN:
+  - cape haytien
+CAPE_OF_GOOD_HOPE:
+  - cape of good hope
+CAPE_PALMAS:
+  - cape palmas
+CAPE_TOWN:
+  - cape town
+  - ciudad del cabo
+CAPE_YOUNG:
+  - cape young
+CARACASBAAI:
+  - caracasbaai
+CARACOLES:
+  - caracoles
+CARAQUET:
+  - caraquet
+CARBONERAS:
+  - carbonera
+CARDENAS:
+  - cardenas
+CARDIFF:
+  - cardiff
+CARDIGAN:
+  - cardigan
+CARDINAL:
+  - cardinal
+CARGUESE:
+  - carguese
+CARILLON:
+  - carillon
+CARIÑO:
+  - cariño
+CARIPITO:
+  - caripito
+CARLISLE:
+  - carlisle
+CARIOFORTE:
+  - carioforte
+  - carloforte
+Carioforte
+CARLSHAMN:
+  - carlshamn
+  - karlshamn
+  - carlsham
+CARLSHAND:
+  - carlshand
+CARMARTHEN:
+  - carmarthen
+CARMELO:
+  - carmelo
+CARNARVON:
+  - carnarvon
+CARPINTERIA:
+  - carpinteria
+CARRABELLE:
+  - carrabelle
+CARRARA:
+  - carrara
+CARRIL:
+  - carril
+CARTAGENA_ES:
+  - cartagena
+  - carthagena
+CARTAGENA_CO:
+  - cartagena
+  - carthagena de indias
+  - carthagena de columbia
+CARTAYA:
+  - cartaya
+CARTERET:
+  - carteret
+CARUPANO:
+  - carupano
+CASABLANCA:
+  - casablanca
+CASALS:
+  - casals
+CASAMANCE:
+  - casamance
+CASILDA:
+  - casilda
+CASSIS:
+  - cassis
+CASTAGNETA:
+  - castagneta
+CASTELL_DE_FERRO:
+  - castell de ferro
+CASTELLAMARE:
+  - castellamare
+CASTELSARDO:
+  - castelsardo
+CASTELLON:
+  - castellon de la plana
+CASTINE:
+  - castine
+CASTLE_BAY:
+  - castle bay
+CASTLETOWN:
+  - castletown  -isle of man
+CASTLETOWN_BEARHAVEN:
+  - castletown bearhaven
+CASTRIES:
+  - castries
+CASTROPOL:
+  - castropol
+CASTROURDIALES:
+  - castro  -urdiales
+CAT_LAI:
+  - cat lai
+CATALINA_HARBOR:
+  - catalina harbor
+CATANIA:
+  - catania
+CATANZARO:
+  - catanzaro
+CATBALOGAN:
+  - catbalogan
+CATIA_LA_MAR:
+  - catia la mar
+CATSKILL:
+  - catskill
+CAVAK:
+  - cavak
+CAWSAND:
+  - cawsand
+CAYENA:
+  - cayena
+  - cayenne
+CAYES:
+  - cayes
+  - los cayos
+CAYMAN_BRAC:
+  - cayman brac
+CAYO_HUESO:
+  - cayo hueso
+CAYO_MOA_GRANDE:
+  - cayo moa grande
+CAYO_ROMANO
+  - cayo romano
+CEARÁ:
+  - ceará
+CEBU:
+  - cebu
+CECINA:
+  - cecina
+CEDEIRA:
+  - cedeira
+CEIBA_HUECA:
+  - ceiba hueca
+CEIBACH:
+  - ceibach
+CELEIRO:
+  - celeiro
+CELLE:
+  - celle
+  - ceite
+  - celte
+CELUKAN_BAWANG:
+  - celukan bawang
+CENTURI:
+  - centuri
+CEMAESBAY:
+  - cemaesbay
+CEPHALONIE:
+  - cephalonie
+CERDEÑA:
+  - cerdeña
+CERNAVODA:
+  - cernavoda
+CERIALE:
+  - ceriale
+CESENATICO:
+  - cesenatico
+COSTA_DE_PORTUGAL:
+  - costa de portugal
+CETINA:
+  - cetina
+
+CETTE:
+  - cette
+  - seté
+  - ceté
+  - céte
+CEUTA:
+  - ceuta
+CHACO
+  - chaco
+CHUBUT:
+  - chubut
+CHAGUARAMAS:
+  - chaguaramas
+CHAH_BAHAR:
+  - chah bahar
+CH'AHO:
+  - ch'aho
+CHAKE_CHAKE:
+  - chake chake
+CHALKIS:
+  - chalkis
+CHAMONE:
+  - chamone
+CHANCAY:
+  - chancay
+CHANDLER:
+  - chandler
+CHANGSHU:
+  - changzou
+CHAOZHOU:
+  - chaozhou
+CHAPSTLEO:
+  - chapstleo
+CHARCO_AZUL:
+  - charco azul
+CHARENTE:
+  - charente
+CHARLESTON:
+  - charleston
+CHARLESTOWN_GB:
+  - charlestown
+  - charlestown cornwall
+CHARLESTOWN_KN:
+  - charlestown
+  - san cristolbal y las nieves
+CHARLEVOIX:
+  - charlevoix
+CHARLOTTE_AMALIE:
+  - charlotte amalie
+CHARLOTTETOWN:
+  - island prince edward
+CHARMOUTH:
+  - charmouth
+CHATHAM:
+  - chatham
+CHATHAM_DOCKS:
+  - chatham docks
+CHAUMONT:
+  - chaumont
+CHEBOYGAN:
+  - cheboygan
+CHEJU_HANG:
+  - cheju hang
+CHEMAINUS:
+  - chemainus
+CHENNAI:
+  - chennai
+CHEPSTOW:
+  - chepstow
+CHERCHEIL:
+  - chercheil
+CHERIBON:
+  - cheribon
+CHERRY_POINT:
+  - cherry point
+CHESTER_US:
+  - chester
+CHESTER_GB:
+  - chester
+CHETICAMP:
+  - cheticamp
+CHIAVARI:
+  - chiavari
+CHIBA_KO:
+  - chiba ko
+CHICAGO:
+  - chicago
+CHICHESTER:
+  - chichester
+CHICOUTIMI:
+  - chicoutimi
+CHIGNIK:
+  - chignik
+CHILE:
+  - chile
+CHI_LUNG:
+  - chi  -lung
+CHINAE:
+  - chinae
+CHINDE:
+  - chinde
+CHIPIONA:
+  - chipiona
+CHIPRE:
+  - chipre
+  - chypre
+CHIRIQUI_GRANDE:
+  - chiriqui grande
+CHITTAGONG:
+  - chittagong
+CHIWAN:
+  - chiwan
+CH'ONGJIN:
+  - ch'ongjin
+CHORNOMORS_KE:
+  - chornomors ke
+CHOSHI:
+  - choshi
+CHRISTCHURCH:
+  - christchurch
+CHRISTIANIA:
+  - christianso harbor
+CHRISTIANSOUND:
+  - christiansound
+  - christiansund
+  - kristiansund
+CHRISTIANSTED:
+  - christiansted
+  - christinestad
+CHROME:
+  - chrome
+CHUNG_CHING:
+  - chung ching
+CHURCHILL:
+  - churchill
+CHUTE_A_BLONDEAU:
+  - chute a blondeau
+CIENFUEGOS:
+  - cienfuegos
+CILACAP:
+  - cilacap
+CIREBON:
+  - cirebon
+CITY_ISLAND:
+  - city island
+CIUDAD_BOLIVAR:
+  - ciudad bolivar
+CIUDAD_DEL_CARMEN:
+  - ciudad del carmen
+  - carmen
+CIUDADELA:
+  - ciudadela
+CIVITAVECCHIA:
+  - civitavecchia
+CLARENVILLE:
+  - clarenville
+CLARKS_POINT:
+  - clarks point
+CLARKSON:
+  - clarkson
+CLAVERIA:
+  - claveria
+CLAYOQUOT:
+  - clayoquot
+CLAYTON:
+  - clayton
+CLEVELAND:
+  - cleveland
+CLEY:
+  - cley
+CLIFTON_PIER:
+  - clifton pier
+CLOVELLY:
+  - clovelly
+CLUDADELA:
+  - cludadela
+CLYDEPORT:
+  - clydeport
+COAL_HARBOR:
+  - coal harbor
+COAL_POINT:
+  - coal point
+COATZACOALCOS:
+  - coatzacoalcos
+COBH:
+  - cobh
+COBOURG:
+  - cobourg
+COCANADA:
+  - cocanada
+  - kakinada
+COCKBURN:
+  - cockburn
+COCKBURN_HARBOR:
+  - cockburn harbor
+COCKBURN_TOWN:
+  - cockburn town
+COGGANPILL:
+  - cogganpill
+COGO:
+  - cogo
+COCHIN:
+  - cochin
+COLASTINE:
+  - colastine
+COLCHESTER:
+  - colchester
+COLD_BAY:
+  - cold bay
+COLERAINE:
+  - coleraine
+COLLINGWOOD_NZ:
+  - collingwood
+COLLINGWOOD_CA:
+  - collingwood
+COLLIOURES:
+  - colliures
+COLLO:
+  - collo
+COLOMBO:
+  - colombo
+COLOMBRES:
+  - colombres
+COLON:
+  - colon
+COLONIA:
+  - colonia
+  - la colonia
+COLUMBIA:
+  - columbia
+COMBEMARTIN:
+  - combemartin
+COMBWICH:
+  - combwich
+COME_BY_CHANCE_HARBOR:
+  - come by chance harbor
+COMODORO_RIVADAVIA:
+  - comodoro rivadavia
+  - rivadavia
+COMOX_HARBOR:
+  - comox harbor
+CONAKRY:
+  - conakry
+CONCARNEAU:
+  - concarneau
+CONCEPCION:
+  - concepción
+CONCEPCION_DEL_URUGUAY:
+  - concepcion del uruguay
+  - arroyo de la china
+CONCHAS
+  - conchas
+CONCHE:
+  - conche
+CONCHILLAS:
+. conchillas
+CONCORDIA:
+  - concordia
+  - la concordia
+CONISBAY:
+  - conisbay
+CONNEAUT:
+  - conneaut
+CONSTANTA:
+  - constanta
+CONSTANTINE_HARBOR:
+  - constantine harbor
+CONSTANTINOPLA:
+  - istambul
+CONTRECOUR:
+  - contrecour
+CONVENT:
+  - convent
+CONWAY:
+  - conwy
+COOS_BAY:
+  - coos bay
+COPENHAGUE:
+  - copenhaguen
+  - københavn
+  - copenhagen
+COPPER_HARBOR:
+  - copper harbor
+COPPERMINE:
+  - coppermine
+COQUIMBO:
+  - coquimbo
+CORCUBION:
+  - corcubion
+CORDOVA:
+  - cordova
+COREA:
+  - corea
+CORFU:
+  - corfou
+CORINTO:
+  - corinto
+CORK_GB:
+  - cork
+CORK_IL
+  - cork
+CORME:
+  - corme
+CORNER_BROOK:
+  - corner brook
+CORNUCOPIA:
+  - cornucopia
+CORNWALL:
+  - cornwall
+CORONDA:
+  - coronda
+CORONEL:
+  - coronel
+CORPACH:
+  - corpach
+CORPUS_CHRISTI:
+  - corpus christi
+CORRIENTES:
+  - corrientes
+CORREO:
+  - correo
+CORUMBA:
+  - corumba
+CORUÑA:
+  - coruña
+  - a coruña
+  - la coruña
+COTTE:
+  - cotte
+COTEAU_LANDING:
+  - coteau landing
+CONTONOU:
+  - cotonou
+  - kotonau
+COUPEVILLE:
+  - coupeville
+COURTLAND:
+  - courtland
+COURTRIGHT:
+  - courtright
+COVENAS:
+  - covenas
+COWES:
+  - cowes
+COWICHAN_BAY:
+  - cowichan bay
+COXEN_HOLE:
+  - coxen hole
+CRAB_BAY:
+  - crab bay
+CRAIG:
+  - craig
+CRAIGNURE:
+  - craignure
+CREOSOTE:
+  - creosote
+CRESCENT_CITY:
+  - crescent city
+CRETA:
+  - creta
+  - crete
+CRIEHAVEN:
+  - criehaven
+CRINAN:
+  - crinan
+CROCKETT:
+  - crockett
+CROFTON:
+  - crofton
+CROMARTY:
+  - cromarty
+CROMER:
+  - cromer
+CRONSTADT:
+  - cronstadt
+CROOKHAVEN:
+  - crookhaven
+CROSBY:
+  - lancashire
+CROTONE:
+  - crotone
+CRUZ_BAY:
+  - cruz bay
+CUBA:
+  - cuba
+CUDDALORE:
+  - cuddalore
+CUDILLERO:
+  - cudillero
+CUETA:
+  - cueta
+CULLERA:
+  - cullera
+CULLERCOATS:
+  - cullercoats
+CUMANA:
+  - puerto sucre
+CUMBERLAND:
+  - cumberland
+CUNDY_HARBOR:
+  - cundy harbor
+CUIABA:
+  - cuiaba
+  - cuyaba
+CURACAO:
+  - curazao
+  - curaçao
+CUSHMAN:
+  - cushman
+CUXHAVEN:
+  - cuxhaven
+CUPALEN:
+  - cupalen
+DA_NANG:
+  - da nang
+DABO:
+  - dabo
+DAESAN_HANG:
+  - daesan hang
+DAGU_TANGGU:
+  - dagu tanggu
+DAHEJ:
+  - dahej
+DAI_HANG:
+  - dai hang
+DAKAR:
+  - dakar
+DALHOUSIE:
+  - dalhousie
+DALIAN:
+  - dalian
+DALVIK:
+  - dalvik
+DAMIETTA:
+  - damietta
+DAMMAM:
+  - dammam
+DAMPIER:
+  - dampier
+DANDONG:
+  - dandong
+DANDYHOLE:
+  - dandyhole
+DANZIG:
+  - danzig
+DAR_ES_SALAAM:
+  - dar es salaam
+DARIEN:
+  - darien
+DARLOWO:
+  - darlowo
+DARMOUTH:
+  - darmouth
+DARNAH:
+  - darnah
+DARU:
+  - daru
+DARWIN:
+  - darwin
+DAVAO:
+  - davao
+DAVENPORT:
+  - davenport
+DAVISVILLE_DEPOT:
+  - davisville depot
+DAWPOOL:
+  - dawpool
+DE_KASTRI:
+  - de kastri
+DEAL:
+  - deal
+DEAUVILLE:
+  - deauville
+DEEPWATER_POINT:
+  - deepwater point
+DEER_PARK:
+  - deer park
+DEERING:
+  - deering
+DEFTERDAR_BURNU:
+  - defterdar burnu
+DEGANWY:
+  - deganwy
+DEGERHAMN:
+  - degerhamn
+DEGRAD_DES_CANNES:
+  - degrad des cannes
+DE_LA_RADA_AR
+  - de la rada
+  - rada
+  - la rada en el riachuelo
+  - la rada en la boca
+  - rada de buenos aires
+  - boca
+  - rio de la plata
+DELAWARE-BREAKWATER
+  - delaware-breakwater
+DELFZIJL:
+  - delfzijl
+DELLYS:
+  - dellys
+DEMERARA:
+  - demerara  -mahaica
+DEN_HELDER:
+  - den helder
+DENIA:
+  - denia
+DEPERE:
+  - depere
+DEPOE_BAY:
+  - depoe bay
+DEPOT_HARBOUR:
+  - depot harbour
+DERBYHAVEN:
+  - derbyhaven
+DERINCE_BURNU:
+  - derince burnu
+DESBARATS:
+  - desbarats
+DESTREHAN:
+  - destrehan
+DETROIT:
+  - detroit
+DEVA:
+  - deva
+DEVONPORT:
+  - devonport
+DEVORAN:
+  - devoran
+DHEKELIA:
+  - dhekelia
+DHIAVLOS_STENO:
+  - dhiavlos steno
+DIAMANTE:
+  - diamante
+DIEGO_GARCIA:
+  - diego garcia
+DIEPPE:
+  - dieppe
+DIGBY:
+  - digby
+DIKILI:
+  - dikili
+DILI:
+  - dili
+DILLAS:
+  - dillas
+DILLINGHAM:
+  - dillingham
+DINGLE:
+  - dingle
+DISCOVERY_BAY:
+  - discovery bay
+DJEN_DJEN:
+  - djen  -djen
+DJERBAH:
+  - jerba
+DJIBOUTI:
+  - djibouti
+DJUPIVOGUR:
+  - djupivogur
+DJUPVIKEN:
+  - djupviken
+DNIPRO_BUZKYY:
+  - dnipro  -buzkyy
+DOHA:
+  - doha
+DOLORES:
+  - dolores
+DOMINICA:
+  - dominica
+DOMSJO:
+  - domsjo
+DONGES:
+  - donges
+DONGGALA:
+  - donggala
+DONGSHAN:
+  - dongshan
+DORALEH:
+  - doraleh
+DORDRECHT:
+  - dordrecht
+DOUALA:
+  - douala
+DOUGLAS:
+  - douglas
+DOUGLASTOWN:
+  - douglastown
+DOURO:
+  - douro
+DOVER_AU:
+  - dover
+DOVER_GB:
+  - dover
+DRAG:
+  - drag
+DRAMMEN:
+  - drammen
+DRIFT_RIVER:
+  - drift river
+DROBAK:
+  - drobak
+DROGHEDA:
+  - drogheda
+DROINTHEIM:
+  - trondheim
+DRY_SPRUCE_BAY:
+  - dry spruce bay
+DUBA:
+  - duba
+DUBAYY:
+  - dubayy
+DUBLIN:
+  - dublin
+DUBROVNIK:
+  - dubrovnik
+DUDDON:
+  - duddon
+DUDINKA:
+  - dudinka
+DUGI_RAT:
+  - dugi rat
+DULUTH:
+  - duluth
+DUMAGUETE:
+  - dumaguete
+DUMAI:
+  - dumai
+DUMBARTON:
+  - dumbarton
+DUMFRIES:
+  - dumfries
+DUNBAR:
+  - dunbar
+DUNCAN_BAY:
+  - duncan bay
+DUNDALK:
+  - dundalk
+DUNDEE:
+  - dundee
+DUNEDIN:
+  - dunedin
+DUNFANAGHY:
+  - dunfanaghy
+DUNKERQUE:
+  - dunkerque
+  - dunkirk
+DUNWICH:
+  - dunwich
+DUONG_DONG:
+  - duong dong
+DUPONT:
+  - dupont
+DURBAN:
+  - durban
+DURRES:
+  - durres
+  - durazzo
+DUTCH_HARBOR:
+  - dutch harbor
+DZAOUDZI:
+  - dzaoudzi
+EAGLE_HARBOR:
+  - eagle harbor
+EARLEY:
+  - earley
+EAST_BREMERTON:
+  - east bremerton
+EAST_LONDON:
+  - east london
+EASTBOURNE:
+  - eastbourne
+EASTERN_PART_OF_NIIGATA_KO:
+  - eastern part of niigata  -ko
+EASTMARSHES:
+  - eastmarshes
+EASTMERSEY:
+  - eastmersey
+EASTPORT:
+  - eastport
+ECEABAT:
+  - eceabat
+ECKERNFORDE:
+  - eckernforde
+EDEN:
+  - eden
+EDENTON:
+  - edenton
+EDGARTOWN:
+  - edgartown
+EDGEWATER:
+  - edgewater
+EDINBURGH_OF_THE_SEVEN_SEAS:
+  - edinburgh of the seven seas
+EDWARDS_POINT:
+  - edwards point
+EEMSHAVEN:
+  - eemshaven
+EGEGIK:
+  - egegik
+EGERSUND:
+  - egersund
+EGHION:
+  - eghion
+EGRIPO:
+  - egripo
+EKENAS:
+  - ekenas
+EKUK:
+  - ekuk
+EL_BARQUITO:
+  - el barquito
+EL_BLUFF:
+  - el bluff
+EL_BOSQUE:
+  - el bosque
+EL_CALLAO:
+  - el callao
+  - callao
+  - lima
+EL_CHORRILLO:
+  - el chorrillo
+EL_GHARDAQA:
+  - el ghardaqa
+EL_GRAO:
+  - el grao
+EL_GUAMACHE:
+  - el guamache
+EL_ISMAILIYA:
+  - el ismailiya
+EL_JADIDA:
+  - el jadida
+EL_JORF_LASFAR:
+  - el jorf lasfar
+EL_MAADIYA:
+  - el maadiya
+EL_PAJARO:
+  - el pajaro
+EL_PALITO:
+  - el palito
+EL_SEGUNDO:
+  - el segundo
+EL_TABIAZO:
+  - el tabiazo
+EL_TUR_HARBOR:
+  - el tur harbor
+EL_ADABIYA:
+  - el  -adabiya
+ELAT:
+  - elat
+ELEVSIS:
+  - elevsis
+ELFIN_COVE:
+  - elfin cove
+ELIZABETHPORT:
+  - elizabethport
+ELLEFSEN_HARBOR:
+  - ellefsen harbor
+ELLSWORTH:
+  - ellsworth
+ELLWOOD:
+  - ellwood
+ELMORE:
+  - elmore
+ELSFLETH:
+  - elsfleth
+ELSINORE:
+  - helsingør
+  - helsingor
+  - elseneur
+EMDEN:
+  - emden
+EMPEDRADO:
+  - empedrado
+EMPIRE:
+  - empire
+EMSWORTH:
+  - emsworth
+ENANGER:
+  - enanger
+  - enånger
+ENDE:
+  - ende
+ENGLISH_HARBOR:
+  - english harbor
+ENITWETAK_ISLAND:
+  - enitwetak island
+ENSENADA:
+  - ensenada
+ENSENADA_HONDA:
+  - ensenada honda
+ENSTED:
+  - ensted
+ENTRE_RIOS:
+  - entre 
+EPNEY:
+  - epney
+ERDEK:
+  - erdek
+EREGLI:
+  - eregli
+ERIE:
+  - erie
+ERITH:
+  - erith
+ERTHOLMENE:
+  - eartholms
+ESASI_KO:
+  - esasi ko
+ESBJERG:
+  - esbjerg
+ESCANABA:
+  - escanaba
+ESCOMBRERAS:
+  - escombreras
+ESCRIBEN:
+  .- escriben
+ESKIFJORDHUR:
+  - eskifjordhur
+ESMERALDAS:
+  - esmeraldas
+ESMIRNA:
+  - esmirna
+ESPERANCE:
+  - esperance
+ESPEVAER:
+  - espevaer
+ESQUIMALT_HARBOR:
+  - esquimalt harbor
+ESQUINA:
+  - esquina
+ESSAOUIRA:
+  - essaouira
+ESSEX:
+  - essex
+ESTEPONA:
+  - estepona
+ESTRELA_OIL_FIELD:
+  - estrela oil field
+EUPATORIA:
+  - eupatoria
+EUREKA:
+  - eureka
+EUROPA_POINT:
+  - europa point
+EUROPOORT:
+  - europoort
+EVERETT:
+  - everett
+EVESHAM:
+  - evesham
+EXBURY:
+  - exbury
+EXCURSION_INLET:
+  - excursion inlet
+EXETER:
+  - exeter
+EYEMOUTH:
+  - exmouth
+EZ_ZUEITINA:
+  - ez zueitina
+FABORG:
+  - faborg
+FAGERSTRAND:
+  - fagerstrand
+FAIRPORT:
+  - fairport
+FAKFAK:
+  - fakfak
+FAKSE_LADEPLADS_HAVN:
+  - fakse ladeplads havn
+FALKENBERG:
+  - falkenberg
+FALL_RIVER:
+  - fall river
+FALMOUTH_JM:
+  - falmouth
+FALMOUTH_US:
+  - falmouth
+FALMOUTH_GB:
+  - falmouth
+FALSTERBO:
+  - falster
+FAMAGUSTA:
+  - famagusta
+FANG_CHENG:
+  - fang  -cheng
+FARADOFAY:
+  - faradofay
+FAREHAM:
+  - fareham
+FARO:
+  - faro
+FAROSUND:
+  - farosund
+FARSUND:
+  - farsund
+FASSETT:
+  - fassett
+FAUSKE:
+  - fauske
+FAVERSHAM:
+  - faversham
+FAYAL:
+  - fayal
+FECAMP:
+  - fecamp
+FELANITX:
+  - felanitx
+  - felaniz
+FELIXSTOWE:
+  - felixstowe
+FELTON:
+  - felton
+FELONICA:
+  - felonica
+FENIT:
+  - fenit
+FEODOSIYA:
+  - feodosiya
+FERNANDINA:
+  - fernandina
+FERNANDO_POO:
+  - fernando poo
+FERROL:
+  - el ferrol
+FETHIYE:
+  - fethiye
+FIELDS_LANDING:
+  - fields landing
+FIGARI:
+  - figari
+FIGEHOLM:
+  - figeholm
+FIGUEIRA_DA_FOZ:
+  - figueira
+FILADELFIA:
+  - filadelfia
+  - philadelphia
+FINALE:
+  - finale
+FINNSNES:
+  - finnsnes
+FISHERCROSS:
+  - fishercross
+FISHERMANS_HARBOR:
+  - fishermans harbor
+FISHGUARD:
+  - fishguard
+FISTERRA:
+  - fisterra
+FIUME:
+  - rijejka
+FIUMICINO:
+  - fiumicino
+FJALLBACKA:
+  - fjallbacka
+FLAXLEY:
+  - flaxley
+FLEETWOOD:
+  - fleetwood
+FLEKKEFJORDEN:
+  - flekkefjorden
+FLENSBURG:
+  - flensburg
+FLINT:
+  - flint
+FLIXBOROUGH:
+  - flixborough
+FLORENCE:
+  - florence
+FLORIANOPOLIS
+  - florianopolis
+FLORO:
+  - floro
+FLUSHING:
+  - flushing
+FLYING_FISH_COVE:
+  - flying fish cove
+FOGO:
+  - fogo
+FOHR:
+  - föhr
+FOLKESTONE:
+  - folkestone
+FOLONICA:
+  - folonica
+  - follonica
+FOMBONI:
+  - fomboni
+FORARI_BAY:
+  - forari bay
+FORCADOS:
+  - forcados
+FORMIA:
+  - formia
+FORMOSA:
+  - formosa
+FORT_BRAGG:
+  - fort bragg
+FORT_DE_FRANCE:
+  - fort de france
+FORT_PIERCE:
+  - fort pierce
+FORT_WARD:
+  - fort ward
+FORT_WILLIAM:
+  - fort william
+FORTALEZA:
+  - fortaleza
+FORTE-DI-MARINI:
+  - forte di marini
+FORTUNE_HARBOR:
+  - fortune harbor
+FOS:
+  - fos
+FOSDYKE:
+  - fosdyke
+FOWEY:
+  - fowey
+FOYNES:
+  - foynes
+FOZ:
+  - foz
+FRAMILODE:
+  - framilode
+FRAMINGTON:
+  - framington
+FRAMPTON:
+  - frampton
+FRANKFORT:
+  - frankfort
+FRASER_MILLS:
+  - fraser mills
+FRASERBURG:
+  - fraserburg
+FRAY_BENTOS:
+  - fray bentos
+FRECKLETON:
+  - freckleton
+FREDERICIA:
+  - fredericia
+FREDERICKSBURG:
+  - fredericksburg
+FREDERIKSHAVN:
+  - frederikshavn
+FREDERIKSSUND:
+  - frederikssund
+FREDERIKSTED:
+  - frederiksted
+FREDERIKSVAERK:
+  - frederiksvaerk
+FREDRIKSTAD:
+  - fredrikstad
+FREEPORT_BS:
+  - freeport
+FREEPORT_US:
+  - freeport
+FREETOWN:
+  - freetown
+FREMANTLE:
+  - fremantle
+FRENCHBORO:
+  - frenchboro
+FRIDAY_HARBOR:
+  - friday harbor
+FRIENDSHIP:
+  - friendship
+FRODSHAM:
+  - frodsham
+FRONTERA:
+  - frontera
+FUENGIROLA:
+  - fuengirola
+FUENTERRABÍA:
+  - fuenterrabía
+FUGLAFJORDUR:
+  - fuglafjordur
+FUJAYRAH_HARBOR:
+  - fujayrah harbor
+FUKUI:
+  - fukui
+FUKUYAMA:
+  - fukuyama
+FUNABASHI:
+  - funabashi
+FUNAFUTI_ATOLL:
+  - funafuti atoll
+FUNCHAL:
+  - madeira
+FUNTER:
+  - funter
+FUSHIKI_TOYAMA:
+  - fushiki  -toyama
+FUZHOU:
+  - fuzhou
+GABES:
+  - gabes
+GÄVLE:
+  - geflé
+  - gable
+GAETA:
+  - gaeta
+GAINSBOROUGH:
+  - gainsborough
+GAIRLOCH:
+  - gairloch
+GALATI:
+  - galati
+GALATZ:
+  - galatzó
+GALLE_HARBOR:
+  - galle harbor
+GALLIPOLI:
+  - gallipoli
+GALVESTON:
+  - galveston
+GALWAY:
+  - galway
+GAMBIA:
+  - gambia
+GAMAGORI_KO:
+  - gamagori ko
+GANANOQUE:
+  - gananoque
+GANDIA:
+  - gandia
+GANGES:
+  - ganges
+GANNEL:
+  - gannel
+GANTE:
+  - gante
+  - gent
+  - ghent
+GAOGANG:
+  - gaogang
+GARGANTUA:
+  - gargantua
+GARLSTON:
+  - garlston
+GARRUCHA:
+  - la garrucha
+GARSTON:
+  - garston
+GARY:
+  - gary
+GASPE:
+  - gaspe
+GATESHEAD:
+  - gateshead
+GATINEAU:
+  - gatineau
+GAVAN_VYSOTSK:
+  - gavan vysotsk
+GAVIOTA:
+  - gaviota
+GAVLE:
+  - alderholmen
+  - gävle
+GAVRIO:
+  - gavrio
+GDANSK:
+  - gdynia
+GEBIG:
+  - gebig
+GEBZE:
+  - gebze
+GEELONG:
+  - geelong
+GEESTEMUNDE:
+  - bremerhaven  -geestemünde
+GEFLE:
+  - gefle
+GELENDZHIK:
+  - gelendzhik
+GELIBOLU:
+  - gelibolu
+GEMLIK:
+  - gemlik
+GENERAL_LAVALLE:
+  - general lavalle
+GENERAL_SANTOS:
+  - general santos
+GENOVA:
+  - genova
+GEORGE_INLET:
+  - george inlet
+GEORGETOWN_SH:
+  - georgetown
+GEORGETOWN_CA:
+  - georgetown
+GEORGETOWN_GY:
+  - georgetown
+GEORGETOWN_US:
+  - georgetown
+GEORGETOWN_KY:
+  - georgetown
+GERALDTON:
+  - geraldton
+GETARES:
+  - getares
+GETARIA:
+  - getaria
+GHAZAOUET:
+  - ghazaouet
+GHENT:
+  - ghent
+GIBARA:
+  - gibara
+GIBOSTAD:
+  - gibostad
+GIBRALTAR:
+  - gibraltar
+GIRGENTI:
+  - girgenti
+GIJON:
+  - gijon
+GILLINGHAM:
+  - gillingham
+GINGOOG:
+  - gingoog
+GINEBRA:
+  - ginebra
+GIOIA_TAURO:
+  - gioia tauro
+GIRESUN:
+  - giresun
+GIROLATA:
+  - girolata
+GISBORNE:
+  - gisborne
+GIURGIULESTI:
+  - moldavia
+GIZO_HARBOR:
+  - gizo harbor
+GLADSTONE_AU:
+  - gladstone
+GLADSTONE_US:
+  - gladstone
+GLASGOW:
+  - glasgow
+GLASSONDOCK:
+  - glassondock
+GLEN_COVE:
+  - glen cove
+GLENADA:
+  - glenada
+GLENSANDA:
+  - glensanda
+GLOMFJORD:
+  - glomfjord
+GLOUCESTER_GB:
+  - gloucester
+GLOUCESTER_US:
+  - gloucester
+GLUCKSTADT:
+  - gluckstadt
+GODBOUT:
+  - godbout
+GODERICH:
+  - goderich
+GODOME:
+  - godome
+GOLCUK_BURNU:
+  - golcuk burnu
+GOLD_RIVER:
+  - gold river
+GOLDCLIFFE:
+  - goldcliffe
+GOLDSBORO:
+  - goldsboro
+GOLFE JOUAN:
+  - golfe jouan
+GOLFITO:
+  - golfito
+GONAIVES:
+  - gonaives
+GOOLE:
+  - goole
+GOOSE_BAY:
+  - goose bay
+GOPALPUR:
+  - gopalpur
+GORE_BAY:
+  - gore bay
+GOREY:
+  - gorey
+GORONTALO:
+  - gorontalo
+GORRANHAVEN:
+  - gorranhaven
+GOSPORTMARINA:
+  - gosportmarina
+GOTEBORG:
+  - goteborg
+GOTHEMBURGO:
+  - gothenburgo
+  - göteborg
+  - gothenburg
+GOTHLAND:
+  - island of  gothland
+GOULAIS_BAY:
+  - goulais bay
+GOVE:
+  - gove
+GOYA:
+  - goya
+GRANATELLO:
+  - granatello
+GRAND_BANK:
+  - grand bank
+GRAND_CAYMANAS:
+  - grand caymanas
+GRAND_CUL_DE_SAC_BAY:
+  - grand cul de sac bay
+GRAND_HAVEN:
+  - grand haven
+GRAND_LAGOON:
+  - grand lagoon
+  - grand lahon
+GRAND_ISLE:
+  - grand isle
+GRAND_MARAIS:
+  - grand marais
+GRAND_NARROWS:
+  - grand narrows
+GRAND_POPO:
+  - grand-popo
+GRAND_TURK:
+  - grand turk
+GRANGE:
+  - grange
+GRANGEMOUTH:
+  - grangemouth
+GRANTARAJAL:
+  - grantarajal
+GRANTLEY_HARBOR:
+  - grantley harbor
+GRANTON:
+  - granton
+GRANVILLE_FR:
+  - granville
+GRANVILLE_CA:
+  - granville
+GRAO_DE_VALENCIA:
+  - grao de valencia
+GRASSELLI:
+  - grasselli
+GRAVELINES:
+  - gravelines
+GRAVESEND:
+  - gravesend
+GRAYS:
+  - grays
+GREAT_LAKES:
+  - great lakes
+GREAT_YARMOUTH:
+  - great yarmouth
+GREBBESTAD:
+  - grebbestad
+GRECIA:
+  - grecia
+  - greces
+GREEN_BAY:
+  - green bay
+GREENOCK:
+  - greenock
+GREENORE:
+  - greenore
+GREENPORT:
+  - greenport
+GREENVILLE:
+  - greenville
+GREENWICH_GB:
+  - greenwich
+GREENWICH_US:
+  - greenwich
+GRENAA_HAVN:
+  - grenaa havn
+GRENADA:
+  - grenada
+GRENVILLE:
+  - grenville
+GRESIK:
+  - gresik
+GRETNA:
+  - gretna
+GREYMOUTH:
+  - greymouth
+GRIMSBY:
+  - grimsby
+GRISSLEHAMN:
+  - grisslehamn
+GRONINGEN:
+  - groningen
+GRONNEDAL:
+  - gronnedal
+GROVEWHARF:
+  - grovewharf
+GRUNDARTANGI:
+  - grundartangi
+GRYTVIKEN:
+  - grytviken
+GUADALUPE:
+  - guadalupe
+  - guadeloupe
+GUAIRA:
+  - guaira
+GUALEGUAY:
+  - gualeguay
+  - rio gualeguay
+GUALEGUAYCHÚ:
+  - gualeguaychú
+GUANE:
+  - guane
+GUANGZHOU:
+  - guangzhou
+GUANTA:
+  - guanta
+GUANTANAMO:
+  . guantanamo
+GUAYABAL:
+  - guayabal
+GUAYAQUIL:
+  - guayaquil
+GUAYMAS:
+  - guaymas
+GUERNSEY:
+  - guernsey
+GUINCHO:
+  - guincho
+GUIRIA:
+  - guiria
+GUIUAN:
+  - guiuan
+GULFHAVEN:
+  - gulfhaven
+GULFPORT:
+  - gulfport
+GULFPORT_SI:
+  - gulfport si
+GULLUK:
+  - gulluk
+GUMBODAHAMN:
+  - gumbodahamn
+GUNUNG_BATU_BESAR:
+  - gunung batu besar
+GUSTAVIA:
+  - gustavia
+GUSTAVSBERG:
+  - gustavsberg
+GUSTAVSVIK:
+  - gustavsvik
+GUYSBOROUGH:
+  - guysborough
+GWADAR:
+  - gwadar
+GWANGYANG_HANG:
+  - gwangyang hang
+GWEEK:
+  - gweek
+HABANA:
+  - havannah
+  - la habana
+  - bahía de la habana
+HABU_KO:
+  - habu ko
+HACHINOHE_KO:
+  - hachinohe ko
+HADERA:
+  - hadera
+HADERSLEV:
+  - haderslev
+HADSUND:
+  - hadsund
+HAEJU_HANG:
+  - haeju hang
+HAFNARFJORDUR:
+  - hafnarfjordur
+HAGI_KO:
+  - hagi ko
+HAI_PHONG:
+  - hai phong
+HAIFA:
+  - haifa
+HAIKOU:
+  - haikou
+HAIMEN:
+  - haimen
+HAINES:
+  - haines
+HAKATA:
+  - hakata
+HAKODATE_KO:
+  - hakodate
+HALDEN:
+  - halden
+HALDIA_PORT:
+  - haldia port
+HALIFAX:
+  - halifax
+HALLSTAVIK:
+  - hallstavik
+HALMSTAD:
+  - halmstad
+HALS:
+  - hals
+HAMADA_KO:
+  - hamada ko
+HAMBLE:
+  - hamble
+HAMBURG:
+  - hamburgo
+  - altona
+HAMBURG_HARBOR:
+  - hamburg harbor
+HAMILTON_CA:
+  - hamilton
+HAMILTON_US:
+  - hamilton
+HAMILTON_BM:
+  - hamilton
+  - bermuda
+HAMINA:
+  - hamina
+HAMMERFEST:
+  - hammerfest
+HAMPTON:
+  - hampton
+HAMRAWEIN:
+  - hamrawein
+HANA:
+  - hana
+HANASAKI_KO:
+  - hanasaki ko
+HANCHBATCH:
+  - hanchbatch
+HANKO:
+  - hanko
+HANKOW:
+  - hankow
+HANLEY:
+  - hanley
+HANNAN_KO:
+  - hannan ko
+HANSTHOLM:
+  - hanstholm
+HANSWEERT:
+  - hansweert
+HAPARANDA:
+  - haparanda
+HARBOR_BEACH:
+  - harbor spring
+HARBOR_GRACE:
+  - harbor grace
+HAREID:
+  - hareid
+HARGSHAMN:
+  - hargshamn
+HARLINGEN:
+  - harlingen
+HARMAC:
+  - harmac
+HÄRNÖSAND:
+  - härnösand
+HAROYSUND:
+  - haroysund
+HARRINGTON:
+  - harrington
+HARSTAD:
+  - harstad
+HARTLAND:
+  - hartland
+HARTLEPOOL:
+  - hartlepool
+  - west hartlepool
+HARWICH:
+  - harwich
+HARWICHHAVEN:
+  - harwichhaven
+HASLE:
+  - hasle
+HASTINGS:
+  - hastings
+HAUGESUND:
+  - haugesund
+HAVERFORDWEST:
+  - haverfordwest
+HAVNEFJORD:
+  - havnefjorden
+HAVRE:
+  - havre
+  - le havre
+HAVRE_DE_GRACE:
+  - havre de grace
+HAVRE_ST_PIERRE:
+  - havre st pierre
+HAVREGOSSELIN:
+  - havregosselin
+HAWK_INLET:
+  - hawk inlet
+HAWKESBURY:
+  - hawkesbury
+HAY_POINT:
+  - hay point
+HAYDARPASA:
+  - haydarpasa
+HAYLE:
+  - hayle
+HAZIRA:
+  - hazira
+HEACHAM:
+  - heacham
+HEILIGENHAFEN:
+  - heiligenhafen
+HELFORD:
+  - helford
+HELIGOLAND:
+  - heligoland
+HELLNAS:
+  - hellnas
+HELMSDALE_HARBOR:
+  - helmsdale harbor
+HELSINKI:
+  - helsingfors
+HELVECIA:
+  - helvecia
+HEMNESBERGET:
+  - hemnesberget
+HENICHESK:
+  - henichesk
+HENNINGSVAER:
+  - henningsvaer
+HERACLIS:
+  - heraclis
+  - Marmara Ereğlisi
+HERNEBAY:
+  - hernebay
+HERNOSAND:
+  - härnösand
+HERON_BAY:
+  - heron bay
+HERTFORD:
+  - hertford
+HESKETHBANK:
+  - heskethbank
+HEYSHAM:
+  - heysham
+HIBI_KO:
+  - hibi ko
+HIBIKINADA:
+  - hibikinada
+HIDDEN_INLET:
+  - hidden inlet
+HIGASHI_HARIMA:
+  - higashi  -harima
+HIGUERITAS
+  - higueritas
+HIKARI:
+  - hikari
+HILBREE:
+  - hilbree
+HILO:
+  - hilo
+HILTON:
+  - hilton
+HIMANKA:
+  - himanka
+HIMEJI:
+  - himeji
+HIMEKAWA:
+  - himekawa
+HINATUAN:
+  - hinatuan
+HIRARA_KO:
+  - hirara ko
+HIROHATA:
+  - hirohata
+HIROSHIMA:
+  - hiroshima
+HIRTSHALS:
+  - hirtshals
+HITACHI:
+  - hitachi
+HITCHAM:
+  - hitcham
+HJERTING:
+  - hjerting
+HOBART:
+  - hobart
+HOBOKEN:
+  - hoboken
+HOBRO:
+  - hobro
+HOEK_VAN_HOLLAND:
+  - hoek van holland
+HOGANAS:
+  - hoganas
+HOGG_ISLAND:
+  - hogg island
+HOKIANGA:
+  - hokianga
+HOLBAEK:
+  - holbaek
+HOLLAND:
+  - holland
+HOLMESTRAND:
+  - holmestrand
+HOLSTEBRO_STUER:
+  - holstebro  -stuer
+HOLY_ISLAND:
+  - holy island
+HOLYHEAD:
+  - holyhead
+HOMER:
+  - homer
+HOMMELVIK:
+  - hommelvik
+HON_GAI:
+  - hon gai
+HONDAGUA:
+  - hondagua
+HONDARRIBIA:
+  - hondarribia
+HONDURAS:
+  - puerto cortes
+HONG_KONG:
+  - hong kong
+HONIARA:
+  - honiara
+HONNINGSVAG:
+  - honningsvag
+HONOKAA:
+  - honokaa
+HONOLULU:
+  - honolulu
+HONORA:
+  - honora
+HONUAPO:
+  - honuapo
+HOOD_BAY:
+  - hood bay
+HOODSPORT:
+  - hoodsport
+HOOGEZAND:
+  - hoogezand
+HOOLE:
+  - hoole
+HOONAH:
+  - hoonah
+HOPA:
+  - hopa
+HOPE_BAY:
+  - hope bay
+HOQUIAM:
+  - hoquiam
+HORNABJORDUR:
+  - hornabjordur
+HORNILLO:
+  - hornillo
+HORSENS:
+  - horsens
+HORSPILL:
+  - horspill
+HORTA:
+  - horta
+HORTEN:
+  - horten
+HOSOSHIMA_KO:
+  - hososhima ko
+HOUGHTON:
+  - houghton
+HOUMT_SOUK:
+  - houmt souk
+HOUSTON:
+  - houston
+HOVNEFIOR:
+  - hovnefior
+  - honfleur
+HOWDENDYKE:
+  - howdendyke
+HUA_LIEN_KANG:
+  - hua  -lien kang
+HUANGPU:
+  - huangpu
+HUANGPUXINGANG:
+  - huangpuxingang
+HUASCO:
+  - huasco
+HUBERSTONE:
+  - huberstone
+HUDIKSVALL:
+  - hudiksvall
+HUDSON:
+  - hudson
+HUELVA:
+  - huelva
+HUGHTOWN:
+  - hughtown
+HUIZHOU:
+  - huizhou
+HULL_CA:
+  - hull
+HULL_GB:
+  - hull
+HULLBRIDGE:
+  - hullbridge
+HULUDAO_GANG:
+  - huludao gang
+HUMAITA:
+  - humaita
+HUMBERSEATERMINAL:
+  - humberseaterminal
+HUNDESTED:
+  - hundested
+HUNGNAM:
+  - hungnam
+HUNNEBOSTRAND:
+  - hunnebostrand
+HUNSTANTON:
+  - hunstanton
+HUNTERSTON:
+  - hunterston
+HURON:
+  - huron
+HURSTCASTLE:
+  - hurstcastle
+HUSAVIK:
+  - husavik
+HUSNES:
+  - husnes
+HUSUM:
+  - husum
+HYANNIS:
+  - hyannis
+HYANNIS_PORT:
+  - hyannis port
+HYDABURG:
+  - hydaburg
+HYDER:
+  - hyder
+HYTHE:
+  - hythe
+IBICUY:
+  - ibicuy
+IBIZA:
+  - ibiza
+  - eivissa
+  - iviza
+IBO:
+  - ibo
+IBRAIL:
+  - ibraila
+IGARKA:
+  - igarka
+IGGESUND:
+  - iggesund
+IHARANA:
+  - iharana
+IJMUIDEN:
+  - ijmuiden
+ILE_MARANON
+  - ile maranon
+ILE_ROUSSE:
+  - ile rousse
+ILFRACOMBE:
+  - ilfracombe
+ILIGAN:
+  - iligan
+ILLICHIVSK:
+  - illichivsk
+ILLULISSAT:
+  - illulissat
+ILOILO:
+  - iloilo
+ILWACO:
+  - ilwaco
+IMABARI_KO:
+  - imabari ko
+IMARI:
+  - imari
+IMBITUBA:
+  - imbituba
+IMMINGHAM:
+  - immingham
+IMPERIA:
+  - imperia
+INCHON:
+  - inchon
+INDEPENDENCIA:
+  - independencia	
+INDIANA_HARBOR:
+  - indiana harbor
+INEBOLU:
+  - inebolu
+INHAMBANE:
+  - inhambane
+INKOO:
+  - inkoo
+INSTOW:
+  - instow
+INTERIOR_DE_LOS_RIOS:
+  - interior de los rios
+INVERGORDON:
+  - invergordon
+INVERNESS:
+  - inverness
+IPSWICH:
+  - ipswich
+IQUIQUE:
+  - iquique
+IQUITOS:
+  - iquitos
+IRAKLION:
+  - iraklion
+IRELAND_ISLAND:
+  - ireland island
+IRELETH:
+  - ireleth
+IRUM:
+  - irún
+IRVINE:
+  - irvine
+ISABEL:
+  - isabel
+ISABELA_DE_SAGUA:
+  - isabela de sagua
+ISAFIORD:
+  - ísafjörður
+  - isefjord
+ISCHIA:
+  - ischia
+ISHIGAKI:
+  - ishigaki
+ISHIKARI_BAY_NEW_PORT:
+  - ishikari bay new port
+ISHINOMAKI_KO:
+  - ishinomaki ko
+ISIKARI_WAN:
+  - isikari wan
+ISKENDERUN:
+  - iskenderun
+ISLA:
+  - isla
+ISLA_CRISTINA:
+  - isla cristina
+ISLA_DE_HORNOS:
+  - isla de hornos
+ISLA_DE_LOBOS:
+  -isla de lobos
+ISLA_DE_MAIO:
+  - isla de maio
+  - maio
+ISLA_DE_La_ SAL
+  - isla de sal
+  - salt island
+ISLA_DEL_CARMEN:
+  - isla del carmen
+ISLA_DE_SANTA_ELENA:
+  - isla de santa elena
+ISLANDIA:
+  - islandia
+ISLA_SAN_MARCOS:
+  - isla san marcos
+ISLANDS_OF_MOEN:
+  - islands of moen
+  - møn
+ISLAS:
+  - islas
+ISLAS_DE_SAN_FERNANDO:
+  -islas de san fernando
+ISLAS_DEL_PARANÁ
+  - islas del paraná
+ISLAS_DEL URUGUAY:
+  - islas del uruguay
+ISLAS_HORMIGAS:
+  - islas hormigas
+ISLE_JEREMIE:
+  - les Îlets  -Jérémie
+ISLAS_MALVINAS:
+  - falkland islands
+ISLE_OF_ARRAN:
+  - isle of arran
+ISLE_OF_GRAIN:
+  - isle of grain
+ISLE_OF_SKY:
+  - isle of sky
+ISLES_OF_ISLAY:
+  - port ellen
+ISLES_OF_NORTH_UIST,_SOUTH_UIST_AND_BARRA:
+  - north uist
+ISLETON:
+  - isleton
+ISMALIA:
+  - ismailia
+ISTHMUS_COVE:
+  - isthmus cove
+ISTINYE:
+  - istinye
+ITACOATIARA:
+  - itacoatiara
+ITAJAI:
+  - itajai
+ITAPIRUBÁ:
+  -itapirubá
+ITAQUI:
+  - Maranhão
+ITCHEN:
+  - itchen
+ITEA:
+  - itea
+ITUZAINGÓ:
+  - ituzaingó
+ITZEHOE:
+  - itzehoe
+IVANOF_BAY:
+  - ivanof bay
+IWAKUNI_KO:
+  - iwakuni ko
+IZABAL:
+  - izabal
+IZMAYIL:
+  - izmayil
+IZMIR:
+  - izmit
+IZUHARA:
+  - izuhara
+JABAL_AZ_ZANNAH:
+  - jabal az zannah
+JACKSONVILLE:
+  - jacksonville
+JAFFA:
+  - jaffa
+JAKARTA:
+  - jakarta
+JAKOBSTAD:
+  - jakobstad
+JALUIT:
+  - jaluit
+JAMAICA:
+  - jamaica
+JAQUEMEL:
+  - jacmel
+JASK:
+  - jask
+JAVEA:
+  - javea
+  - javea
+JAWAHARLAL_NEHRU_PORT:
+  - jawaharlal nehru port
+JAYAPURA:
+  - jayapura
+JAZIRAT_DAS:
+  - jazirat das
+JAZIRAT_HALUL:
+  - jazirat halul
+JAZIREH_YE_HORMOZ:
+  - jazireh  -ye hormoz
+JAZIREH_YE_SIRRI:
+  - jazireh  -ye sirri
+JERSEY:
+  - jersey
+JERSEY_CITY:
+  - jersey city
+JERVIS_BAY:
+  - jervis bay
+JIANGYIN:
+  - jiangyin
+JIDDAH:
+  - jiddah
+JIJEL:
+  - jijel
+JIMENEZ:
+  - jimenez
+JINZHOU_WAN:
+  - jinzhou wan
+JIZAN:
+  - jizan
+JOÃO_PESSOA:
+  - parahiba
+JOHNSTON_ATOLL:
+  - johnston atoll
+JOHOR:
+  - johor
+JOLO:
+  - jolo
+JONESPORT:
+  - jonesport
+JORDAN:
+  - jordan
+JOSE_IGNACIO:
+  - jose ignacio
+JOSE_PANGANIBAN:
+  - jose panganiban
+JUCARO:
+  - jucaro
+JUNEAU:
+  - juneau
+JURA:
+  - craighouse
+JURONG_ISLAND:
+  - jurong island
+JUSSARO:
+  - jussaro
+KABA_BURNU:
+  - kaba burnu
+KAGAWONG:
+  - kagawong
+KAGEHAMN:
+  - kagehamn
+KAGOSHIMA_KO:
+  - kagoshima ko
+KAHULUI:
+  - kahului
+KAILUA:
+  - kailua
+KAJALLEQ_UPERNAVIK:
+  - kajalleq upernavik
+KAKE:
+  - kake
+KAKINADA_BAY:
+  - kakinada bay
+KAKOGAWA:
+  - kakogawa
+KALAMA:
+  - kalama
+KALAMATA:
+  - kalamata
+KALI_LIMENES:
+  - kali limenes
+KALIMNOS:
+  - kalimnos
+KALININGRAD:
+  - kaliningrad
+KALUNDBORG:
+  - kalundborg
+KAMAISHI_KO:
+  - kamaishi ko
+KAMALO:
+  - kamalo
+KAMARAJAR_PORT:
+  - kamarajar port
+KAMBO:
+  - kambo
+KAMPEN:
+  - kampen
+KAMPONG_SAOM:
+  - kampong saom
+KAMSAR:
+  - kamsar
+KANATAK:
+  - kanatak
+KANAZAWA:
+  - kanazawa
+KANDA:
+  - kanda
+KANDALAKSHA:
+  - kandalaksha
+KANDLA:
+  - kandla
+KANGAMIUT:
+  - kangamiut
+KANGERLUARSORUSEQ:
+  - kangerluarsoruseq
+KANGERLUSUAQ:
+  - kangerlusuaq
+KANKESANTURAI:
+  - kankesanturai
+KANOKAWA_KO:
+  - kanokawa ko
+KANTANG_HARBOR:
+  - kantang harbor
+KANTLAX:
+  - kantlax
+KAO_HSIUNG:
+  - kao  -hsiung
+KAPPELN:
+  - kappeln
+KARABANE:
+  - karabane
+KARABIGA:
+  - karabiga
+KARAIKAL_PORT:
+  - karaikal port
+KARATSU:
+  - karatsu
+KARLSBORG:
+  - karlsborg
+KARLSKRONA:
+  - karlskrona
+KARLUK:
+  - karluk
+KARSKAR:
+  - karskar
+KARSTO:
+  - karsto
+KARUMBA:
+  - karumba
+KARWAR:
+  - karwar
+KASAAN:
+  - kasaan
+KASHIMA_KO:
+  - kashima ko
+KASHIWAZAKI:
+  - kashiwazaki
+KASKINEN:
+  - kaskinen
+KATAKOLON:
+  - katakolon
+  - katacolo
+  - katacolou
+KATALLA:
+  - katalla
+KATSUNAN_KO:
+  - katsunan ko
+KAUHAKO_BAY:
+  - kauhako bay
+KAUKAUNA:
+  - kaukauna
+KAUMALAPAU_HARBOR:
+  - kaumalapau harbor
+KAUNAKAKAI:
+  - kaunakakai
+KAVALA:
+  - kavala
+KAVIENG_HARBOR:
+  - kavieng harbor
+KAWAIHAE:
+  - kawaihae
+KAWASAKI_KO:
+  - kawasaki ko
+KEADBY:
+  - keadby
+KEFLAVIK:
+  - keflavik
+KEMAMAN_HARBOR:
+  - kemaman harbor
+KEMANO_BAY:
+  - kemano bay
+KEMI:
+  - kemi
+KENAI:
+  - kenai
+KENDARI:
+  - kendari
+KENITRA:
+  - kenitra
+KENMARE:
+  - kenmare
+KENNEBUNKPORT:
+  - kennebunkport
+KENOSHA:
+  - kenosha
+KEPPEL:
+  - keppel
+KERCH:
+  - kerch
+KERET:
+  - keret
+KERKIRA:
+  - kerkira
+KERTCH:
+  - Ketch Harbour
+KERTEMINDE:
+  - kerteminde
+KESENNUMA_KO:
+  - kesennuma ko
+KETCHIKAN:
+  - ketchikan
+KETTLETOFT:
+  - kettletoft
+KEWAUNEE:
+  - kewaunee
+KEY_HARBOUR:
+  - key harbour
+KEY_WEST:
+  - key west
+KEYPORT:
+  - keyport
+KHALIFA_BIN_SALMAN:
+  - khalifa bin salman
+KHANOM:
+  - khanom
+KHAWR_AL_AMAYA:
+  - khawr al zubair
+KHAWR_FAKKAN:
+  - khawr khasab
+KHERSON:
+  - kherson
+KHIOS:
+  - khios
+KHOLMSK:
+  - kholmsk
+KHOMS:
+  - khoms
+KHORLY:
+  - khorly
+KHORRAMSHAHR:
+  - khorramshahr
+KHOSROWABAD:
+  - khosrowabad
+KIANA:
+  - kiana
+KIDWELLY:
+  - kidwelly
+KIEL:
+  - kiel
+KIETA:
+  - kieta
+KIHOLO:
+  - kiholo
+KIIRE:
+  - kiire
+KIJANG:
+  - kijang
+KIKUMA_KO:
+  - kikuma ko
+KILIFI:
+  - kilifi
+KILKEEL:
+  - kilkeel
+KILLARNEY:
+  - killarney
+KILLYBEGS:
+  - killybegs
+KILROOT:
+  - kilroot
+KILRUSH:
+  - kilrush
+KILWA_KIVINJE:
+  - kilwa kivinje
+KIMBE:
+  - kimbe
+KIMCH'AEK:
+  - kimch'aek
+KIMI:
+  - kimi
+  - kumi
+KIMSHAN_COVE:
+  - kimshan cove
+KIN_WAN:
+  - kin wan
+KING_COVE:
+  - king cove
+KING_FAHD_PORT:
+  - king fahd port
+KING'S_LYNN:
+  - king's lynn
+  - kingslynn
+KINGSBRIDGE:
+  - kingsbridge
+KINGSCOTE:
+  - kingscote
+KINGSTON_GB:
+  - kingston
+KINGSTON_NF:
+  - kingston
+KINGSTON_US:
+  - kingston
+KINGSTON_JM:
+  - kingston
+KINGSTON_UPON_HULL:
+  - kingston upon hull
+KINGSTOWN:
+  - kingstown
+KINGSVILLE:
+  - kingsville
+KINSALE:
+  - kinsale
+KINUURA_KO:
+  - kinuura ko
+KYPARISSIA:
+  - kyparissía
+KIRKEHAMN:
+  - kirkehamn
+KIRKENES:
+  - kirkenes
+KIRKWALL:
+  - kirkwall
+
+KIRKWALL_AND_NORTH_ISLES:
+  - kirkwall and north isles
+KISARAZU_KO:
+  - kisarazu ko
+KISKA:
+  - kiska
+KISMAAYO:
+  - kismaayo
+KITIMAT:
+  - kitimat
+KJERRINGOY:
+  - kjerringoy
+KJOLLEFJORDEN:
+  - kjollefjorden
+KLAIPEDA:
+  - klaipeda
+KLAKSVIK:
+  - klaksvik
+KLAWOCK:
+  - klawock
+KLEIN_POINT:
+  - klein point
+KLEMTU:
+  - klemtu
+KLINTEHAMN:
+  - klintehamn
+KNOTTEND:
+  - knottend
+KNUDSON_COVE:
+  - knudson cove
+KOBE:
+  - kobe
+KOBENHAVN:
+  - kobenhavn
+KOCHI:
+  - cochin
+KOCHI_KO:
+  - kochi ko
+KODIAK:
+  - kodiak
+KOGE:
+  - koge
+KOGGIUNG:
+  - koggiung
+KOKKOLA:
+  - kokkola
+KOKO:
+  - koko
+KOKOPO:
+  - kokopo
+KOKURA_KO:
+  - kokura ko
+KOLACHEL:
+  - kolachel
+KOLDING:
+  - kolding
+KOLOBRZEG:
+  - kolobrzeg
+KOLONODALE:
+  - kolonodale
+KOMATSUSHIMA:
+  - komatsushima
+KONGSHAVN:
+  - kongshavn
+KOPASKER:
+  - kopasker
+KOPER:
+  - koper
+KOPERVIK:
+  - kopervik
+KOPMANHOLMEN:
+  - kopmanholmen
+KORCULA:
+  - korcula
+KORSAKOV:
+  - korsakov
+KORSNES:
+  - korsnes
+KORSOR:
+  - korsor
+KOTA_BARU:
+  - kota baru
+KOTA_KINABALU:
+  - kota kinabalu
+KOTKA:
+  - kotka
+KOTLIK:
+  - kotlik
+KOTONOU:
+  - cotonou
+KOTOR:
+  - kotor
+KOTZEBUE:
+  - kotzebue
+KOVDA:
+  - kovda
+KPEME:
+  - kpeme
+KRABI:
+  - krabi
+KRAGERO:
+  - kragero
+KRALENDIJK:
+  - kralendijk
+KRAMFORS:
+  - kramfors
+KRISTIANSUND:
+  - kristiansund
+  - cristiansund
+KRISTINESTAD:
+  - kristinestad
+  - cristianestad
+KRONSHTADT:
+  - kronshtadt
+KUALA_BELAIT:
+  - kuala belait
+KUALA_KAPUS:
+  - kuala kapus
+KUALA_TANJUNG:
+  - kuala tanjung
+KUALA_TRENGGANU:
+  - kuala trengganu
+KUCHING:
+  - kuching
+KUDAMATSU:
+  - kudamatsu
+KUDAT:
+  - kudat
+KUITO_OIL_FIELD:
+  - kuito oil field
+KUMAI:
+  - kumai
+KUMUL:
+  - kumul
+KUNDA:
+  - kunda
+KUNSAN:
+  - kunsan
+KUPANG:
+  - kupang
+KURE:
+  - kure
+KURRACHEE:
+  - karachi
+KUSADASI:
+  - kusadasi
+KUSANARTOQ:
+  - kusanartoq
+KUSHIRO_KO:
+  - kushiro ko
+KVALSUND:
+  - kvalsund
+KWAJALEIN:
+  - kwajalein
+KWIGUK:
+  - kwiguk
+KYLEAKIN:
+  - kyle of lochalsh
+KYLOREN:
+  - kyloren
+KYMASSI:
+  - kymassi
+KYNDBYVAERKETS_HAVN:
+  - kyndbyvaerkets havn
+KYOMIP'O:
+  - kyomip'o
+KYRENIA:
+  - kyrenia
+KYRYLIVKA:
+  - kyrylivka
+LA_BAIE:
+  - la baie
+LA_CANEA:
+  - la canea
+  - chania
+  - candie
+LA_CEIBA:
+  - la ceiba
+LA_CIOTAT:
+  - la ciotat
+  - ciotat
+LA_CONCORDIA
+  - la concordia
+LA_CORUÑA:
+  - la coruña
+  - a coruña
+LA_CRUZ:
+  - la cruz
+LA_ESCALA:
+  - la escala
+LA_ESTACA:
+  - la estaca
+LA_GARRUCHA:
+  - la garrucha
+LA_GOULETTE:
+  - la goulette
+LA_GUAIRA:
+  - la guaira
+LA_GUARDIA:
+  - la guardia
+LA_GUAYRA:
+  - la guayra
+LA_LIBERTAD:
+  - la libertad
+LA_LÍNEA:
+  - la línea
+LA_MADDALENA:
+  - la maddalena
+LA_MAR:
+  - la mar
+  - de la mar
+LA_NOUVELLE:
+  - port-la-nouvelle
+  - nouvelle
+LA_PALLICE:
+  - la pallice
+LA_PALMA:
+  - la palma
+LA_PALOMA:
+  - la paloma
+LA_PAZ_MX:
+  - la paz
+LA_PAZ_AR:
+  - la paz
+LA_PLATA:
+  - la plata
+LA_PLAYA_ARGUINE:
+  - la playa arguine
+LA_POINTE:
+  - la pointe
+LA_PUNTILLA:
+  - la puntilla
+LA_PUSH:
+  - la push
+LA_RESTINGA:
+  - la restinga
+LA_REUNION:
+  - reunion
+  - reunion island
+LA_ROCHELLE:
+  - la rochelle
+LA_ROMANA:
+  - la romana
+LA_SALINA:
+  - la salina
+LA_SAVINA:
+  - la savina
+LA_SELVA:
+  - la selva
+LA_SEYNE:
+  - seyne  -sur  -mer
+LA_SPEZIA:
+  - la spezia
+LA_UNION:
+  - la union
+LAAYOUNE:
+  - laayoune
+LABUHA:
+  - labuha
+LABUHANHAJI:
+  - labuhanhaji
+LADY_FRANKLIN_POINT:
+  - lady franklin point
+LAE:
+  - lae
+LAEM_CHABANG:
+  - laem chabang
+LAGOS_NG:
+  - lagos
+LAGOS_GR:
+  - lagos
+LAGOS_PT:
+  - lagos
+LAGUNA:
+  - laguna
+LAGUNA_DE_TÉRMINOS:
+  - laguna de términos
+LAHAD_DATU:
+  - lahad datu
+LAHAINA:
+  - lahaina
+LAJES:
+  - lajes
+LAKE_CHARLES:
+  - lake charles
+LAKKI:
+  - lakki
+LAKSELV:
+  - lakselv
+LAMLASH_HARBOR:
+  - lamlash harbor
+LAMU:
+  - lamu
+LANCASTER:
+  - lancaster
+LANDSKRONA:
+  - landskrona
+LÂNDANA:
+  - Lândana
+  - cacongo
+landana
+LANGSTEIN:
+  - langstein
+LANSHAN:
+  - lanshan
+LANZAROTE:
+  - puerto del carmen
+LAOANG:
+  - laoang
+LAPOILE_BAY,_AND_SOUTH_COAST_OF_NEWFOUNDLAND:
+  - lapoile bay, and south coast of newfoundland
+LARACHE:
+  - larache
+LARANTUKA:
+  - larantuka
+LARGS:
+  - largs
+LARIMNA:
+  - larimna
+LARNACA:
+  - larnaca
+LARNE:
+  - larne
+LARSEN_BAY:
+  - larsen bay
+LARVIK:
+  - larvik
+LAS_CALDERAS:
+  - las calderas
+LAS_GALLETAS:
+  - las galletas
+LAS_HORMIGAS:
+  - las hormigas
+LAS_MAREAS:
+  - las mareas
+LAS_PALMAS_ES:
+  - las palmas de gran canaria
+LAS_PALMAS_AR:
+  - las palmas
+LAS_PIEDRAS:
+  - las piedras
+LASTRES:
+  - lastres
+LATAQUIA:
+  - lataquia
+LATOUCHE:
+  - latouche
+LAUGHARNE:
+  - laugharne
+LAUNCESTON:
+  - launceston
+LAURVIG:
+  - larvik
+LAUTOKA_HARBOR:
+  - lautoka harbor
+LAVRIO:
+  - lavrio
+LAXE:
+  - laxe
+LAXEY:
+  - laxey
+LAZAREV:
+  - lazarev
+LAZARO_CARDENAS:
+  - lazaro cardenas
+LAZI:
+  - lazi
+LAZY_BAY:
+  - lazy bay
+LE_FRANCOIS
+  - le francois
+LE_LEGUE:
+  - le legue
+LE_MOULE
+  - le moule
+LE_PIREE:
+  - el pireo
+LE_TREPORT:
+  - le treport
+LE_VERDON:
+  - le verdon
+LEAMINGTON:
+  - leamington
+LEE:
+  - lee
+LEER:
+  - leer
+LEGAZPI_PORT:
+  - legazpi port
+LEIGHONSEA:
+  - leighonsea
+LEIRVIK:
+  - leirvik
+LEITH:
+  - leith
+LELAND:
+  - leland
+LELE_HARBOR:
+  - lele harbor
+LEONIDIO:
+  - leonidio
+  - lenidi
+LEMVIG:
+  - lemvig
+LEONARDO:
+  - leonardo
+LEPE:
+  - lepe
+LEQUEITO:
+  - lequeito
+LERWICK:
+  - lerwick
+LES_BORMETTES:
+  - les bormettes
+LES_SABLES_D'_OLONNE:
+  - les sables d' olonne
+LES_PASQUIERS:
+  - les pasquiers
+LÉZARDRIEUX:
+  - lézardrieux
+LESOGORSK:
+  - lesogorsk
+L'ESTAQUE:
+  - l'estaque
+LETNIKOF_COVE:
+  - letnikof cove
+LEVANGER:
+  - levanger
+LEVANTO:
+  - levanto
+LEVUKA:
+  - levuka
+LEWES:
+  - lewes
+LIANYUNGANG:
+  - lianyungang
+LIBAU:
+  - Liepāja
+LIBREVILLE:
+  - libreville
+LICATA:
+  - licata
+LIDDESTON:
+  - liddeston
+LIEBIG:
+  - liebig
+LIELUPE:
+  - lielupe
+LIERNA:
+  - lierna
+LIEPAJA:
+  - liepaja
+LILANDSGRUNNEN:
+  - lilandsgrunnen
+L'ILE_ROUSSE:
+  - l'ile rousse
+LIMASSOL:
+  - limassol
+LIMERICK:
+  - limerick
+LIMETREE_BAY:
+  - limetree bay
+LIMHAMN:
+  - limhamn
+LIMIN_KOS:
+  - limin kos
+LIMIN_SIROU:
+  - limin sirou
+LINCOLN:
+  - lincoln
+LINDEN:
+  - linden
+LINDISFARNE:
+  - lindisfarne
+LINGKAS:
+  - lingkas
+LION:
+  - lion
+  - lyon
+LIONS_HEAD:
+  - lions head
+LIORNA:
+  - livorno
+  - leghorn
+LIPARI:
+  - lipari
+LIRQUEN:
+  - lirquen
+LISBOA:
+  - lisboa
+  - lisbon
+LITLE_BALLANGEN:
+  - litle ballangen
+LITTLE_BAY:
+  - montserrat
+LITTLE_BRAS_D_OR:
+  - little bras d or
+LITTLE_CURRENT:
+  - little current
+LITTLE_PORT_WALTER:
+  - little port walter
+LITTLEHAMPTON:
+  - littlehampton
+LITTLEHEAVEN:
+  - littleheaven
+LIVERPOOL_GB:
+  - liverpool
+LIVERPOOL_CA:
+  - liverpool
+LIVORNO:
+. livorno
+  - leghorn
+LLANELLI:
+  - llanely
+LLANES:
+  - llanes
+LLANMADOC:
+  - llanmadoc
+LLANSAINFORD:
+  - llansainford
+LLANSTEPHAN:
+  - llanstephan
+LLORET:
+  - lloret
+LOBITO:
+  - lobito
+LOCH_ERIBOL:
+  - loch eribol
+LOCHALINE:
+  - lochaline
+LOCHBOISDALE:
+  - lochboisdale
+LOCHMADDY:
+  - lochmaddy
+LOCKEPORT:
+  - lockeport
+LODINGEN:
+  - lodingen
+LOLLAND:
+  - lolland
+LOME:
+  - lome
+LOMONOSOV:
+  - lomonosov
+LONDONDERRY:
+  - londonderry
+LONDRES:
+  - london
+LONG_BEACH:
+  - long beach
+LONGAN_ISLAND:
+  - longan island
+LONGKOU_GANG:
+  - longkou gang
+LONGNEY:
+  - longney
+LONGONE:
+  - longone
+  - longoni
+LONGOSARDO:
+  - longosardo
+  - longo sardo
+LONGVIEW:
+  - longview
+LONGYEARBYEN:
+  - longyearbyen
+LOOE:
+  - looe
+LORAIN:
+  - lorain
+LORENGAU:
+  - lorengau
+LORIENT:
+  - lorient
+LORING:
+  - loring
+LOS_ANGELES:
+  - los angeles
+LOS_CRISTIANOS:
+  - los cristianos
+LOS_PUERTOS_DEL_SUR:
+  - los puertos del sur
+  - puertos del sur
+LOSSIEMOUTH:
+  - lossiemouth
+LOTA:
+  - lota
+LOUGHOR:
+  - loughor
+LOUISBURG:
+  - louisburg
+LOVIISA:
+  - loviisa
+LOWESTOFT:
+  - lowestoffe
+LUANGO:
+  - luanco
+LUARCA:
+  - luarca
+LUBA:
+  - luba
+LUBECK:
+  - lubec
+  - travemunde
+LUCEA:
+  - lucea
+LUCINDA:
+  - lucinda
+LUDERITZ_BAY:
+  - luderitz bay
+LUDINGTON:
+  - ludington
+LUGANVILLE:
+  - luganville
+LULCA:
+  - luca
+LULEA:
+  - lulea
+LULWORTH:
+  - lulworth
+LUMUT:
+  - lumut
+LUNDE:
+  - lunde
+LUNENBURG:
+  - lunenburg
+LUSHUN:
+  - lushun
+LUTONG:
+  - lutong
+LUWUK:
+  - luwuk
+LYALL_HARBOR:
+  - lyall harbor
+LYDD:
+  - lydd
+LYDSTEP:
+  - lydstep
+LYME:
+  - lidney
+LYMEREGIS:
+  - lymeregis
+LYMINGTON:
+  - lymington
+LYMPSTONE:
+  - lympstone
+LYNDIANE:
+  - lyndiane
+LYNESS:
+  - lyness
+LYNMOUTH:
+  - lynmouth
+LYNN:
+  - lynn
+LYNTON:
+  - lynton
+LYSEKIL:
+  - lysekil
+LYTHAM:
+  - lytham
+LYTTLETON:
+  - lyttleton
+MAASIN:
+  - maasin
+MAASSLUIS:
+  - maassluis
+MABLETHORPE:
+  - mablethorpe
+MACAU:
+  - macau
+  - macao
+MACDUFF:
+  - macduff
+MACEIÓ:
+  - maceiro
+MACHIAS:
+  - machiasport
+MACHILIPATNAM:
+  - machilipatnam
+MACKAY:
+  - mackay
+MACKINAC_ISLAND:
+  - mackinaw city
+MACINAGGIO:
+  - macinaggio
+MADANG:
+  - madang
+MADDALENA:
+  - maddalena
+  - la maddalena
+  - madalena
+  - magdalena
+MADELEY:
+  - madeley
+MADISONVILLE:
+  - madisonville
+MADRAS:
+  - chennai
+MADRE_DE_DEUS:
+  - madre de deus
+MAGDALEN_ISLANDS:
+  - magdalen islands
+MAGDALENA_AR:
+  - magdalena
+MAGDALLA:
+  - magdalla
+MAHAJANGA:
+  - mahajanga
+MAHE:
+  - mahe
+MAHON:
+  - maó
+MAHUKONA:
+  - mahukona
+MAIDSTONE:
+  - maidstone
+MAILIAO:
+  - mailiao
+MAINTIRANO:
+  - maintirano
+MAIZURU_KO:
+  - maizuru
+MAJURO_ATOLL:
+  - majuro atoll
+MAKUSHIN:
+  - makushin
+MALABO:
+  - malabo
+MALABRIGO:
+  - reconquista
+MALAGA:
+  - málaga
+MALAI:
+  - malai
+MALAKAL_HARBOR:
+  - malakal harbor
+MALE:
+  - male
+MALEKULA:
+  -malekula
+MALDON:
+  - maldon
+MALDONADO:
+  - maldonado
+MALGRAT:
+  - malgrat
+MALI_LOŠINJ:
+  - lošinj
+MALLAIG:
+  - mallaig
+MALLORCA:
+  - mallorca
+MALM:
+  - malm
+MALMO:
+  - malmo
+MALOY:
+  - maloy
+MALPICA:
+  - la valeta
+MAMONAL:
+  - mamonal
+MANACOR:
+  - manacor
+MANADO:
+  - manado
+MANAKARA:
+  - manakara
+MANANJARY:
+  - mananjary
+MANAOS:
+  - manaus
+MANATI:
+  - manati
+MANCHESTER:
+  - manchester
+MANDAL:
+  - mandal
+MANDVI:
+  - mandvi
+MANFREDONIA:
+  - manfredonia
+MANGAGOY:
+  - mangagoy
+MANGALIA:
+  - mangalia
+MANIITSOQ:
+  - maniitsoq
+MANILA:
+  - manile
+MANISTEE:
+  - manistique
+MANITOWANING:
+  - manitowaning
+MANITOWOC:
+  - manitowoc
+MANNINGTREE:
+  - manningtree
+MANOKWARI_ROAD:
+  - manokwari road
+MANTA:
+  - manta
+MANTUA:
+  - mantua
+MANTYLUOTO:
+  - mantyluoto
+MANUKAU_HARBOR:
+  - manukau harbor
+MANZANILLO_MX:
+  - manzanillo
+MANZANILLO_CU:
+  - manzanillo
+MAP_TA_PHUT:
+  - map ta phut
+MAPUTO:
+  - maputo
+MAR_DEL_PLATA:
+  - laguna de los padres
+MARACAIBO:
+  - maracaibo
+MARAÑON:
+  - marañon
+MARAZION:
+  - marazion
+MARBELLA:
+  - marbella
+MARBLEHEAD:
+  - marblehead
+MARCELLA:
+  - marcella
+  - marseille
+MARCUS_HOOK:
+  - marcus hook
+MARE_ISLAND:
+  - mare island
+MARGOSATUBIG:
+  - margosatubig
+MARGATE:
+  - margate
+MARIAGER:
+  - mariager
+MARIANOPOLIS:
+  - marianopolis
+  - mariupol
+MARIEHAMN:
+  - mariehamn
+MARIEL:
+  - mariel
+MARTINICA:
+  - martinica
+MARÍN_ES:
+  - marín
+MARIN_MQ:
+  - marin
+MARINA_DI_CARRARA:
+  - marina di carrara
+MARINE_CITY:
+  - marine city
+MARINERS_HARBOR_SI:
+  - mariners harbor
+MARYPORT:
+  - maryport
+MARKA:
+  - marka
+MARKETDEEPING:
+  - marketdeeping
+MARMAGAO:
+  - marmagao
+MARMARIS:
+  - marmaris
+MAROANTSETRA:
+  - maroantsetra
+MARQUETTE:
+  - marquette
+MARSA_SABRATAH:
+  - marsa sabratah
+MARSALA:
+  - marsala
+MARSAMENI:
+  - marsameni
+MARSAXLOKK:
+  - marsaxlokk
+MARSELLA:
+  - Marseille
+MARSTAL:
+  - marstal
+MARTIGUES:
+  - martigues
+MARSTRAND:
+  - marstrand
+MARTIN_CHICO:
+  - martin chico
+MARTIN_GARCIA:
+  - martin garcia
+MARTINEZ:
+  - martinez
+MARTINICA:
+  - martinica
+  - martinique
+MARUGAME_KO:
+  - marugame
+MARZAMENI:
+  - marzameni
+MASAN:
+  - masan
+MASAO:
+  - masao
+MASBATE:
+  - masbate
+MASINLOC:
+  - masinloc
+MASNOU:
+  - masnou
+MASSACRE_BAY:
+  - massacre bay
+MASSET_HARBOR:
+  - masset harbor
+MASSON:
+  - masson
+MATACONG:
+  - matacong
+MATADI:
+  - matadi
+MATAMOROS:
+  - matamoros
+MATANE:
+  - matane
+MATANZAS:
+  - matanzas
+MATARÓ:
+  - mataró
+MATA_UTU:
+  - mata  -utu
+MATI:
+  - mati
+MATINICUS:
+  - matinicus
+MATSUSAKA:
+  - matsusaka
+MATSU_SHIMA:
+  - matsu  -shima
+MAURICIO:
+  - mauricio
+MAYAGÜEZ:
+  - mayagëz
+MAZAGAN:
+  - el Jadida
+MAZARA_DEL_VALLO:
+  - mazara del vallo
+MAZARRON:
+  - mazarron
+MCCORD:
+  - mccord
+MCMURDO_STATION:
+  - mcmurdo station
+MEAFORD:
+  - meaford
+MEDBY:
+  - medby
+MEDDLESBROW:
+  - middlesbrough
+MEDGIDIA:
+  - medgidia
+MEDIA_LUNA:
+  - media luna
+MEECHING:
+  - meeching
+MEGA:
+  - mega
+MEJILLONES:
+  - mejillones
+MELAKA:
+  - melaka
+MELBOURNE:
+  - melbourne
+MELCHIOR_HARBOR:
+  - melchior harbor
+MELDRUM_BAY:
+  - meldrum bay
+MELILLA:
+  - melilla
+MELING:
+  - meling
+MELLACOREE:
+  - mellacoree
+MEMEL:
+  - klaipeda
+MENOMINEE:
+  - menominee
+MENTON:
+  - menton
+MENZEL_BOURGUIBA:
+  - menzel bourguiba
+MERAUKE:
+  - merauke
+MERCEDES:
+  - mercedes
+MERGUI:
+  - mergui
+MERS_EL_KEBIR:
+  - mers el kebir
+MERSA_MATRUH:
+  - mersa matruh
+MERSA_SFAX:
+  - mersa sfax
+MERSA_TOBRUQ:
+  - mersa tobruq
+MERSIN:
+  - Mersina
+MESOLONGION:
+  - mesolongion
+MESSINA:
+  - messina
+METHIL:
+  - methil
+METLAKATLA:
+  - metlakatla
+MEVAGISSEY:
+  - mevagissey
+MEZEN:
+  - mezen
+MIAMI:
+  - miami
+MIBON:
+  - mibon
+MICHIGAN_CITY:
+  - michigan city
+MICHIPICOTEN:
+  - michipicoten
+MIDDELFART:
+  - middelfart
+MIDDELSESBUR:
+  - middelsesbur
+MIDDLESBROUGH:
+  - middlesbrough
+MIDIA:
+  - midia
+MIDLAND:
+  - midland
+MIDWAY_ISLAND:
+  - midway island
+MIEI:
+  - miei
+MIIKE_KO:
+  - miike
+MIKAWA:
+  - mikawa
+MIKINDANI:
+  - mikindani
+MIKONOS:
+  - mikonos
+MILAZZO:
+  - milazzo
+MILBRIDGE:
+  - milbridge
+MILFORD_HAVEN:
+  - milford
+  - milfordhaven
+MILIANA:
+  - miliana
+MILLHAVEN:
+  - millhaven
+MILLOM:
+  - millom
+MILLPORT:
+  - millport
+MILNER_BAY:
+  - milner bay
+MILNTHORPE:
+  - milnthorpe
+MILOLII:
+  - milolii
+MILOS:
+  - milos
+MILTON:
+  - milton
+MILWAUKEE:
+  - milwaukee
+MINA_ABD_ALLAH:
+  - mina abd allah
+MINA_AL_AHMADI:
+  - mina al ahmadi
+MINA_AL_FAHL:
+  - mina al fahl
+MINA_ASH_SHUAYBAH:
+  - mina ash shuaybah
+MINA_AZ_ZAWR:
+  - mina az zawr
+MINA_JABAL_ALI:
+  - mina jabal ali
+MINA_QABUS:
+  - mina qabus
+MINA_RAYSUT:
+  - mina raysut
+MINA_SALMAN:
+  - mina salman
+MINA_SAQR:
+  - mina saqr
+MINA_TARABULUS:
+  - Tripoli
+MINAMATA_KO:
+  - minamata
+MINATITLAN:
+  - minatitlan
+MINEHEAD:
+  - minehead
+MINGAN:
+  - mingan
+MINSTERWORTH:
+  - minsterworth
+MINTURN:
+  - minturn
+  - minturno
+MINURI:
+  - minori
+MIRAGOANE:
+  - miragoane
+MIRAMICHI:
+  - miramichi
+MIRI:
+  - miri
+MISHIMA_KAWANOE_KO:
+  - mishima  -kawanoe
+MISRATAH:
+  - misratah
+MISSION_CITY:
+  - mission city
+MISTLEY:
+  - mistley
+MISUMI_KO:
+  - misumi
+MITILINI:
+  - mitilini
+MITSIWA_HARBOR:
+  - mitsiwa harbor
+MITSUKOJIMA:
+  - mitsukojima
+MIYAKO:
+  - miyako
+MIYAZU:
+  - miyazu
+MIZUSHIMA_KO:
+  - mizushima
+MO_INLET:
+  - mo inlet
+MOBILA:
+  - mobile
+MOZAMBIQUE:
+  - moçambique
+MOEN:
+  - moen
+MOENGO:
+  - moengo
+MOGADOR:
+  - mogador
+  - esauira
+MOGUER:
+  - moguer
+MOHAMMEDIA:
+  - mohammedia
+MOJI_KO:
+  - moji
+MOKPO:
+  - mokpo
+MOLDE:
+  - molde
+MOLDTUSTRANDA:
+  - moldtustranda
+MOLFETTA:
+  - molfetta
+MOMBASA:
+  - mombasa
+MOMBETSU_KO:
+  - mombetsu
+MONACO:
+  - monaco
+MONCOFAR:
+  - moncofar
+MONFALCONE:
+  - monfalcone
+MONGLA:
+  - mongla
+MONGSTAD:
+  - mongstad
+MONHEGAN:
+  - monhegan
+MONOPOLI:
+  - monopoli
+MONROE:
+  - monroe
+MONROVIA:
+  - monrovia
+MONTAUK_HARBOR:
+  - montauk harbor
+MONTE_CARLO:
+  - monte carlo
+MONTE_CASERO:
+  - monte casero
+MONTE_CRISTI:
+  - monte cristi
+MONTEBELLO:
+  - montebello
+MONTEGO_BAY:
+  - montego bay
+MONTEREY:
+  - monterey
+MONTEVIDEO:
+  - montevideo
+  - monte video
+  - monte.
+MONTOIR:
+  - montoir
+MONTREAL:
+  - montreal
+MONTROSE:
+  - montrose harbour
+MORAIRA:
+  - moraira
+MORANT_BAY:
+  - morant bay
+MORECAMBE:
+  - morecambe
+MOREHEAD_CITY:
+  - morehead city
+MORGAN_CITY:
+  - morgan city
+MORI:
+  - mori
+MORLAIX:
+  - morlaix
+MORONDAVA:
+  - morondava
+MORONI:
+  - moroni
+MORRO_BAY:
+  - morro bay
+MORROJABLE:
+  - morrojable
+  - morro jable
+MOSJOEN:
+  - mosjoen
+MOSKAL_VO:
+  - moskal
+MOSS:
+  - moss
+MOSS_LANDING:
+  - moss landing
+MOSSEL_BAY:
+  - mossel bay
+MOSTAGANEM:
+  - mostaganem
+MOSTERHAMN:
+  - mosterhamn
+MOSTYN_MY:
+  - mostyn
+MOSTYN_GB:
+  - mostyn
+MOTRIKU:
+  - motriku
+MOTRIL:
+  - motril
+MOTRIL_CALAHONDA:
+  - motril  -calahonda
+MOULMEIN:
+  - moulmein harbor
+  - maulmain
+  - mawlamyaing
+MOUNT_DESERT:
+  - mount desert
+MOURILYAN_HARBOUR:
+  - mourilyan harbour
+MOUSEHOLE:
+  - mousehole
+MOUTSAMOUDU:
+  - moutsamoudu
+MTWARA:
+  - mtwara
+MUAR:
+  - muar
+MUARA_HARBOR:
+  - muara harbor
+MUDANYA:
+  - mudanya
+MUGGIA:
+  - muggia
+MUHAMAMAD_BIN_QASIM:
+  - muhamamad bin qasim
+MUI_VUNG_TAU:
+  - mui vung tau
+MUKHO:
+  - mukho
+MUKILTEO:
+  - mukilteo
+MUMBAI:
+  - bombay
+MUMBLES:
+  - mumbles
+MUNDRA:
+  - mundra
+MUNDESLEY:
+  - mundesley
+MUNISING:
+  - munising
+MUNTOK:
+  - muntok
+MUQDISHO:
+  - muqdisho
+MURAVERA:
+  - muravera
+MURGADOS:
+  - murgados
+MURMANSK:
+  - murmansk
+MURORAN_KO:
+  - muroran ko
+MUROS:
+  - muros
+MURUVIK:
+  - muruvik
+MURVIEDRO:
+  - sagunto
+MUSKEGON:
+  - muskegon
+MUSQUODOBOIT_HARBOUR:
+  - musquodoboit harbour
+MUTTON_ISLAND:
+  - mutton island
+MUTUREZIMA_KO:
+  - muturezima ko
+MUUGA_PORT_OF_TALLIN:
+  - muuga  -port of tallin
+MUXÍA:
+  - mugia
+MYKOLAYIV:
+  - mykolayiv
+MYS_ABRAM:
+  - mys abram
+MYS_NOVYY_PORT:
+  - mys novyy port
+MYS_ROGATYY_OKTYABRSKIY:
+  - mys rogatyy oktyabrskiy
+MYSTIC:
+  - mystic
+MYTELINE:
+  - myteline
+NAANTALI:
+  - naantali
+NACALA:
+  - nacala
+NAESTVED:
+  - naestved
+NAGAPPATTINAM:
+  - nagappattinam
+NAGASAKI:
+  - nagasaki
+NAGOYA_KO:
+  - nagoya
+NAHA_KO:
+  - naha
+NAHCOTTA:
+  - nahcotta
+NAHMA:
+  - nahma
+NAJIN:
+  - najin
+NAKAGUSUKU:
+  - nakagusuku
+NAKHODKA:
+  - nakhodka
+NAKNEK:
+  - naknek
+NAKSKOV:
+  - nakskov
+NAMIBE:
+  - namibe
+NAMIKATA:
+  - namikata
+NAMLEA:
+  - namlea
+NAMPO:
+  - nampo
+NAMSOS:
+  - namsos
+NANAIMO:
+  - nanaimo
+NANAO_KO:
+  - nanao
+NANCHITAL:
+  - nanchital
+NANJING:
+  - nanjing
+NANOOSE_HARBOR:
+  - nanoose harbor
+NANORTALIK_HAVN:
+  - nanortalik havn
+NANTES:
+  - nantes
+NANTONG:
+  - nantong
+NANTUCKET:
+  - nantucket
+NAOETSU_KO:
+  - naoetsu
+NAPIER:
+  - napier
+NAPOLES:
+  - napoles
+  - napoli
+  - naples
+NAPOOPOO:
+  - napoopoo
+NAR_YAN_MAR:
+  - nar yan  -mar
+NARSAQ:
+  - narsaq
+NARSARSSUAQ:
+  - narsarssuaq
+NARVA:
+  - narva
+NARVIK:
+  - narvik
+NASAU:
+  - nasau
+NASH_HARBOR:
+  - nash harbor
+NASIPIT_PORT:
+  - nasipit port
+NASUGBU:
+  - nasugbu
+NATAL:
+  - natal
+NAUPLIA:
+  - nauplia
+NAURU:
+  - nauru
+NAVIA:
+  - navia
+NAVLAKHI:
+  - navlakhi
+NAVPLIO:
+  - navplio
+NAWILIWILI_BAY:
+  - nawiliwili bay
+NEAH_BAY:
+  - neah bay
+NEATH:
+  - neath
+NEDA:
+  - neda
+NEIAFU:
+  - neiafu
+NEKSO:
+  - nekso
+NELSON:
+  - nelson
+NEMOURS:
+  - nemours
+NEMRUT_LIMANI_BAY:
+  - nemrut limani bay
+NEMURO_KO:
+  - nemuro
+NEON_KARLOVAS:
+  - neon karlovas
+NERJA:
+  - nerja
+NESKAUPSTADUR:
+  - neskaupstadur
+NESTON:
+  - neston
+NEUHAUS:
+  - neuhaus
+NEUM:
+  - neum
+NEUSTADT:
+  - neustadt
+NEVELSK:
+  - nevelsk
+NEVILLE:
+  - neville
+NEW_AMSTERDAM:
+  - new amsterdam
+NEW_BEDFORD:
+  - new bedford
+NEW_BRUNSWICK
+  - Brunswick
+NEW_BERN:
+  - new bern
+NEW_CARLISLE:
+  - charleur bay
+NEWCASTLE_UPON_TYNE:
+  - newcastle upon tyne
+NEW_CASTLE_US:
+  - new castle
+NEW_CASTLE_AU:
+  - new castle
+NEW_HARBOR:
+  - new harbor
+NEW_HAVEN:
+  - new haven
+NEW_HOLLAND:
+  - new holland
+NEW_LONDON:
+  - new london
+NEW_MANGALORE:
+  - new mangalore
+NEW_ORLEANS:
+  - new orleans
+NEW_PLYMOUTH:
+  - new plymouth
+NEW_ROSS:
+  - new ross
+NEW_WESTMINSTER:
+  - new westminster
+NEW_YORK:
+  - new york city
+  - nueva york
+NEWARK:
+  - newark
+NEWBIGGIN_BY_THE_SEA:
+  - newbiggin  -by  -the  -sea
+NEWBURGH:
+  - newburgh
+NEWBURYPORT:
+  - newburyport
+NEWHAVEN_GB:
+  - newhaven
+NEWHAVEN_US:
+  - newhaven
+NEWHAVEN_HARBOUR:
+  - newhaven harbour
+NEWLYN:
+  - newlyn
+NEWPORT_AU:
+  - newport
+NEWPORT_GB:
+  - monmouth
+NEWPORT_US:
+  - newport
+NEWPORT_2_US:
+  - newport 2
+NEWPORT_BEACH:
+  - newport beach
+NEWPORT_NEWS:
+  - newport news
+NEWPORT_ISLE_OF_WIGHT:
+  - newport isle of wight
+NEWPORT_PEMBROKESHIRE:
+  - newport pembrokeshire
+NEWQUAY:
+  - newquay
+NEWRY:
+  - newry
+NEWTON_ABBOT:
+  - newton abbot
+NEWTOWN_ISLE_WIGHT:
+  - newtown isle wight
+NEYLAND:
+  - neyland
+NGHE_TINH:
+  - nghe tinh
+NHA_TRANG:
+  - nha trang
+NIAGARA:
+  - niagara
+NIAQORNAT:
+  - niaqornat
+NICARO:
+  - nicaro
+NICOLAIEFF:
+  - ayos nikolaos
+NIEUW_NICKERIE:
+  - nieuw nickerie
+NIEUWPOORT:
+  - nieuwpoort
+NIIGATA_KO:
+  - niigata
+NIIHAMA:
+  - niihama
+NIKISKI:
+  - nikiski
+NIKOL_SKOYE:
+  - nikol skoye
+NIKOLAYEVSK_NA_AMUR:
+  - nikolayevsk na amur
+NINGBO:
+  - ningbo
+NINILCHIK:
+  - ninilchik
+NISHIHARA:
+  - nishihara
+NISHTUN:
+  - nishtun
+NISOS_NAXOS:
+  - nisos naxos
+NISQUALLY_HEAD:
+  - nisqually head
+NITEROI:
+  - niteroi
+NIZZA:
+  - nizza
+  - niza
+  - nice
+NOANK:
+  - noank
+NOLTON:
+  - nolton haven
+NONZA:
+  - nonza
+NOME:
+  - nome
+NONOPAPA:
+  - nonopapa
+NORDBY:
+  - nordby
+NORDEN:
+  - norden
+NORDENHAM:
+  - nordenham
+NORDMALING:
+  - nordmaling
+NORFOLCK:
+  - norfolk
+NORHEIMSUND:
+  - norheimsund
+NORRKOPING:
+  - norrkoping
+NORRSUNDET:
+  - norrsundet
+NORSWORTHY:
+  - norsworthy
+NORTH_AIN_SUKHNA_PORT:
+  - north ain sukhna port
+NORTH_BEND:
+  - north bend
+NORTH_HAVEN:
+  - north haven
+NORTH_POINT:
+  - north point
+NORTH_SHIELDS:
+  - north shields
+NORTH_SYDNEY:
+  - north sydney
+NORTHAM:
+  - northam
+NORTHEASTNHARBOR:
+  - northeastnharbor
+NORWALK:
+  - norwalk
+NORWICH_GB:
+  - norwich
+NORWICH_US:
+  - norwich
+NOSHIRO_KO:
+  - noshiro
+NOUADHIBOU:
+  - nouadhibou
+NOUAKCHOTT:
+  - nouakchott
+NOUMEA:
+  - nouméa
+NOVOROSSIYSK:
+  - novorossiysk
+NOWY_PORT:
+  - nowy port
+NOYA:
+  - noya
+  - noia
+NUEVA_GERONA:
+  - nueva gerona
+NUEVA_ORLEANS:
+  - nueva orleans
+  - new orleans
+NUEVA_PALMIRA:
+  - nueva palmira
+NUEVITAS:
+  - nuevitas
+  - nuevitas bay
+NUKU_ALOFA:
+  - nuku alofa
+  - nukualofa
+NUUK:
+  - nuuk
+NUWEIBA_EL_MUZEIMA:
+  - nuweiba el muzeima
+NY_ALESUND:
+  - ny alesund
+NYBORG:
+  - nyborg
+NYKARLEBY:
+  - nykarleby
+NYKOBING_FALSTER:
+  - nykobing falster
+NYKOBING_MOR:
+  - nykobing mor
+NYKOPING:
+  - nykoping
+NYNASHAMN:
+  - nynashamn
+NYSTED:
+  - nysted
+  - nystad
+ÑANCAY:
+  - ñancay
+  - nancay
+O_GROVE:
+  - o grove
+O_PORTO_DE_BARES:
+  - o porto de bares
+O_PORTO_DO_CABO:
+  - o porto do cabo
+O_VICEDO:
+  - o vicedo
+O0KIHAMA:
+  - ookihama
+OAKLAND:
+  - oakland
+OAKVILLE:
+  - oakville
+OBAN:
+  - oban
+OBBOLA:
+  - obbola
+OCEAN_CITY:
+  - ocean city
+OCHO_RIOS:
+  - ocho rios
+OCONTO:
+  - oconto
+ODDA:
+  - odda
+ODENSE:
+  - odense
+ODESA:
+  - odesa
+  - odessa
+OFUNATO:
+  - ofunato
+OGDENSBURG:
+  - ogdensburg
+OGMORE:
+  - ogmore
+OIA:
+  - oia
+OITA_KO:
+  - oita
+OKA_SUR_LE_LAC:
+  - oka sur le lac
+OKHA_RU:
+  - okha
+OKHA_IN:
+  - okha
+OKHOTSK_IY_REYD:
+  - okhotsk iy reyd
+OKRIKA:
+  - okrika
+OKSFJORD:
+  - oksfjord
+OLAFSFJORDHUR:
+  - olafsfjordhur
+OLBIA:
+  - olbia
+OLD_KILPATRICK:
+  - old kilpatrick
+OLDBURY:
+  - oldbury
+OLDENBURG:
+  - oldenburg
+OLD_GRIMSBY:
+  - old grimsby
+OLEUM:
+  - oleum
+OLYMPIA:
+  - olympia
+OMAEZAKI_KO:
+  - omaezaki
+OMAN:
+  - oman
+OMISALJ:
+  - omisalj
+ONAGAWA:
+  - onagawa
+ONAHAMA_KO:
+  - onahama
+ONDARROA:
+  - ondarroa
+ONDRES:
+  - ondres
+ONEGA:
+  - onega
+ONEGLIA:
+  - oneglia
+ONNE:
+  - onne
+ONODA:
+  - onoda
+ONOMICHI_ITOZAKI:
+  - onomichi  -itozaki
+ONSLOW:
+  - onslow
+ONTONAGON:
+  - ontonagon
+OOSTENDE:
+  - ostende
+  - ostend
+OPORTO:
+  - oporto
+  - porto
+OPUA:
+  - opua
+ORAN:
+  - oran
+ORANGE:
+  - orange
+ORANJESTAD:
+  - oranjestad
+ORBETELLO:
+  - orbetello
+ORCA:
+  - orca
+ORCAS:
+  - orcas
+ORDU:
+  - ordu
+ORFORD:
+  - orford
+ORIO:
+  - orio
+ORISTANO:
+  - oristano
+ORMOC:
+  - ormoc
+ORMOS_ALIVERIOU:
+  - ormos aliveriou
+ORMOS_MIKRO_VATHI:
+  - ormos mikro vathi
+ORNES:
+  - ornes
+ORNSAY:
+  - ornsay
+ORNSKOLDSVIK:
+  - ornskoldsvik
+ORO_BAY:
+  - oro bay
+OROPESA:
+  - oropesa
+OROSEI:
+  - orosei
+ORSTAV:
+  - orstav
+ORTH:
+  - orth
+ORTIGUEIRA:
+  - ortigueira
+ORTONA:
+  - ortona
+ORZOLA:
+  - orzola
+OSAKA:
+  - osaka
+OSCARSHAMN:
+  - oscarshamn
+OSCODA:
+  - oscoda
+OSHAWA:
+  - oshawa
+OSKARSHAMN:
+  - oskarshamn
+OSLO:
+  - oslo
+  - cristianía
+OSPEDALETTI:
+  - ospedaletti
+OSTENDE:
+  - ostende
+  - oostende
+  - ostend
+OSMUSSAAR:
+  - osmussaar
+OSTROVNOY_GREMIKHA:
+  - ostrovnoy gremikha
+OSWEGO:
+  - oswego
+OTAGO_HARBOR:
+  - otago harbor
+OTARU_KO:
+  - otaru
+OTRANTO:
+  - otranto
+OTTAWA:
+  - ottawa
+OUISTREHAM:
+  - ouistreham
+OULU:
+  - oulu
+OUZINKIE:
+  - ouzinkie
+OWASE_KO:
+  - owase
+OWEN_SOUND:
+  - owen sound
+OXELOSUND:
+  - oxelosund
+OXWICH:
+  - oxwich
+OYSTERMOUTH:
+  - newton
+PAAMUIT:
+  - paamuit
+PAARDEN_BAAI:
+  - paarden baai
+PADANG:
+  - padang
+PADLOPING_ISLAND:
+  - padloping island
+PADSTOW:
+  - padstow
+PAGADIAN:
+  - pagadian
+PAGHAM_POINT:
+  - pagham point
+PAGO_PAGO_HARBOR:
+  - pago pago harbor
+PAIGNTON:
+  - paignton
+PAIMPOL:
+  - paimpol
+PAISLEY:
+  - paisley
+PAITA:
+  - paita
+PALACIOS:
+  - palacios
+PALAFURGELL:
+  - palafurgell
+PALAMOS:
+  - palamos
+PALAVAS:
+  - palavas
+PALDISKI:
+  - paldiski
+PALEMBANG:
+  - palembang
+PALERMO:
+  - palermo
+PALISADES_POINT:
+  - palisades point
+PALM_BEACH:
+  - palm beach
+PALMA_DE_MALLORCA:
+  - palma de mallorca
+PALMA-MONTECHIARO:
+  - palma-montechiaro
+PALMA_PORTOPI:
+  - palma  -portopi
+PALMAS:
+  - las palmas
+PALOMPON:
+  - palompon
+PALOS_DE_LA_FRONTERA:
+  - palos de la frontera
+PALUA:
+  - palua
+PANAJI:
+  - panaji
+PANAMÁ:
+  - panamá
+PANAMA_CITY:
+  - panama city
+PANARUKAN:
+  - panarukan
+PANGAI:
+  - pangai
+PANGKALANSUSU:
+  - pangkalansusu
+PANGKALPINANG:
+  - pangkalpinang
+PANGNIRTUNG:
+  - pangnirtung
+PANJANG:
+  - panjang
+PAPEETE:
+  - papeete
+PAPENBURG:
+  - papenburg
+PAPINEAUVILLE:
+  - papineauville
+PAR:
+  - par
+PARADIP:
+  - paradip
+PARAMARIBO:
+  - paramaribo
+PARAHIBA:
+  - parahiba
+PARANÁ:
+  - paraná
+PARANAGUA:
+  - paranagua
+PARANAM:
+  - paranam
+PAREPARE:
+  - parepare
+PARGAS:
+  - pargas
+PARIS:
+  - paris
+PARNU:
+  - parnu
+PAROS:
+  - paros
+PARRY_SOUND:
+  - parry sound
+PASADENA:
+  - pasadena
+PASAJES:
+  - pasajes
+PASCAGOULA:
+  - pascagoula
+PASITO_BLANCO:
+  - pasito blanco
+PASO_DE_LA_PATRIA:
+  - paso de la patria
+PASO_DE_LOS_LIBRES:
+  - paso de los libres
+PATAGONES:
+  - patagones
+PATAGONIA:
+  -patagonia
+PATANI:
+  - patani
+PATCHOGUE:
+  - patchogue
+PATRAS:
+  - patras
+PATTANI:
+  - pattani
+PAUILLAC:
+  - pauillac
+PAULATUK:
+  - paulatuk
+PAULL:
+  - paull
+PAULSBORO:
+  - paulsboro
+PAYSANDU:
+  - paysandu
+PEARCE_POINT:
+  - pearce point
+PEBANE:
+  - pebane
+PECÉM:
+  - pecém
+PEDREGAL:
+  - pedregal
+PEEL:
+  - peel
+PEKALONGAN:
+  - pekalongan
+PEKELA:
+  - pekela
+PELABUHAN_BASS:
+  - pelabuhan bass
+PELABUHAN_SANDAKAN:
+  - pelabuhan sandakan
+PELABUHAN_SUNGAI_UDANG:
+  - pelabuhan sungai udang
+PELAW:
+  - pelaw
+PELEE_I_NORTH_WHARF:
+  - pelee i west dock
+PELICAN:
+  - pelican
+PELOTAS:
+  - pelotas
+PEMAQUID_BEACH:
+  - pemaquid beach
+PEMBA:
+  - pemba
+PEMBREY:
+  - pembrey
+PEMBROKE:
+  - pembroke
+PENANG:
+  - penang
+PENARTH:
+  - penarth
+PENCO:
+  - penco
+PENETANGUISHENE:
+  - penetanguishene
+PENG_HU_KANG:
+  - peng  -hu kang
+PENGLAI:
+  - penglai
+PENÍSCOLA:
+  - peñíscola
+PENRYN:
+  - penryn
+PENSACOLA:
+  - pensacola
+PENTEWAN:
+  - pentewan
+PENZANCE:
+  - penzance
+PEPEL:
+  - pepel
+PEPILLO_SALCEDO:
+  - pepillo salcedo
+PERAMA:
+  - perama
+PERCIBILLEIRA:
+  - percibilleira
+PERDERNALES:
+  - perdernales
+PERNAMBUCO:
+  - pernambuco
+PERSHORE:
+  - pershore
+PERTH:
+  - perth
+PERTH_AMBOY:
+  - perth amboy
+PESCARA:
+  - pescara
+PETERHEAD:
+  - peterhead
+PETERSBURG:
+  - petersburg
+PETIT_GOAVE:
+  - petit goave
+PETOSKEY:
+  - petoskey
+PETROPAVLOVSK:
+  - petropavlovsk
+PEVEK:
+  - pevek
+PEVENSEY:
+  - pevensey
+PHILADELPHIA:
+  - filadelfia
+PHILLIPSBURG:
+  - phillipsburg
+PHSAR_REAM:
+  - phsar ream
+PHU_MY:
+  - phu
+PHUKET:
+  - phuket
+PHILIPPEVILLE:
+  - philippeville
+  - skikda
+PIANA:
+  - piana
+PICHILINGUE:
+  - pichilingue
+PICTON_NZ:
+  - picton
+PICTON_CA:
+  - picton
+PICTOU:
+  - pictou
+PIEROWALL:
+  - pierowall
+PILAR:
+  - pilar
+PILCOMAYO:
+  - pilcomayo
+PILL:
+  - pill
+PILLAU:
+  - baltisk
+PILOS:
+  - pilos
+PILOT_POINT:
+  - pilot point
+PIMENTAL:
+  - pimental
+PINARELLO:
+  - pinarello
+PINEY_POINT:
+  - piney point
+PINOLE_POINT:
+  - pinole point
+PIOMBINO:
+  - piombino
+PIPAVAV_BANDAR:
+  - pipavav bandar
+PIRACUACITO:
+  - piracuá
+PIRAIEVS:
+  - piraievs
+PIRAMIDES:
+  - piramides
+  - puerto piramides
+PIRAN:
+  - piran
+PIRAY:
+  - piray
+PISCO:
+  - pisco
+PISMO_BEACH:
+  - pismo beach
+PITEA:
+  - piteå
+PITHAGORION:
+  - pithagorion
+PITTSBURG:
+  - pittsburg
+PITUFFIK:
+  - thule air base
+PLAISTER_COVE:
+  - plaister cove
+PLATINUM:
+  - platinum
+PLAYA_BLANCA_LAS_COLORADAS:
+  - playa blanca  -las coloradas
+PLAYA_DE_GUANICA:
+  - playa de guanica
+PLAYA_DE_GUAYANILLA:
+  - playa de guayanilla
+PLAYA_DE_HUMACAO:
+  - playa de humacao
+  - humacao
+PLAYA_DE_PONCE:
+  - playa de ponce
+PLAYA_DE_FANABÉ:
+  - playa de fanabé
+PLAYA_SAN_JUAN:
+  - playa san juan
+PLAYA_SANTIAGO:
+  - playa santiago
+PLENTZIA:
+  - plentzia
+PLIMOUTH:
+  - plimouth
+PLOCE:
+  - ploce
+PLOCKTON:
+  - plockton
+PLOMARION:
+  - plomarion
+PLYMOUTH_GB:
+  - plymouth
+PLYMOUTH_US:
+  - plymouth
+PLYMOUTH_2_US:
+  - plymouth 2
+PLYMOUTH_CATTEWATER:
+  - plymouth cattewater
+PLYMOUTH_MILLBAYDOCKS:
+  - plymouth millbaydocks
+PLYMOUTH_STONEHOUSE:
+  - plymouth stonehouse
+PLYMOUTH_SUTTONHARBOUR:
+  - plymouth suttonharbour
+POHANG:
+  - pohang
+POHNPEI_HARBOR:
+  - pohnpei harbor
+POINT:
+  - point
+POINT_DE_GALLE:
+  - point de galle
+POINT_EDWARD:
+  - point edward
+POINT_FORTIN:
+  - point fortin
+POINT_LISAS:
+  - point lisas
+POINT_MURAT:
+  - point murat
+POINT_RICHMOND:
+  - point richmond
+POINT_SAN_PABLO:
+  - point san pablo
+POINT_WELLS:
+  - point wells
+POINTE_A_PIERRE:
+  - pointe a pierre
+POINTE_A_PITRE:
+  - pointe-à-pitre
+POINTE_NOIRE_CG:
+  - pointe noire
+POINTE_NOIRE_CA:
+  - pointe noire
+POLENG_OIL_FIELD:
+  - poleng oil field
+POLICE:
+  - police
+POLICE_POINT:
+  - police point
+POLLENSA:
+  - pollença
+POLLOC:
+  - cotabato
+POLPERRO:
+  - polperro
+POMALAA:
+  - pomalaa
+PONCE:
+  - ponce
+POND_INLET:
+  - pond inlet
+PONDICHERRY:
+  - pondicherry
+PONTA_DELGADA:
+  - ponta delgada
+PONTEVEDRA:
+  - pontevedra
+PONTIANAK:
+  - pontianak
+PONTRIEUX:
+  - pontrieux
+POOLE:
+  - poole
+PORBANDAR:
+  - porbandar
+PORI:
+  - pori
+PORKKALA:
+  - porkkala
+PORLOCK_WEIR:
+  - porlock weir
+PORONAYSK:
+  - poronaysk
+PORPOISE_HARBOR:
+  - porpoise harbor
+PORQUEROLLES:
+  - porquerolles
+PORSGRUNN:
+  - porsgrunn
+PORTICCIOLO:
+  - porticciolo
+PORT_ADELAIDE:
+  - port adelaide
+PORT_ALBERNI:
+  - port alberni
+PORT_ALEXANDER:
+  - port alexander
+PORT_ALICE:
+  - port alice
+PORT_ALLEN:
+  - port allen
+PORT_ALMA:
+  - port alma
+PORT_ALUCROIX:
+  - port alucroix
+PORT_ANGELES:
+  - port angeles
+PORT_ANTONIO:
+  - port antonio
+PORT_ARANSAS:
+  - port aransas
+PORT_ARMSTRONG:
+  - port armstrong
+PORT_ARTHUR_US:
+  - port arthur
+PORT_ARTHUR_TZ:
+  - port arthur
+PORT_ASHTON:
+  - port ashton
+PORT-AU-CHOIX:
+  - port-au-choix
+PORT-DE-FRANCE:
+  - port-de-france
+PORT_AU_PRINCE:
+  - port au prince
+PORT_AUX_BASQUES:
+  - newfoundland
+PORT_BAYSIDE_NB:
+  - port bayside
+PORT_BERINGOVSKY:
+  - port beringovsky
+PORT_BLAIR:
+  - port blair
+PORT_BONYTHON:
+  - port bonython
+PORT_BORONGAN:
+  - port borongan
+PORT_BOUET:
+  - port bouet
+PORT_CAPIZ:
+  - port capiz
+PORT_CARTIER:
+  - port cartier
+PORT_CHESTER:
+  - port chester
+PORT_CHILKOOT:
+  - port chilkoot
+PORT_CLEMENTS:
+  - port clements
+PORT_CLINTON:
+  - port clinton
+PORT_CLYDE:
+  - port clyde
+PORT_COLBORNE:
+  - port colborne
+PORT_CONCLUSION:
+  - port conclusion
+PORT_COQUITLAM:
+  - port coquitlam
+PORT_COSTA:
+  - port costa
+PORT_CREDIT:
+  - port credit
+PORT_D_AL_HOCEIMA:
+  - port d al hoceima
+PORT_DALHOUSIE:
+  - port dalhousie
+PORT_DALRYMPLE:
+  - port dalrymple
+PORT_DE_ARACAJU:
+  - port de aracaju
+PORT_DE_BECANCOUR:
+  - port de becancour
+PORT_DE_BOUG:
+  - port de boug
+  - port de Bouguezen
+  - port de bouc
+PORT_DE_CAEN:
+  - port de caen
+PORT_DE_PROPRIANO:
+  - port de propriano
+PORT_DE_ROSCOFF_BLOSCON:
+  - port de roscoff  -bloscon
+PORT_DE_SALVADOR:
+  - port de salvador
+PORT_DE_ST_PIERRE:
+  - port de st pierre
+PORT_DICKSON:
+  - port dickson
+PORT_DIKSON:
+  - port dikson
+PORT_DOVER:
+  - port dover
+PORT_DU_HAVRE_ANTIFER:
+  - port du havre  -antifer
+PORT_ELGIN:
+  - port elgin
+PORT_ELIZABETH:
+  - port elizabeth
+PORT_ELLEN:
+  - por ellen
+PORT_EMPEDOCLE:
+  - port empedocle
+PORT_ESQUIVEL:
+  - port esquivel
+PORT_EST:
+  - port est
+PORT_EVERGLADES:
+  - port everglades
+PORT_FLEETWOOD:
+  - port fleetwood
+PORT_FOSTER:
+  - port foster
+PORT_GAMBLE:
+  - port gamble
+PORT_GENTIL:
+  - port gentil
+PORT_GILES:
+  - port giles
+PORT_GRAHAM:
+  - port graham
+PORT_HARCOURT:
+  - port harcourt
+PORT_HARDY:
+  - port hardy
+PORT_HASTINGS:
+  - port hastings
+PORT_HAWKESBURY:
+  - port hawkesbury
+PORT_HEDLAND:
+  - port hedland
+PORT_HEIDEN:
+  - port heiden
+PORT_HOBRON:
+  - port hobron
+PORT_HOLLAND:
+  - port holland
+PORT_HOOD:
+  - port hood
+PORT_HOPE_US:
+  - port hope
+PORT_HOPE_CA:
+  - port hope
+PORT_HUENEME:
+  - port hueneme
+PORT_HUON:
+  - port huon
+PORT_HURON:
+  - port huron
+PORT_INGLESIDE:
+  - port ingleside
+PORT_INLAND:
+  - port inland
+PORT_ISABEL:
+  - port isabel
+PORT_JACKSON_N._S._W.:
+  - port jackson n. s. w.
+PORT_JEFFERSON:
+  - port jefferson
+PORT_KAISER:
+  - port kaiser
+PORT_KEMBLA:
+  - port kembla
+PORT_KLANG:
+  - port klang
+PORT_LANGKAWI:
+  - port langkawi
+PORT_LATTA:
+  - port latta
+PORT_LAVACA:
+  - port lavaca
+PORT_LINCOLN:
+  - port lincoln
+PORT_LOCKROY:
+  - port lockroy
+PORT_LOUIS_GP:
+  - port louis
+PORT_LOUIS_MU:
+  - port louis
+PORT_LYTTELTON:
+  - port lyttelton
+PORT_MAHON:
+  - port mahon
+PORT_MAITLAND:
+  - port maitland
+PORT_MANATEE:
+  - port manatee
+PORT_MATHURIN:
+  - port mathurin
+PORT_MCNEILL:
+  - port mcneill
+PORT_MCNICOLL:
+  - port mcnicoll
+PORT_MELLON:
+  - port mellon
+PORT_METHANIER:
+  - port methanier
+PORT_MOLLER:
+  - port moller
+PORT_MOODY:
+  - port moody
+PORT_MORESBY:
+  - port moresby
+PORT_NADOR:
+  - port nador
+PORT_NATAL:
+  - port natal
+PORT_NECHES:
+  - port neches
+PORT_NORO:
+  - port noro
+PORT_OBRIEN:
+  - port obrien
+PORT_OCONNOR:
+  - port oconnor
+PORT_OF_ILHEUS:
+  - port of ilheus
+PORT_OF_LE_HAVRE:
+  - port of le havre
+PORT_OF_MEMPHIS:
+  - port of memphis
+PORT_OF_ROUEN:
+  - port of rouen
+PORT_OF_SOHAR:
+  - port of sohar
+PORT_OF_SPAIN:
+  - port of spain
+PORT_OKTYABRSK:
+  - port oktyabrsk
+PORT_ORCHARD:
+  - port orchard
+PORT_ORFORD:
+  - port orford
+PORT_OUEST:
+  - port ouest
+PORT_OWENDO:
+  - port owendo
+PORT_OZAMIS:
+  - port ozamis
+PORT_PHILIP:
+  - port philip
+PORT_PIRIE:
+  - port pirie
+PORT_POLNOCHNY:
+  - port polnochny
+PORT_READING:
+  - port reading
+PORT_RICHMOND_SI:
+  - port richmond
+PORT_RIKITEA:
+  - port rikitea
+PORT_ROMBLON:
+  - port romblon
+PORT_ROYAL_JM:
+  - port royal
+PORT_ROYAL_US:
+  - port royal
+PORT_SAINT_LOUIS_DU_RHONE:
+  - port saint louis du rhone
+PORT_SAN_JUAN:
+  - port san juan
+PORT_SAN_JUAN_DE_LA_JUAN:
+  - port san juan de la juan
+PORT_SAN_LUIS:
+  - port san luis
+PORT_SAN_VICENTE:
+  - port san vicente
+PORT_SEVERN:
+  - port severn
+PORT_SIMPSON:
+  - port simpson
+PORT_SOCONY:
+  - port socony
+PORT_ST_JOE:
+  - port st joe
+PORT_STANLEY:
+  - port stanley
+PORT_SUDAN:
+  - port sudan
+PORT_SULPHUR:
+  - port sulphur
+PORT_TALBOT:
+  - port talbot
+PORT_TOWNSEND:
+  - port townsend
+PORT_UNION:
+  - port union
+PORT-VENDRES:
+  - port vendres
+PORT_VILA:
+  - port vila
+PORT_VITA:
+  - port vita
+PORT_WALCOTT:
+  - port walcott
+PORT_WASHINGTON:
+  - port washington
+PORT_WELLER:
+  - port weller
+PORT_WHITBY:
+  - port whitby
+PORT_WILLIAM:
+  - port william
+PORT_WING:
+  - port wing
+PORTBOU:
+  - portbou
+PORTBURY:
+  - portbury
+PORT_DE_BOUC:
+  - fort de Bouc
+PORTEMAN:
+  - porteman
+PORT_ERIN:
+  - port erin
+PORT_EYNON:
+  - port eynon
+PORTG_ARVENE:
+  - portg arvene
+PORTHCAWL:
+  - porthcawl
+PORTHDINLLAEN:
+  - porthdinllaen
+PORTHGAIN:
+  - porthgain
+PORTHLEVEN:
+  - porthleven
+PORTHMADOG:
+  - porthmadog
+PORTHMOS_EVRIPOU:
+  - porthmos evripou
+PORTIMAO:
+  - portimao
+PORTISAAC:
+  - portisaac
+PORTISHEAD:
+  - portishead
+PORTLAND_GB:
+  - portland
+PORTLAND_AU:
+  - portland
+PORTLAND_US:
+  - portland
+PORTLAND_1_US:
+  - portland
+PORT-LEVUKA_
+  - port-levuka
+PORT_LIMON:
+  - limón
+PORT_LOUIS:
+  - port  -louis
+PORTMADOC:
+  - porthmadog
+PORTMAHOMACK:
+  - portmahomack
+PORTMAN:
+  - portman
+PORT-MAURICE
+  - port-maurice
+  - porto m	aurizio
+PORTMELLON:
+  - portmellon
+PORTMULGRAVE:
+  - portmulgrave
+PORTO:
+  - porto
+PORTO_ALEGRE:
+  - Puerto Alegre
+PORTO_AMBOIM:
+  - porto amboim
+PORTO_ANZO:
+  - porto di Anzio
+PORTO_BELO:
+  - portobelo
+PORTO_CABELLO:
+  - puerto cabello
+PORTO_CERCADO:
+  - poconé
+PORTO_DA_PRAIA:
+  - porto da praia
+PORTO_DE_LEIXOES:
+  - porto de leixoes
+PORTO_DE_MACEIO:
+  - porto de maceio
+PORTO_DE_MUCURIPE:
+  - porto de mucuripe
+PORTO_DE_SUAPE:
+  - porto de suape
+PORTO_DI_BARLETTA:
+  - porto di barletta
+PORTO_DI_CHIOGGIA:
+  - porto di chioggia
+PORTO_DI_CORSINI:
+  - porto di corsini
+PORTO_DI_LIDO_VENEZIA:
+  - porto di lido  -venezia
+PORTO_DI_MALAMOCCO:
+  - porto di malamocco
+PORTO_DI_ORISTANO:
+  - porto di oristano
+PORTO_DI_PALERMO:
+  - porto di palermo
+PORTO_DO_AMBRIZ:
+  - porto do ambriz
+PORTO_DO_FORNO:
+  - porto do forno
+PORTO_DO_SON:
+  - porto do son
+PORTO_EMPEDOCLE:
+  - porto empedocle
+PORTO_FINO:
+  - portofino
+PORTO_GRANDE:
+  - porto grande
+PORTO_NOVO:
+  - porto novo
+PORTO_PONTE_ROMANO:
+  - porto ponte romano
+PORTO POZZO:
+  - porto pozzo
+PORTO_SANTANA:
+  - porto santana
+PORTO_SANTO_STEFANO:
+  - porto santo stefano
+PORTO-SEGURO:
+  - porto-seguro
+PORTO_SORRIZO:
+  - porto sorrizo
+PORTO_TORRES:
+  - porto torres
+PORTO_VECCHIO:
+  - porto vecchio
+PORTO_VELHO:
+  - porto velho
+PORTO-VENERE:
+  - porto-venere
+PORTO_VESME:
+  - porto vesme
+PORTOCEL:
+  - portocel
+PORTOFERRAIO:
+  - portoferraio
+  - portoferrajo
+PORT_OF_SPAIN:
+  - port of spain
+PORTO_LONGONE:
+  - porto azzurro
+PORTONOVO:
+  - portonovo
+PORTO_POLLO:
+  - porto pollo
+PORTOVECCHIO_DI_PIOMBINO:
+  - portovecchio di piombino
+PORT_PENRHYN:
+  - port penrhyn
+PORTREATH:
+  - portreath
+PORTREE_HARBOR:
+  - portree harbor
+PORT_SAID:
+  - port  -said
+PORT_SAINT_MARY:
+  - port saint mary
+PORT_SALT_END:
+  - port salt end
+PORTSMOUTH_US:
+  - portsmouth
+PORTSMOUTH_DM:
+  - portsmouth
+PORTSMOUTH_GB:
+  - portsmouth
+PORT_TALBOT:
+  - port talbot
+PORTUGALETE:
+  - portugalete
+PORT_VENDRES:
+  - port-vendres
+  - port vendres
+  - vendres
+  - portvendres
+PORVOO:
+  - porvoo
+POSADAS:
+  - posadas
+POSO:
+  - poso
+POSORJA:
+  - posorja
+POS'YET:
+  - pos'yet
+POUTAUX:
+  - poutaux
+POTI:
+  - poti
+POUGHKEEPSIE:
+  - poughkeepsie
+POULSBO:
+  - poulsbo
+POULTON:
+  - poulton  -le  -fylde
+POUZZOLES:
+  - pouzzoles
+POZZUOLI:
+  - pozzuoli
+POVEÑA:
+  - poveña
+POWDERHAM:
+  - powderham
+POWELL_RIVER:
+  - powell river
+POZOS_COLORADOS:
+  - pozos colorados
+POZZALLO:
+  - pozzallo
+POZZUOLI:
+  - pozzuoli
+PRAIA:
+  - praia
+PRAIA_DE_VITORIA:
+  - praia de vitoria
+PRESIDENTE_EPITACIO:
+  - presidente epitacio
+PRESQUE_ISLE:
+  - presque isle
+PRESTON:
+  - preston
+PREVEZA:
+  - preveza
+PRIMORSK:
+  - primorsk
+PRINCE_OLAV_HARBOR:
+  - prince olav harbor
+PRINCE_RUPERT:
+  - prince rupert
+PRINCETOWN:
+  - princetown
+PRISONERS:
+  - prisoners
+PROBOLINGGO:
+  - probolinggo
+PROGRESO:
+  - progreso
+PROPRIANO:
+  - propriano
+PROSPER:
+  - prosper
+PROVIDENCE:
+  - providence
+PROVIDENCIALES:
+  - providenciales
+PROVIDENIYA:
+  - provideniya
+PROVINCETOWN:
+  - provincetown
+PRUDHOE_BAY:
+  - prudhoe bay
+PUCALLPA:
+  - pucallpa
+PUEBLA_DE_SAN_CIPRIÁN:
+  - puebla de san ciprián
+PUEBLA_DEL_CARAMIÑAL:
+  - puebla del caramiñal
+  - puebla
+PUEBLA_DEL_DEÁN:
+  - puebla del deán
+PUENTE_CESURES_PADRÓN:
+  - puente cesures  -padrón
+PUENTE_MAYORGA_SAN_ROQUE:
+  - puente mayorga  -san roque
+PUENTE_VIESGO:
+  - puente viesgo
+PUENTECESO:
+  - puenteceso
+PUENTEDEUME:
+  - puentedeume
+PUERTO_17_DE_OCTUBRE:
+  - puerto 17 de octubre
+PUERTO_AGUIRRE:
+  - puerto aguirre
+PUERTO_ANGAMOS:
+  - puerto angamos
+PUERTO_ARMUELLES:
+  - puerto armuelles
+PUERTO_ARRECIFE:
+  - puerto arrecife
+PUERTO_BARRIOS:
+  - puerto barrios
+PUERTO_BAYOVAR:
+  - puerto bayovar
+PUERTO_BELGRANO:
+  - puerto belgrano
+PUERTO_BERMEJO:
+  - puerto bermejo
+PUERTO_BOLIVAR_CO:
+  - puerto bolivar
+PUERTO_BOLIVAR_EC:
+  - puerto bolivar
+PUERTO_BORBURATA:
+  - puerto borburata
+PUERTO_BORGHI:
+  -puerto borghi
+PUERTO_BOTADO:
+  - puerto botado
+PUERTO_BUSCH:
+  - puerto busch
+PUERTO_CABELLO:
+  - puerto cabello
+PUERTO_CABEZAS:
+  - puerto cabezas
+PUERTO_CABO_BLANCO:
+  - puerto cabo blanco
+PUERTO_CABRAS:
+  - puerto del rosario
+PUERTO_CÁCERES:
+  - puerto cáceres
+PUERTO_CALDERA_CR:
+  - puerto caldera
+PUERTO_CALDERA_CL:
+  - puerto caldera
+PUERTO_CALDERILLA:
+  - puerto calderilla
+PUERTO_CASADO:
+  - puerto casado
+PUERTO_CASADOR:
+  - puerto casador
+PUERTO_CASTILLA:
+  - puerto castilla
+PUERTO_CASTRO:
+  - puerto castro
+PUERTO_CHACABUCO:
+  - puerto chacabuco
+PUERTO_CHANARAL:
+  - puerto chanaral
+PUERTO_CHIAPAS:
+  - madero
+PUERTO_CHICHIRIVICHE:
+  - puerto chichiriviche
+PUERTO_COLON:
+  - puerto colon
+PUERTO_COOPER:
+  - puerto cooper
+PUERTO_CORONEL:
+  - puerto coronel
+PUERTO_CRISTOBAL:
+  - puerto cristobal
+PUERTO_CRUZ:
+  - puerto cruz
+PUERTO_CUMAREBO:
+  - puerto cumarebo
+PUERTO_DE_ALCUDIA:
+  - puerto de alcudia
+PUERTO_DE_AÇU:
+  - puerto de açu
+PUERTO_DE_ASTURIAGA:
+  - puerto de asturiaga
+PUERTO_DE_ASUNCION:
+  - puerto de asuncion
+PUERTO_DE_BILBAO:
+  - puerto de bilbao
+PUERTO_DE_CARBONERAS:
+  - puerto de carboneras
+PUERTO_DE_CHIMBOTE:
+  - puerto de chimbote
+PUERTO_DE_CORRAL:
+  - puerto de corral
+PUERTO_DE_GANDIA:
+  - puerto de gandia
+PUERTO_DE_GARRUCHA:
+  - puerto de garrucha
+PUERTO_DE_HAINA:
+  - puerto de haina
+PUERTO_DE_HENCAN:
+  - puerto de hencan
+PUERTO_DE_HIERRO:
+  - puerto de hierro
+PUERTO_DE_HUACHO:
+  - puerto de huacho
+PUERTO_DE_LA_SAVINA:
+  - puerto de la savina
+PUERTO_DE_PASAJES:
+  - puerto de pasajes
+PUERTO_DE_RÍO_GRANDE:
+  - puerto de río grande
+PUERTO_DE_SANTA_MARIA
+  - puerto de santa maria
+  - puerto de sta. maría
+  - puerto santa maria
+PUERTO_DEL_CALLAO:
+  - puerto del callao
+PUERTO_DEL_ROSARIO:
+  - puerto del rosario
+PUERTO_DELICIA:
+  - puerto delicia
+PUERTO_DESEADO:
+  - puerto deseado
+PUERTO_ESPERANZA:
+  - puerto esperanza
+PUERTO_ESTACA:
+  - puerto estaca
+PUERTO_ESTE:
+  - puerto este
+PUERTO_GABOTO:
+  - puerto gaboto
+PUERTO_GALLEGOS:
+  - puerto gallegos
+PUERTO_GALVAN:
+  - puerto galvan
+PUERTO_GISELLA:
+  - puerto gisella
+PUERTO_GUANTANAMO:
+  - puerto guantanamo
+PUERTO_GUIMARAES:
+  - guimarães
+PUERTO_ILO:
+  - puerto ilo
+PUERTO_INGENIERO_WHITE:
+  - puerto ingeniero white
+PUERTO_LA_CRUZ:
+  - puerto la cruz
+PUERTO_LEDA:
+  - puerto leda
+PUERTO_LEÓN:
+  - puerto león
+PUERTO_IGUAZÚ:
+  - puerto iguazú
+PUERTO_LIDIA_PE:
+  - puerto lidia
+PUERTO_LIDIA_PY:
+  - puerto lidia
+PUERTO_LIMON:
+  - puerto limon
+PUERTO_ITÁPUCUMÍ:
+  - puerto itápucumí
+PUERTO_MADERO:
+  - puerto madero
+PUERTO_MADRYN:
+  - puerto madryn
+PUERTO_MANI:
+  - puerto mani
+PUERTO_MARÍA:
+  - puerto maría
+PUERTO_MARITIMO_DE_GUAYAQUIL:
+  - puerto maritimo de guayaquil
+PUERTO_MARTINS:
+  - puerto martins
+PUERTO_MAX:
+  - puerto max
+PUERTO_MENDES:
+  - puerto mendes
+PUERTO_MIHANOVICH:
+  - puerto mihanovich
+PUERTO_MINERAL:
+  - puerto mineral
+PUERTO_MIRANDA:
+  - puerto miranda
+PUERTO_MOGAN:
+  - puerto mogan
+PUERTO_MOIN:
+  - puerto moin
+PUERTO_MONTT:
+  - puerto montt
+PUERTO_MORRO_REDONDO:
+  - puerto morro redondo
+PUERTO_MORTINHO:
+  - puerto mortinho
+PUERTO_NACIONAL:
+  - puerto nacional
+PUERTO_NARANJITO:
+  - puerto naranjito
+PUERTO_NATALES:
+  - puerto natales
+PUERTO_NIEVES:
+  - puerto nieves
+PUERTO_OCAMPO:
+  - puerto ocampo
+PUERTO_OLIMPO:
+  - puerto olimpo
+PUERTO_ORDAZ:
+  - puerto ordaz
+PUERTO_PADRE:
+  - puerto padre
+PUERTO_PÉREZ:
+  - puerto pérez
+PUERTO_PINASCO:
+  - puerto pinasco
+PUERTO_PLATA:
+  - puerto plata
+PUERTO_PRINCESA:
+  - puerto princesa
+PUERTO_PRODECO:
+  - puerto prodeco
+PUERTO_QUEMCHI:
+  - puerto quemchi
+PUERTO_QUEPOS:
+  - puerto quepos
+PUERTO_QUETZAL:
+  - puerto quetzal
+PUERTO_QUIJARRO:
+  - puerto quijarro
+PUERTO_REAL:
+  - puerto real
+PUERTO_RICO:
+  - puerto rico
+PUERTO_ROSALES:
+  - puerto rosales
+PUERTO_ROSARIO:
+  - puerto rosario
+PUERTO_SAN_ANTONIO:
+  - puerto san antonio
+PUERTO_SAN_JULIAN:
+  - puerto san julian
+PUERTO_SAN_LORENZO:
+  - puerto san lorenzo
+PUERTO_SAN_MARTIN:
+  - puerto san martin
+PUERTO_SANDINO:
+  - puerto sandino
+PUERTO_SANTA_CRUZ:
+  - puerto santa cruz
+PUERTO_DE_SANTIAGO:
+  - puerto de santiago
+PUERTO_SÃO_JOSÉ:
+  - puerto são josé
+PUERTO_SARA:
+  - puerto sara
+PUERTO_SASTRE:
+  - puerto sastre
+PUERTO_SAUCE:
+  - puerto sauce
+PUERTO_SUÁREZ:
+  - puerto suárez
+PUERTO_SUPE:
+  - puerto supe
+PUERTO_VALLARTA:
+  - puerto vallarta
+PUERTO_VALLE_MI:
+  - puerto valle
+PUERTO_VIEJO_DE_AZUA:
+  - puerto viejo de azua
+PUERTO_VILLA_ALBERDI:
+  - puerto villa alberdi
+PUERTO_VOLUNTAD:
+  - puerto voluntad
+PUERTO_WILLIAMS:
+  - puerto williams
+PUERTO_YABUCOA:
+  - puerto yabucoa
+PUERTO_YARTOU:
+  - puerto yartou
+PUERTO_ZEBALLOS:
+  - puerto zeballos
+PUGWASH:
+  - pugwash
+PUKOO:
+  - pukoo
+PULA:
+  - pula
+PULAU_BAAI:
+  - pulau baai
+PULAU_BUKOM:
+  - pulau bukom
+PULAU_PINANG:
+  - pulau pinang
+PULAU_SAMBU:
+  - pulau sambu
+PULAU_SEBAROK:
+  - pulau sebarok
+PULUPANDAN:
+  - pulupandan
+PUNTA_ARENAS:
+  - punta arenas
+PUNTA_ALEGRE:
+  - punta alegre
+PUNTA_CARDON:
+  - punta cardon
+PUNTA_COLORADA:
+  - punta colorada
+PUNTA_DE_PALMAS:
+  - punta de palmas
+PUNTA_DELGADA:
+  - punta delgada
+PUNTA_LOBITOS:
+  - bahía de huarmey: ~
+PUNTA_LOYOLA:
+  - punta loyola
+PUNTARENAS:
+  - puntarenas
+PUNTA_PIEDRAS:
+  - punta piedras
+PURTON:
+  - purton
+PUSAN:
+  - pusan
+PUT_IN_BAY:
+  - put in bay
+PWLLHELI:
+  - pwllheli
+PYEONGTAEK_HANG:
+  - pyeongtaek hang
+PYRGOS:
+  - pyrgos
+  - pirgo
+QAQURTOQ:
+  - qaqurtoq
+QASIGIANNGUIT_CHRISTIANSHAB:
+  - qasigiannguit  -christianshab
+QEQERTARSUAQ:
+  - qeqertarsuaq
+QINGDAO_GANG:
+  - qingdao gang
+QINHUANGDAO:
+  - qinhuangdao
+QINZHOU:
+  - qinzhou
+QUANZHOU:
+  - quanzhou
+QUARTERMASTER_HARBOR:
+  - quartermaster harbor
+QUEBEC:
+  - quebec
+QUEBEC_HARBOUR:
+  - quebec harbour
+QUEEN_CAROLA_HARBOR:
+  - queen carola harbor
+QUEEN_CHARLOTTE:
+  - queen charlotte
+QUEENBOROUGH:
+  - queenborough
+QUEENSTON:
+  - queenston
+QUEENSTOWN:
+  - queenstown
+QUELIMANE:
+  - quelimane
+QUEQUEN:
+  - quequen
+QUI_NHON:
+  - qui nhon
+QUILIMANE:
+  - quilimane
+QUILON_(KOLLAM):
+  - quilon (kollam)
+QUINCY:
+  - quincy
+QUIRPON:
+  - quirpon
+  - kirpon
+QUONSET_POINT:
+  - quonset point
+QUTDLEQ:
+  - qutdleq
+RAAHE:
+  - raahe
+RABAT:
+  - rabat
+RABAUL:
+  - rabaul
+RABIGH:
+  - rabigh
+RABOCHEOSTROVSK:
+  - rabocheostrovsk
+RACINE:
+  - racine
+RADA_DE_ARICA:
+  - rada de arica
+RADA_DI_VADO:
+  - rada di vado
+RADA_PUNTA_ARENAS:
+  - rada punta arenas
+RADE_DE_BREST:
+  - rade de brest
+RADE_DE_CHERBOURG:
+  - rade de cherbourg
+RADES:
+  - rades
+RAGUSA_IT:
+  - rausa
+RAGUSA_HR:
+  - dubrovnik
+RAHA_ROADSTEAD:
+  - raha roadstead
+RAHJA:
+  - rahja
+RAINIER:
+  - rainier
+RAMALLO:
+  - ramallo
+RAMALLOSA:
+  - ramallosa
+RAMBA:
+  - ramba
+RAMSEY:
+  - ramsey
+RAMSGATE:
+  - ramsgate
+RAN:
+  - ran
+RANDERS:
+  - randers
+RANGOON:
+  - rangoon
+RAS_LANUF:
+  - ras lanuf
+RAS_TANNURAH:
+  - ras tannurah
+RAS_ABU_ZANIMAH:
+  - ras abu zanimah
+RAS_AL_GHAR:
+  - ras al ghar
+RAS_AL_KHAFJI:
+  - ras al khafji
+RAS_AL_MISHAB:
+  - ras al mishab
+RAS_GHARIB:
+  - ras gharib
+RAS_LAFFAN:
+  - ras laffan
+RAS_SHUKHIER:
+  - ras shukhier
+RAS_SUDR:
+  - ras sudr
+RATHMULLAN:
+  - rathmullan
+RATNAGIRI:
+  - ratnagiri
+RAUFARHOFN:
+  - raufarhofn
+RAUMA:
+  - rauma
+  - raumo
+RAVENGLASS:
+  - ravenglass
+RAWSON:
+  - rawson
+RAYMOND:
+  - raymond
+RECIFE:
+  - recife
+REDBRIDGE:
+  - redbridge
+REDCAR:
+  - redcar
+REDES:
+  - redes
+REDONDELA:
+  - redondela
+REDWOOD_CITY:
+  - redwood city
+REEDSPORT:
+  - reedsport
+REGGIO_DI_CALABRIA:
+  - reggio di calabria
+REIKIAVIK:
+  - reikiavik
+  - reykjavik
+REINE:
+  - reine
+REKA_LUGA:
+  - reka luga
+REKEFJORD:
+  - rekefjord
+REMANCITO:
+  - remancito
+REMBANG:
+  - rembang
+RENDSBURG:
+  - rendsburg
+RENFREW:
+  - renfrew
+RENI:
+  - reni
+RENSSELAER:
+  - rensselaer
+REPRESA_DE_ITAIPÚ:
+  - represa de itaipú
+REPOSAAR:
+  - reposaar
+  - repossari
+REQUEJADA:
+  - requejada
+RESERVE:
+  - reserve
+RESOLUTE_BAY:
+  - resolute bay
+RETHYMO:
+  - rethymno
+RHUDDLAN:
+  - rhuddlan
+RHYDPONT:
+  - rhydpont
+RHYL:
+  - rhyl
+RIANXO_AS_CORTES:
+  - rianxo as cortes
+RIBADEO:
+  - ribadeo
+RICHARDS_BAY:
+  - richards bay
+RICHARDS_LANDING:
+  - richards landing
+RICHARDSON:
+  - richardson
+RICHMOND:
+  - richmond
+RIGA:
+  - riga
+RIMOUSKI:
+  - rimouski
+RINGGI_COVE:
+  - ringgi cove
+RINGKOBING:
+  - ringkobing
+RIO_BLANCO_
+  - rio blanco
+RIO_BUENO:
+  - rio bueno
+RIO_CACHEU:
+  - rio cacheu
+RIO_CONGO:
+  - rio-congo
+RIO_CULLEN:
+  - rio cullen
+RIO_DE_JANEIRO:
+  - rio de janeiro
+RIO_DANUBIO:
+  - rio danubio
+RIO_ELBA:
+  - rio elba
+  - rie elba
+RIO_GALLEGOS:
+  - rio gallegos
+RIO_GRANDE_BR:
+  - rio grande
+RIO_GRANDE_AR:
+  - rio grande
+RIO_HACHA:
+  - riohacha
+RIO_LUJAN:
+  - rio lujan
+RIO_MARINA:
+  - rio marina
+RIO_NEGRO:
+  - rio negro
+RIO_NUNEZ:
+  - rio nunez
+RIO_PARANA:
+  - rio paraná
+RIO_PONGO:
+  - rio pongo
+RIPOSTO:
+  - riposto
+RIO_TINTO_ES:
+  - rio tinto
+RIO_TINTO_PT:
+  - rio tinto	
+RIO_URUGUAY:
+  - rio uruguay
+RIO_VISTA:
+  - rio vista
+RISAN:
+  - risan
+RISOR:
+  - risor
+RIVADESELLA:
+  - rivadesella
+RIVADEO:
+  - ribadeo
+RIBEIRA:
+  - ribeira
+RIVIERE_DU_LOUP:
+  - riviere du loup
+RIZE:
+  - rize
+RIZHAO:
+  - rizhao
+ROAD_HARBOR:
+  - road harbor
+ROBIN_HOOD:
+  - robin hood
+ROBIN_HOOD_BAY:
+  - robin hood bay
+ROCA:
+  - roca
+ROCAPINA:
+  - rocapina
+ROCHE_HARBOR:
+  - roche harbor
+ROCHEFORT:
+  - rochefort
+ROCHESTER_GB:
+  - rochester
+ROCHESTER_US:
+  - rochester
+ROCHFORD:
+  - rochford
+ROCKLAND_CA:
+  - rockland
+ROCKLAND_US:
+  - rockland
+ROCKPORT_US:
+  - rockport
+ROCKPORT_CA:
+  - rockport
+ROCKPORT_2_US:
+  - rockport 2
+ROCKPORT_3_US:
+  - rockport 3
+ROCKY_POINT:
+  - rocky point
+RODBY_HAVN:
+  - rodby havn
+RODDICKTON:
+  - roddickton
+RODAS:
+  - rodas
+  - rhodes
+RODHOS:
+  - rodhos
+RODOSTO:
+  - rodosto
+ROGERS_CITY:
+  - rogers city
+ROGNAN:
+  - rognan
+ROMA:
+  - roma
+ROMNEY:
+  - romney
+RONDEAU:
+  - rondeau
+RONEHAMN:
+  - ronehamn
+RONNE:
+  - ronne
+RONNEBY:
+  - ronneby
+RORVIK:
+  - rorvik
+ROSARIO_AR:
+  - rosario
+  - rosario de santa fe
+ROSARIO_UY:
+  - Rosario
+  - rosario oriental
+ROSARITO:
+  - rosarito
+ROSAS:
+  - rosas
+  - roses
+ROSE_INLET:
+  - rose inlet
+ROSEAU:
+  - roseau
+ROSSLARE:
+  - rosslare
+ROSTOCK:
+  - rostock
+ROSTOV_NA_DONU:
+  - rostov  -na  -donu
+ROSYTH:
+  - rosyth
+ROTA_MP:
+  - rota
+ROTA_ES:
+  - rota
+ROTHESAY_DOCK:
+  - rothesay dock
+ROTHESAY_HARBOR:
+  - rothesay harbor
+ROTTERDAM:
+  - rotterdam
+  - roterdám
+ROUEN:
+  - rouen
+  - ruen
+ROUGE_RIVER:
+  - rouge river
+ROVINJ:
+  - rovinj
+ROWHEDGE:
+  - rowhedge
+RUDKOBING:
+  - rudkobing
+RUFISQUE:
+  - rufisque
+RUMOI_KO:
+  - rumoi
+RUNAVIK:
+  - runavik
+RUNCORN:
+  - runcorn
+RUNDVIK:
+  - rundvik
+RYDE:
+  - ryde
+RYE_HARBOUR:
+  - rye harbour
+RYOTU_KO:
+  - ryotu
+S._ROCO:
+  - s. roco
+SABANG:
+  - sabang
+SABINE:
+  - sabine
+SABINE_PASS:
+  - sabine pass
+SABLES:
+  - sables
+SACHS_HARBOR:
+  - sachs harbor
+SACKETS_HARBOR:
+  - sackets harbor
+SACO:
+  - saco
+SACRAMENTO:
+  - sacramento
+SAFI:
+  - safi
+SAGANOSEKI_KO:
+  - saganoseki ko
+SAGINAW:
+  - saginaw
+SAGONE:
+  - sagone
+SAGUA_LA_GRANDE:
+  - sagua la grande
+SAGUNTO:
+  - sagunto
+SAGVAG:
+  - sagvag
+SAIGON:
+  - saigon
+SAIKI_KO:
+  - saiki ko
+SAILOLOF:
+  - sailolof
+SAINT-BRIEUC:
+  - saint-brieuc
+SAINT_CHAMAS:
+  - saint chamas
+SAINT-ANTOINE:
+  - saint-antoine
+SAINT_HELIER_HARBOUR:
+  - saint helier harbour
+SAINT-LAURENT:
+  - saint-laurent
+SAINT_LOUIS:
+  - saint louis
+SAINT_LOUIS_DU_RHONE:
+  - saint louis-du-rhone
+SAINT_PELLEGRINO:
+  - saint pellegrino
+SAINT_PETER_PORT:
+  - saint peter port
+SAINT_PIERRE
+  - saint ierre
+SAINT_RAPHAEL:
+  - saint raphael
+SAINT_SAMPSON:
+  - saint sampson
+SAINT_IVES:
+  - saint ives
+SAINTAGNES:
+  - saintagnes
+SAINT_AUBIN:
+  - saint aubin
+SAINT_CHAMAS:
+  - saint chamas
+SAINTCLEARS:
+  - saintclears
+SAINT-FLORENT:
+  - saint-florent
+SAINT_FRANÇOIS:
+  - saint françois
+SAINT_DENIS:
+  - saint  -denis
+SAINT-CROIX:
+  - saint croix
+SAINTE_MAXIME:
+  - sainte maxime
+SAINTE_MARIE_DE_BATHURST:
+  - sainte-marie-de-bathurst
+SAINTE_MARIE_RE
+  - sainte marie
+  - ste. marie
+SAINTE-MARIE:
+  - sainte-marie
+SAINT_GERMANS:
+  - saint germans
+SAINTHELENS:
+  - sainthelens
+SAINT_HELIER:
+  - saint helier
+SAINT JOHN:
+  - saint john
+SAINT-JULIEN:
+  - saint-julien
+SAINT_JUST:
+  - saint just
+SAINT KITTS:
+  - saint kitts
+SAINT_LOUIS_DU_RHONE:
+  - saint louis du rhone
+SAINT_MALO:
+  - saint  -malo
+SAINT_MARE:
+  - saint mare
+SAINTMARY_SCILLY:
+  - sainmary scilly
+SAINT_MAWES:
+  - saint mawes
+SAINT_MICHAEL_MOUNT:
+  - saint michael mount
+SAINT_NAZAIRE:
+  - saint-nazarie
+SAINT_NICHOLAS_BAY:
+  - saint nicholas bay
+SAINT_OSYTH:
+  - saint osyth
+SAINT-PAUL:
+  - saint-paul
+SAINT_PETER_PORT:
+  - saint peter port
+SAINT_PIERRE_CA:
+  - saint-pierre
+SAINT_PIERRE_RE:
+  - saint-pierre
+SAINT_PIERRE_MQ:
+  - saint-pierre
+SAINT_RAPHAEL:
+  - saint  -raphael
+SAINT THOMAS:
+  -saint thomas
+SAINT_TROPEZ:
+  - saint  -tropez
+SAINT_VALERY_SUR_SOMME:
+  - saint  -valery  -sur  -somme
+SAIPAN:
+  - saipan
+SAIR-SOLENZARA:
+  - sair-solenzara
+SAKAI_KO:
+  - sakai ko
+SAKAIDE_KO:
+  - sakaide ko
+SAKAIMINATO:
+  - sakaiminato
+SAKAI_SENBOKU:
+  - sakai  -senboku
+SAKATA_KO:
+  - sakata ko
+SAKSKOBING:
+  - sakskobing
+SALACGRIVA:
+  - salacgriva
+SALADO:
+  - salado
+  - rio salado
+SALAVERRY:
+  - salaverry
+SALAWATI:
+  - salawati
+SALCOMBE:
+  - salcombe
+SALDANHA_BAY:
+  - saldanha bay
+SALEM:
+  - salem
+SALEM_NJ:
+  - salem nj
+SALERNO:
+  - salerno
+SALIF:
+  - salif
+SALINA:
+  - salina
+SALINA_CRUZ:
+  - salina cruz
+SALINETAS:
+  - salinetas
+SALINS_D'HYERES:
+  - salins d'hyeres
+SALISBURY:
+  - salisbury
+SALOBREÑA:
+  - salobreña
+SALONICA:
+  - salonica
+  - salonique
+SALOU:
+  - salou
+SALSBRUKET:
+  - salsbruket
+SALTASH:
+  - saltash
+SALTES:
+  - saltes
+SALTFLEET:
+  - saltfleet
+SALTO:
+  - salto
+  - salto oriental
+  - salto (E.O.)
+  - villa de salto	
+SALTPOND:
+  - saltpond
+SALVADOR:
+  - salvador
+  - bahia
+  - salvador bahía
+SAMANÁ:
+  - samaná
+SAMARAI:
+  - samarai
+SAMARINDA:
+  - samarinda
+SAMBRO:
+  - sambro
+SAMOA:
+  - samoa
+SAMOS:
+  - samos
+SAMPIT:
+  - sampit
+SAMSUN:
+  - samsun
+SAN_ANDRES:
+  - san andres
+SAN-ANTIOCO:
+  - san-antioco
+SAN_ANTONIO:
+  - san antonio
+SAN_ANTONIO_ABAD:
+  - san antonio abad
+SAN_ANTONIO_ESTE:
+  - san antonio este
+SAN_BLAS:
+  - san blas
+SAMBOROMBON:
+  - san borombón
+SAN CAYETANO:
+  - san cayetano
+SAN_CARLOS:
+  - san carlos
+SAN_CARLOS_DE_LA_RAPITA:
+  - san carlos de la rapita
+SAN_CIPRIAN:
+  - san ciprian
+SAN_DIEGO:
+  - san diego
+SAN_ESTEBAN_DE_PRAVIA:
+  - san esteban de pravia
+SAN_FELIU_DE_GUIXOLS:
+  - san feliu de guixols
+  - san feliu
+SAN_FERNANDO_AR:
+  - san fernando
+SAN_FERNANDO_ES:
+  - san fernando
+SAN_FERNANDO_HARBOR:
+  - san fernando harbor
+SAN_FRANCISCO:
+  - san francisco
+SAN_GERÓNIMO:
+  - san gerónimo
+SAN_GIUSEPPE:
+  - san giuseppe
+SAN_IGNACIO:
+  - san ignacio
+SAN_JAVIER:
+  - san javier
+SAN_JOSÉ:
+  - san josé
+SAN_JUAN:
+  - san juan
+  - saint jean
+SAN_JUAN_BAUTISTA:
+  - san juan bautista
+SAN_JUAN_CANNERY:
+  - san juan cannery
+SAN_JUAN_DE_LA_COSTA:
+  - san juan de la costa
+SAN_JUAN_DE_LOS_REMEDIOS:
+  - san juan de los remedios
+SAN_JUAN_DE_TERRANOVA:
+  - san juan de terranova
+SAN_JULIAN:
+  - san julian
+SAN_LORENZO_HN:
+  - san lorenzo
+SAN_LORENZO_VE:
+  - san lorenzo
+SAN_LORENZO_AR:
+  - san lorenzo
+SAN_LÚCAR_DE_BARRAMEDA:
+  - san lúcar de barrameda
+SAN_MARCOS:
+  - san marcos
+  - saint marc
+SAN_MARTÍN:
+  - san martín
+SAN_MIGUEL_DE_CABO_DE_GATA:
+  - san miguel de cabo de gata
+SAN_MIGUEL_DE_COZUMEL:
+  - san miguel de cozumel
+SAN_NICOLÁS:
+  - san sicolás de los arroyos
+SAN_PEDRO_CL:
+  - san pedro
+SAN_PEDRO_AR:
+  - san pedro
+SAN_PEDRO_DE_MACORIS:
+  - san pedro de macoris
+SAN_PEDRO_DEL_PINATAR:
+  - san pedro del pinatar
+SANTO_PIPÓ:
+  - santo pipó
+SAN_REMO:
+  - san remo
+SAN_ROCCO:
+  - san rocco
+SAN_SEBASTIÁN:
+  - san sebastián
+BAHIA_DE_SAN_SEBASTIAN:
+  - bahia de san sebastian
+  - san sebastian bay
+SAN_SEBASTIAN_DE_LA_GOMERA:
+  - san sebastian de la gomera
+SAN_STEFANO:
+  - Santo stefano
+SAN_VICENTE_DE_LA_BARQUERA:
+  - san vicente de la barquera
+SAN_VINCENZO:
+  - san vincenzo
+SANAK:
+  - sanak
+SANCHEZ:
+  - sanchez
+SAND_POINT:
+  - sand point
+SANDARNE:
+  - sandarne
+SANDEFJORDEN:
+  - sandefiord
+SANDGATE:
+  - sandgate
+SANDHAMN:
+  - sandhamn
+SANDNES:
+  - sandnes
+SANDNESSJOEN:
+  - sandnessjoen
+SANDSEND:
+  - sandsend
+SANDUSKY:
+  - sandusky
+SANDVIK:
+  - sandvik
+SANDWICH:
+  - sandwich
+SANDYPOINT:
+  - sandypoint
+SANKEY:
+  - sankey
+SANKT_PETERBURG:
+  - sankt  -peterburg
+SANLÚCAR_DE_GUADIANA:
+  - sanlúcar de guadiana
+SANT_ANTONI_DE_PORTMANY:
+  - san antonio abad
+SANT_CARLES_DE_LA_RÁPITA:
+  - sant carles de la rápita
+SANT_FELIU_DE_GUÍXOLS:
+  - sant feliu de guíxols
+SANTA_ANA:
+  - santa ana
+SANTA_BARBARA:
+  - santa barbara
+SANTA_BARBARA_DE_SAMANA:
+  - santa barbara de samana
+SANTA_CATALINA
+  - santa catalina
+SANTA_CLARA_PH:
+  - santa clara
+SANTA_CLARA_BR:
+  - santa clara
+SANTA_CRUZ_US:
+  - marinduque island
+SANTA_CRUZ_AR:
+  - santa cruz
+  - puerto de santa cruz
+SANTA_CRUZ_DE_BARAHONA:
+  - santa cruz de barahona
+SANTA_CRUZ_DE_LA_PALMA:
+  - santa cruz de la palma
+SANTA_CRUZ_DE_TENERIFE:
+  - ste  -croix  -de  -ténériffe
+  - tenerife
+SANTA_ELENA:
+  - santa elena
+SANTA_FE:
+  - santa
+SANTA_MARGARITA:
+  - santa margarita
+SANTA_MARTA_CO:
+  - santa marta
+SANTA_MARTA_CU:
+  - santa marta
+SANTA_PAULA:
+  - santa paula
+SANTA_POLA:
+  - santa pola
+  - santapola
+  - sta. Pola
+SANTA_ROSALIA:
+  - santa rosalia
+SANTA_TERESA:
+  - santa teresa
+  - santa teresa de gallura
+SANTANA:
+  - santana
+SANTANDER:
+  - santander
+SANTAREM:
+  - santarem
+SANTIAGO_DE_CUBA:
+  - santiago de cuba
+SANTIAGO_DE_FOZ:
+  - santiago de foz
+SANTO_ANTONIO:
+  - santo antonio
+SANTO_DOMINGO:
+  - santo domingo
+SANTORINI:
+  - santorini
+SANTO_STEFANO:
+  - santo stefano
+SANTO_THOMAS_DE_CASTILLA:
+  - santo thomas de castilla
+SANTO_TOME:
+  - santo tome
+SANTOÑA:
+  - santoña
+SANTOS:
+  - santos
+SANYA:
+  - sanya
+SANZ:
+  - sanz
+SAO_FRANCISCO_DO_SUL:
+  - sao francisco do sul
+SAO_LUIS:
+  - sao luis
+  - são luís
+SAO_SEBASTIAO:
+  - sao sebastiao
+SAO_TOME:
+  - sao tome
+SAPANGAR_BAY:
+  - sapangar bay
+SAPELE:
+  - sapele
+SARIKEI:
+  - sarikei
+SARNIA:
+  - sarnia
+SARI-SOLENZAEA:
+  - sari-solenzara
+SARPSBORG:
+  - sarpsborg
+SASEBO:
+  - sasebo
+SASSNITZ:
+  - sassnitz
+SAUSSET:
+  - sausset
+SATILLA
+  - satilla
+  - satilla river
+SATTAHIP:
+  - sattahip
+SAUCE:
+  - sauce
+SAUDA:
+  - sauda
+SAUDARKROKUR:
+  - saudarkrokur
+SAUGATUCK:
+  - saugatuck
+SAULT_STE_MARIE_US:
+  - sault ste marie
+SAULT_STE_MARIE_CA:
+  - sault ste marie
+SAUMLAKI:
+  - saumlaki
+SAUNDERSFOOT:
+  - saundersfoot
+SAUSALITO:
+  - sausalito
+SAVANNAH:
+  - savannah
+SAVANNAH_LA_MAR:
+  - savannah la mar
+SAVONA:
+  - savona
+  - savone
+SAVOONGA:
+  - savoonga
+SAVUSAVU_BAY:
+  - savusavu bay
+SAWAKIN_HARBOR:
+  - sawakin harbor
+SAYDA:
+  - sayda
+SAYREVILLE:
+  - sayreville
+SCALLOWAY:
+  - scalloway
+SCAPA_BAY:
+  - scapa bay
+SCARBOROUGH_GB:
+  - scarborough
+SCARBOROUGH_IT:
+  - scarborough
+SCARIO:
+  - scario
+SCHEVENINGEN:
+  - scheveningen
+SCHIEDAM:
+  - schiedam
+SCILLA:
+  - scilla
+SCITUATE:
+  - scituate
+SCOGLITTI:
+  - scoglitti
+  - scoglirtti
+SCOTIA_BAY:
+  - scotia bay
+SCRABSTER_HARBOR:
+  - scrabster harbor
+SEABROOK:
+  - seabrook
+SEAFORD:
+  - seaford
+SEAHAM:
+  - seaham
+SEAL_COVE:
+  - seal cove
+SEARSPORT:
+  - searsport
+SEATONSLUICE:
+  - seatonsluice
+SEATTLE:
+  - seattle
+SEBASTOPOL:
+  - sebastopol
+SEGNA:
+  - segna
+SEILLA:
+  - seilla
+SEKIU:
+  - sekiu
+SEKONDI:
+  - sekondi
+SEKUPANG:
+  - sekupang
+SELBY:
+  - selby
+SELDOVIA:
+  - seldovia
+SELEFKIA:
+  - selefkia
+SELSEY:
+  - selsey
+SELVA_DE_MAR:
+  - selva de mar
+SEMARANG:
+  - semarang
+SEMIAHMOO:
+  - semiahmoo
+SENBONG:
+  - senbong
+SENDAI_SHIOGAMA:
+  - sendai  -shiogama
+SENJ:
+  - senj
+SEPT_ILES:
+  - sept iles
+SERANGOON_HARBOR:
+  - serangoon harbor
+SERUI:
+  - serui
+SETE:
+  - sete
+SETUBAL:
+  - setubal
+SEVASTOPOL:
+  - sevastopol
+SEVERODVINSK:
+  - severodvinsk
+SEVILLA:
+  - sevilla
+SEWARD:
+  - seward
+SEWAREN:
+  - sewaren
+SEYDHISFJORDHUR:
+  - seydhisfjordhur
+SEYMOUR:
+  - seymour
+SFAX:
+  - sfax
+SHAKHTERSK:
+  - shakhtersk
+SHAKOTAN:
+  - shakotan
+SHAN_T_OU:
+  - shan t ou
+  - swatow
+SHANGHAI:
+  - shanghai
+SHARM_EL_SHEIKH:
+  - sharm el sheikh
+SHARMAH:
+  - sharmah
+SHARPNESS:
+  - sharpness
+SHEBOYGAN:
+  - sheboygan
+SHEDIAC:
+  - shediac
+SHEERNESS:
+  - sheerness
+SHEGUIANDAH:
+  - sheguiandah
+SHEKOU:
+  - shekou
+SHELTON:
+  - shelton
+SHENGJIN:
+  - shengjin
+SHEPARD_POINT:
+  - shepard point
+SHIBUSHI_WAN:
+  - shibushi wan
+SHIELDS:
+  - shields
+SHIKAMA:
+  - shikama
+SHIMIZU_KO:
+  - shimizu ko
+SHIMMINATO:
+  - shimminato
+SHIMODA_KO:
+  - shimoda ko
+SHIMONOSEKI:
+  - shimonoseki
+SHINGU:
+  - shingu
+SHIPPEGAN:
+  - shippegan
+SHISHMAREF:
+  - shishmaref
+SHOREHAM_HARBOUR:
+  - shoreham harbour
+SHREWSBURY:
+  - shrewsbury
+SHUI_DONG:
+  - shui dong
+SI_RACHA:
+  - si racha
+SIAM_SEAPORT:
+  - siam seaport
+SIASI:
+  - siasi
+SIBENIK:
+  - sibenik
+SIBOLGA:
+  - sibolga
+SIBU:
+  - sibu
+SIDI_KERIR_(KURAYR):
+  - sidi kerir (kurayr)
+SIDMOUTH:
+  - sidmouth
+SIDNEY:
+  - sidney
+SIERRA_LEONA:
+  - sierra leona
+SIGLUFJORHURD:
+  - siglufjorhurd
+SIGNILSKAR:
+  - signilskar
+SIKKA:
+  - sikka
+SILLOTH:
+  - silloth
+SILVERDALE:
+  - silverdale
+SIMONSTOWN:
+  - simonstown
+SIMRISHAMN:
+  - simrishamn
+SINCO:
+  - sinco
+SINES:
+  - sines
+SINGAPORE:
+  - singapur
+SINISCOLA:
+  - siniscola
+SINOP:
+  - sinop
+SINT_MICHELSBAAI:
+  - sint michelsbaai
+SINT_NICOLAAS_BAAI:
+  - sint nicolaas baai
+SIRACUSA:
+  - siracusa
+SISAL:
+  - sisal
+SISIMIUT:
+  - sisimiut
+SITGES:
+  - sitjes
+SITIA:
+  - sitia
+SITKA:
+  - sitka
+SITRAH:
+  - sitrah
+SITTWE:
+  - sittwe
+SJOVEGAN:
+  - sjovegan
+SKADOVS'K:
+  - skadovs'k
+SKAELSKOR:
+  - skaelskor
+SKAERBAEK:
+  - skaerbaek
+SKAGASTROND:
+  - skagastrond
+SKAGEN_HAVN:
+  - skagen havn
+SKAGWAY:
+  - skagway
+SKEGNESS:
+  - skegness
+SKELLEFTEHAMN:
+  - skelleftehamn
+SKERJAFJORDUR:
+  - skerjafjordur
+SKHIRA:
+  - skhira
+SKIATHO:
+  - skiatho
+SKIEN:
+  - skien
+SKIKDA:
+  - skikda
+SKOOT_COVE:
+  - skoot cove
+SKROVA_HAVN:
+  - skrova havn
+SKUDENESHAVN:
+  - skudeneshavn
+SKUTSKAR:
+  - skutskar
+SLAGENSTANGEN:
+  - slagenstangen
+SLAVYANKA:
+  - slavyanka
+SLIDELL:
+  - slidell
+SLIGO:
+  - sligo
+SLITE:
+  - slite
+SMIRNA:
+  - smirna
+  - smyrna
+  - smyrne
+SNUG_HARBOR:
+  - snug harbor
+SOCHI:
+  - sochi
+SODERHAMN:
+  - soderhamn
+SODERTALJE:
+  - sodertalje
+SODUS_BAY:
+  - sodus bay
+SOINTULA:
+  - sointula
+SOKCH'O_HANG:
+  - sokch'o hang
+SOKHUMI:
+  - sokhumi
+SOLENZARA:
+  - solenzara
+SOLLER:
+  - soller
+SOLOMON:
+  - solomon
+SOLOMONS_ISLAND:
+  - solomons island
+SOLVA:
+  - solva
+SOLVESBORG:
+  - solvesborg
+SOMA:
+  - soma
+SOMBRA:
+  - sombra
+SONDERBORG:
+  - sonderborg
+SONGKHLA_HARBOR:
+  - songkhla harbor
+SONORA:
+  - sonora
+SORAKER:
+  - soraker
+SOREL:
+  - sorel
+SORIANO:
+  - soriano
+SORRENTO:
+  - sorrento
+SORSOGON:
+  - sorsogon
+SORTLAND:
+  - sortland
+SORVAER:
+  - sorvaer
+SORVAGUR:
+  - sorvagur
+SOUDHA:
+  - soudha
+SOURABAYA:
+  - sourabaya
+SOURIS_HARBOUR:
+  - souris harbour
+SOUSSE:
+  - sousse
+SOUTH_AMBOY:
+  - south amboy
+SOUTH_BEND:
+  - south bend
+SOUTH_BRISTOL:
+  - south bristol
+SOUTH_GEORGIA:
+  - South Georgia
+SOUTH_HARPSWELL:
+  - south harpswell
+SOUTH_HAVEN:
+  - south haven
+SOUTH_LANCASTER:
+  - south lancaster
+SOUTH_NESS:
+  - south ness
+SOUTH_RIDING_POINT:
+  - south riding point
+SOUTH_VALLEJO:
+  - south vallejo
+SOUTHAMPTON_GB:
+  - southampton
+SOUTHAMPTON_CA:
+  - southampton
+SOUTHEND:
+  - southend
+SOUTHPORT_GB:
+  - southport
+SOUTH_SHIELDS:
+  - south shields
+SOUTHWEST_HARBOR:
+  - southwest harbor
+SOUTHWEST_PASS:
+  - southwest pass
+SOUTHWOLD:
+  - southwold
+SOVETSKAYA_GAVAN:
+  - sovetskaya gavan
+SPALDING:
+  - spalding
+SPETSES:
+  - spetses
+SPEZZIA:
+  - spezzia
+  - la spezzia
+  - sapezia
+SPLIT:
+  - split
+  - spalato
+SPRINGDALE:
+  - springdale
+SPURN:
+  - spurn
+SQUAMISH:
+  - squamish
+ST_ANDREWS_EAST:
+  - st andrews east
+ST_ANICET:
+  - st anicet
+ST_AUGUSTINE:
+  - st augustine
+ST_CATHERINE:
+  - st catherine
+ST_CLAIR:
+  - st clair
+ST_GEORGE'S_CA:
+  - st george's
+ST_GEORGE'S_BM:
+  - st george's
+ST_GEORGE'S_GD:
+  - st george's
+ST_HELENS:
+  - st helens
+ST_IGNACE:
+  - st ignace
+ST_JOHN:
+  - st john
+ST_JOHNS:
+  - st johns
+ST_JOHN'S:
+  - st john's
+ST_JOSEPH:
+  - st joseph
+ST_LOUIS:
+  - st louis
+ST_MARGARETS_HOPE:
+  - st margarets hope
+ST_MICHAEL:
+  - st michael
+ST_NAZAIRE:
+  - st nazaire
+ST_PETERSBURG:
+  - st petersburg
+ST_PLACIDE:
+  - st placide
+ST_ROSE:
+  - st rose
+ST_ZOTIQUE:
+  - st zotique
+ST._CATHERINE'S:
+  - st. catherine's
+ST._JAMES:
+  - st. james
+ST._JAMES_HARBOR:
+  - st. james harbor
+ST._MARY'S_(SCILLY_ISL,):
+  - st. mary's (scilly isl,)
+  - st. Marys
+  - port saint mary
+  - Saint Mary
+STAGEN:
+  - stagen
+STAMFORD:
+  - stamford
+STAMSUND:
+  - stamsund
+STANLEY_AU:
+  - stanley
+STANLEY_FK:
+  - stanley
+STAPLETON_SI:
+  - stapleton si
+STARCROSS:
+  - starcross
+STAVANGER:
+  - stavanger
+STE.__MARGUERITE:
+  - ste.  marguerite
+STEAMBOAT_BAY:
+  - steamboat bay
+STEGE:
+  - stege
+STEINKJER:
+  - steinkjer
+STENUNGSUND:
+  - stenungsund
+STEPHENVILLE:
+  - stephenville
+SZCZECIN:
+  - szczecin
+  - stettin
+STEVESTON:
+  - steveston
+STEWART:
+  - stewart
+STIGSNAESVAERKET:
+  - stigsnaesvaerket
+STILIS:
+  - stilis
+STOCKA:
+  - stocka
+ESTOCOLMO:
+  - estocolmo
+  - stockholm
+  - stokolmo
+STOCKTON:
+  - stockton
+STOCKT_ON_ONTEES:
+  - stockt on ontees
+STOCKVIK:
+  - stockvik
+STOCKWITH:
+  - stockwith
+STOKKMARKNES:
+  - stokkmarknes
+STONEHOUSE:
+  - stonehouse
+STONINGTON:
+  - stonington
+STORA_JATTERSON:
+  - stora jatterson
+STORMONT:
+  - stormont
+STORNOWAY_HARBOR:
+  - stornoway harbor
+STORSTEILENE:
+  - storsteilene
+STORUGNS:
+  - storugns
+STRALSUND:
+  - stralsund
+STRANDVIK:
+  - strandvik
+STRANRAER:
+  - stranraer
+STRATFORD_UPON_AVON:
+  - stratford upon avon
+STRATONI:
+  - stratoni
+STRAUMSVIK:
+  - straumsvik
+STROMNESS:
+  - stromness
+STROMNESS_HARBOR:
+  - stromness harbor
+STROMSTAD:
+  - stromstad
+STROOD:
+  - strood
+STUBBEKOBING:
+  - stubbekobing
+STUDSTRUP:
+  - studstrup
+STURA:
+  - stura
+STURGEON_BAY:
+  - sturgeon bay
+STUSVIK:
+  - stusvik
+SUANCES:
+  - suances
+SU_AO:
+  - su  -ao
+SUBIC_BAY:
+  - subic bay
+SUDAK:
+  - sudak
+SUÉZ:
+  - suez
+SUECIA:
+  - suecia
+SUIZHANG_GANG:
+  - suizhang gang
+SULINA:
+  - saliná
+SULLOM_VOE:
+  - sullom voe
+SULLY:
+  - sully
+SULOGA_HARBOR:
+  - suloga harbor
+SUMATRA:
+  - sumatra
+SUMBE:
+  - sumbe
+SUMMERSIDE:
+  - summerside
+SUNDERLAND:
+  - sunderland
+SUNDSVALL:
+  - sundsvall
+SUNGAIGERONG:
+  - sungaigerong
+SUNGAIPAKNING:
+  - sungaipakning
+SUNNDALSORA:
+  - sunndalsora
+SUNSIVAR:
+  - zanzíbar
+SUPERIOR:
+  - superior
+SURABAYA:
+  - surabaya
+SURIGAO_CITY:
+  - surigao city
+SUSAKI_KO:
+  - susaki ko
+SUTTONBRIDGE:
+  - suttonbridge
+SUTTONONSEA:
+  - suttononsea
+SUVA_HARBOR:
+  - suva harbor
+SVELVIK:
+  - svelvik
+SVENDBORG:
+  - svendborg
+SVOLVAER:
+  - svolvaer
+SWANAGE:
+  - swanage
+SWANPORT:
+  - swanport
+SWANS_ISLAND:
+  - swans island
+SWANSBORO:
+  - swansboro
+SWANSEA:
+  - swansea
+SWINOUJSCIE:
+  - swinoujscie
+SYDNEY_AU:
+  - sydney
+SYDNEY_CA:
+  - sydney
+SZCZECIN:
+  - szczecin
+TABACO:
+  - tabaco
+TABARKA:
+  - tabarka
+TABASCO:
+  - dos bocas
+TACHIBANA:
+  - tachibana
+TACLOBAN:
+  - tacloban
+TACOMA:
+  - tacoma
+TADCASTER:
+  - tadcaster
+TADOUSSAC:
+  - tadoussac
+TAGANROG:
+  - taganrog
+  - tangarok
+TAGBILARAN:
+  - tagbilaran
+TAGONOURA_KO:
+  - tagonoura ko
+TAHKOLUOTO:
+  - tahkoluoto
+TAHSIS:
+  - tahsis
+TAHUNA:
+  - tahuna
+TAICANG:
+  - taicang
+TAI_CHUNG_KANG:
+  - tai  -chung kang
+TAKAMATSU:
+  - takamatsu
+TAKORADI:
+  - takoradi
+TAKUMA:
+  - takuma
+TALAMONE:
+  - talamone
+TALARA:
+  - talara
+TALCAHUANO:
+  - talcahuano
+TALIARTE:
+  - taliarte
+TALLINN:
+  - tallinn
+TALTAL:
+  - taltal
+TALVIK:
+  - talvik
+TAMPA:
+  - tampa
+TAMPICO:
+  - tampico
+TANABE_KO:
+  - tanabe ko
+TANAH_MERAH:
+  - tanah merah
+TANANGER:
+  - tananger
+TANANI_POINT:
+  - tanani point
+TANAUAN:
+  - tanauan
+TANGA:
+  - tanga
+TANGER:
+  - tanger
+TANGIER_MEDITERRANEAN:
+  - tangier  -mediterranean
+TANGSHAN_(JINGTANG):
+  - tangshan (jingtang)
+TANJUNG_ARANG__(BUNYU):
+  - tanjung arang  (bunyu)
+TANJUNG_BALAI_KARIMUN:
+  - tanjung balai karimun
+TANJUNG_BENETE:
+  - tanjung benete
+TANJUNG_GEREM:
+  - tanjung gerem
+TANJUNG_PELEPAS:
+  - tanjung pelepas
+TANJUNG_SANGATA:
+  - tanjung sangata
+TANJUNG_SANTAN:
+  - tanjung santan
+TANJUNG_SEKONG:
+  - tanjung sekong
+TANJUNGPANDAN:
+  - tanjungpandan
+TANJUNGPINANG:
+  - tanjungpinang
+TANJUNGREDEB:
+  - tanjungredeb
+TANJUNGUBAN:
+  - tanjunguban
+TAN_SHUI:
+  - tan  -shui
+TAPIA:
+  - tapia
+TARABULUS:
+  - tarabulus
+TARAJAL:
+  - gran tarajal
+TARAKOHE:
+  - tarakohe
+TARANTO:
+  - taranto
+TARAWA_ATOLL:
+  - tarawa atoll
+TARBERT_GB:
+  - tarbert
+TARBERT_IE:
+  - tarbert
+TAREMPAH:
+  - tarempah
+TARENTO:
+  - tarento
+  - tarente
+TARIFA:
+  - tarifa
+TARPON_SPRINGS:
+  - tarpon springs
+TARRAGONA:
+  - tarragona
+TARSOUS:
+  - tarsous
+TARTUS:
+  - tartus
+TASSILA:
+  - tassila
+TASUCU:
+  - tasucu
+TATEYAMA_KO:
+  - tateyama ko
+TAURANGA:
+  - tauranga
+TAVIRA:
+  - tavira
+TAWA:
+  - tawa
+TAWAS_CITY:
+  - tawas city
+TEESPORT:
+  - teesport
+TEGAL:
+  - tegal
+TEIGNMOUTH_HARBOUR:
+  - teignmouth harbour
+TEKIRDAG:
+  - tekirdag
+TELA:
+  - tela
+TELUK_ANSON:
+  - teluk anson
+TELUK_BAYUR:
+  - teluk bayur
+TELUK_BEO:
+  - teluk beo
+TEMA:
+  - tema
+TEMRYUK:
+  - temryuk
+TENAKEE_SPRINGS:
+  - tenakee springs
+TENBY:
+  - tenby
+TENERIFE:
+  - tenerife
+  - teneriffe
+TENES:
+  - tenes
+THEODOSIS:
+  - teodosis
+Theodosis
+TERMINI_IMERESE:
+  - termini imerese
+TERN_ISLAND:
+  - tern island
+TERNATE:
+  - ternate
+TERNEUZEN:
+  - terneuzen
+TERRACINA:
+  - terracina
+TERRANOVA_CA:
+  - terranova
+  - terra nova
+TERRANOVA_IT
+  - terranova
+  - terranova pausania
+  - terranoa
+  - olbia
+TETUAN:
+  - tetuan
+TEWKESBURY:
+  - tewkesbury
+TEXAS_CITY:
+  - texas city
+TG._MANI:
+  - tg. mani
+TG._SORONG:
+  - tg. sorong
+THAMESPORT:
+  - thamesport
+THAMSHAMM:
+  - thamshamm
+THANH_HO_CHI_MINH:
+  - thanh ho chi minh
+THANH_HOA:
+  - thanh hoa
+THE_DALLES:
+  - the dalles
+THEODOSIA:
+  - theodosia
+  - theodosis
+  - feodosia
+THESSALON:
+  - thessalon
+THESSALONIKI:
+  - thessaloniki
+THETTLETHORPE:
+  - thettlethorpe
+THEOULE:
+  - theoule
+THEVENARD:
+  - thevenard
+THINGEYRI:
+  - thingeyri
+THISTED:
+  - thisted
+THOMASTON:
+  - thomaston
+THORNBURY:
+  - thornbury
+THORNHAM:
+  - thornham
+THOROLD:
+  - thorold
+THREE_SAINTS_BAY:
+  - three saints bay
+THUNDER_BAY:
+  - thunder bay
+THURSDAY_ISLAND:
+  - thursday island
+THURSO:
+  - thurso
+THYBORON:
+  - thyboron
+TIANJIN_XIN_GANG:
+  - tianjin xin gang
+TIDENHAM:
+  - tidenham
+TIFFIN:
+  - tiffin
+TIGRE:
+  - tigre
+TIKSI:
+  - tiksi
+TILBURY:
+  - tilbury
+TIMARU:
+  - timaru
+TIN_CAN_ISLAND:
+  - tin can island
+TINIAN:
+  - tinian
+TINTERN:
+  - tintern
+TIVAT:
+  - tivat
+TIVERTON:
+  - tiverton
+TJILATJAP:
+  - tjilatjap
+TJOTTA:
+  - tjotta
+TOAMASINA:
+  - toamasina
+TOBA:
+  - toba
+TOBATA:
+  - tobata
+TOBERMORY_GB:
+  - tobermory
+TOBERMORY_CA:
+  - tobermory
+TOBOALI:
+  - toboali
+TOCLON:
+  - toclon
+TOCOPILLA:
+  - tocopilla
+TODD:
+  - todd
+TOFTE:
+  - tofte
+TOKACHI:
+  - tokachi
+TOKUYAMA:
+  - tokuyama
+TOKYO_KO:
+  - tokyo ko
+TOLON:
+  - tolon
+TOLEDO_PH:
+  - toledo
+TOLEDO_US:
+  - toledo
+TOLEDO_1_US:
+  - toledo 1
+TOLLESBURY:
+  - tollesbury
+TOLIARA:
+  - toliara
+TOLKKINEN:
+  - tolkkinen
+TOMAKOMAI_KO:
+  - tomakomai ko
+TOME
+  - tome
+TOMPKINSVILLE_SI:
+  - tompkinsville si
+TONAWANDA:
+  - tonawanda
+TONDA:
+  - tonda
+TONGHAE:
+  - tonghae
+TONGUE_POINT:
+  - tongue point
+TONNAY_CHARENTE:
+  - tonnay charente
+TONSBERG:
+  - tonsberg
+TOPOLOBAMPO:
+  - topolobampo
+TOPSHAM:
+  - topsham
+TOREHAMN:
+  - torehamn
+TORINA:
+  - torina
+TORONTO:
+  - toronto
+TOROS_GUBRE:
+  - toros gubre
+TORQUAY:
+  - torquay
+TORQUAY_HARBOUR:
+  - torquay harbour
+TORRE_ANNUNZIATA:
+  - torre annunziata
+TORRE_DEL_GRECO:
+  - torre del greco
+TORRE_DEL_MAR:
+  - torre del mar
+TORREBLANCA:
+  - torreblanca
+TORREDEMBARRA:
+  - torredembarra
+TORRE_SALINE:
+  - torre saline
+TORREVIEJA:
+  - torrevieja
+TORROS:
+  - torros
+TORSHAVN:
+  - torshavn
+TORTOLI:
+  - tortoli
+TORTOSA:
+  - tortosa
+TOSSA:
+  - tossa
+TOTNES:
+  - totnes
+TOULON:
+  - toulon
+TOUR-SAINT-LOUIS:
+  - tour-saint-louis
+TOUTON:
+  - touton
+TOWNSVILLE:
+  - townsville
+TRABZON:
+  - trabzon
+TRAETH_BYCHAN:
+  - traeth bychan
+TRAETHGWYN:
+  - traethgwyn
+TRALEE:
+  - tralee
+TRAMANDAI:
+  - tramandai
+TRANNESET:
+  - tranneset
+TRANOY:
+  - tranoy
+TRAP_POINT:
+  - trap point
+TRAPANI:
+  - trapani
+TRASTHORPE:
+  - trasthorpe
+TRAVERSE_CITY:
+  - traverse city
+TREBIZONDA:
+  - trebizonda
+  - trebizonde
+TREFOR:
+  - trefor
+TREGUIER:
+  - treguier
+TRELLEBORG:
+  - trelleborg
+TRENTON_US:
+  - trenton
+TRENTON_CA:
+  - trenton
+TRENTON_1_US:
+  - trenton 1
+TREPASSEY_HARBOR:
+  - trepassey harbor
+TREVETHOE:
+  - trevethoe
+TRI_CITY_PORT:
+  - tri  -city port
+TRIESTE:
+  - trieste
+TRINCHERA_DE_S._JOSE:
+  - trinchera de s. jose
+TRINCOMALEE_HARBOR:
+  - trincomalee harbor
+TRINIDAD_TT
+  - trinidad
+TRINIDAD_DE_CUBA:
+  - trinidad de cuba
+TRINITE:
+  - trinite
+TRIVANDRUM:
+  - trivandrum
+TROEN:
+  - troen
+TROIS-MONTAGNES:
+  - trois-montagnes
+TROIS_RIVIERES:
+  - trois rivieres
+TROMSO:
+  - tromso
+TRONDHEIM:
+  - trondheim
+TROON:
+  - troon
+TROY:
+  - troy
+TRUJILLO:
+  - trujillo
+TRURO:
+  - truro
+TSAFJORD_ISLAND:
+  - tsafjord island
+TSINGELI:
+  - tsingeli
+TSUKUMI_KO:
+  - tsukumi ko
+TSURUGA_KO:
+  - tsuruga ko
+TUAPSE:
+  - tuapse
+TUBAN:
+  - tuban
+TUBARAO:
+  - tubarao
+TUBIGAN:
+  - tubigan
+TUBORG:
+  - tuborg
+TUKTOYAKTUK:
+  - tuktoyaktuk
+TULAGHI:
+  - tulaghi
+TULCEA:
+  - tulcea
+TUMACO:
+  - tumaco
+TUNAS_DE_ZAZA:
+  - tunas de zaza
+TUNIS:
+  - tunis
+TURBO:
+  - turbo
+TURF:
+  - turf
+TURKU:
+  - turku
+TURLEY:
+  - turley
+TUTICORIN:
+  - tuticorin
+TUTOIA:
+  - tutoia
+TUXPAN:
+  - tuxpan
+TUYU:
+  - tuyu
+TVEDESTRAND:
+  - tvedestrand
+TVOROYRI:
+  - tvoroyri
+TWILLINGATE_HARBOR:
+  - twillingate harbor
+TWO_HARBORS:
+  - two harbors
+TWO_RIVERS:
+  - two rivers
+TYNEMOUTH:
+  - tynemouth
+TYSOE_POINT:
+  - tysoe point
+UBE_KO:
+  - ube ko
+UCHIURA:
+  - uchiura
+UCLUELET:
+  - ucluelet
+UDANG_OILFIELD:
+  - udang oilfield
+UDDEVALLA:
+  - uddevalla
+UGASHIK:
+  - ugashik
+UGLEGORSK:
+  - uglegorsk
+UIG:
+  - uig
+UJUNG_PANDANG:
+  - ujung pandang
+ULEELHEUE:
+  - uleelheue
+OULU:
+  - oulu
+  - uleåborg
+ULLAPOOL:
+  - ullapool
+ULSAN:
+  - ulsan
+ULTRAMAR:
+  - ultramar
+ULVERSTON:
+  - ulverston
+ULVIK:
+  - ulvik
+ULVVIK:
+  - ulvvik
+UMAG:
+  - umag
+UMEA:
+  - umea
+UMEA_HAMN:
+  - umea hamn
+UMM_AL_QAYWAYN:
+  - umm al qaywayn
+UMM_AN_NAR:
+  - umm an nar
+UMM_QASR:
+  - umm qasr
+UMM_SAID:
+  - umm said
+UNALAKLEET:
+  - unalakleet
+UNALASKA:
+  - unalaska
+UNGA:
+  - unga
+UNION_BAY:
+  - union bay
+UNO_KO:
+  - uno ko
+UPCHURCH:
+  - upchurch
+UPERNAVIK:
+  - upernavik
+UPHILL:
+  - uphill
+UPTON:
+  - upton
+URAGA_KO:
+  - uraga ko
+URUGUAY
+  - uruguay
+  - banda oriental
+  - costa oriental
+  - puertos del uruguay
+USELESS_LOOP:
+  - useless loop
+USHUAIA:
+  - ushuaia
+UST_DUNAISK:
+  - ust  -dunaisk
+USTKA:
+  - ustka
+UST_PORT:
+  - ust  -port
+UTANSJO:
+  - utansjo
+UTUROA:
+  - uturoa
+UUMMANNAQ_HARBOR:
+  - uummannaq harbor
+UUSIKAUPUNKI:
+  - uusikaupunki
+UWAJIMA_KO:
+  - uwajima ko
+UYAK:
+  - uyak
+VAASA:
+  - vaasa
+  - wasa
+VACAMONTE:
+  - vacamonte
+VADA:
+  - vada
+VADSO:
+  - vadso
+VAGUR:
+  - vagur
+VAITAPE:
+  - vaitape
+VAJA:
+  - vaja
+VAKSDAL:
+  - vaksdal
+VALPARAÍSO:
+  - valparaíso
+VALDEZ:
+  - valdez
+VALENCIA:
+  - grao
+VALENTIA:
+  - valentia
+VALLETTA_HARBORS:
+  - valletta harbors
+VALLOY:
+  - valloy
+VALLVIK:
+  - vallvik
+VANCOUVER_CA:
+  - vancouver
+VANCOUVER_US:
+  - vancouver
+VANIMO:
+  - vanimo
+VARBERG:
+  - varberg
+VARDO:
+  - vardo
+VARNA:
+  - varna
+VASTERAS:
+  - vasteras
+VASTERVIK:
+  - vastervik
+VASTO:
+  - vasto
+VAUDREUIL:
+  - vaudreuil
+VEGA_DE_RIBADEU:
+  - vegadeo
+VEITSILUOTO:
+  - veitsiluoto
+VEJER_DE_LA_FRONTERA:
+  - vejer de la frontera
+VEJLE:
+  - vejle
+VENDRELL:
+  - el vendrell
+VENICE:
+  - venecia
+  - venezia
+VENTIMIGLIA:
+  - ventimiglia
+  - vintimiglia
+VENTSPILS:
+  - ventspils
+VENTURA:
+  - ventura
+VERA:
+  - vera
+VERACRUZ:
+  - veracruz
+VERAVAL:
+  - veraval
+VERKEBACK:
+  - verkeback
+VERMILION:
+  - vermilion
+VESTMANNA:
+  - vestmanna
+VESTMANNAEYJAR:
+  - vestmannaeyjar
+VIANA_DO_CASTELO:
+  - viana do castelo
+VIA-REGGIO:
+  - via-reggio
+  - viareggio
+VIBORG:
+  - viborg
+  - wiborg
+VIBO_VALENTIA_MARINA:
+  - vibo valentia marina
+VICTORIA_AR:
+  - victoria
+. la victoria
+VICTORIA_GN:
+  - victoria
+VICTORIA_MY:
+  - victoria
+VICTORIA_SC:
+  - victoria
+VICTORIA_HARBOUR:
+  - victoria harbour
+VICTORIA_HARBOUR_1_CA:
+  - victoria harbour 1
+VIGO:
+  - vigo
+VILA_DO_CONDE:
+  - vila do conde
+VILA_DO_PORTO:
+  - vila do porto
+VILA_REAL_DE_S_ANTONIO:
+  - vila real de s antonio
+VILANOVA_I_LA_GELTRÚ:
+  - villanueva y la geltrú
+VILELAS:
+  - vilelas
+VILLA_CONSTITUCION:
+  - villa constitucion
+VILLA_ELISA:
+  - villa elisa
+VILLA_FRANCA:
+  - villa franca
+VILLEFRANCHE:
+  - villefranche
+VILLA_G._GÁLVEZ:
+  - villa gobernador galves
+VILLA_HAYES:
+  - villa hayes
+VILLA_OCCIDENTAL:
+  - villa occidental
+VILLA_PILAR:
+  - villa pilar
+VILLA_REY:
+  - villa rey
+VILLA_ROSARIO:
+  - villa rosario
+VILLA_URQUIZA:
+  - villa urquiza
+VILLAGARCIA:
+  - villagarcía de arosa
+  - carril
+VILLAGE_COVE:
+  - village cove
+VILLAJOLLOSA:
+  - villajollosa
+  - villajoyosa
+VILLANUEVA_PH:
+  - villanueva
+VILLANUEVA_ES:
+  - villanueva de arosa
+VILLAREAL:
+  - villareal
+VILLARRICOS:
+  - villarricos
+VILLAVICIOSA:
+  - villaviciosa
+VILLEFRANCHE:
+  - villefranche
+VILLETA:
+  - villeta
+VINALHAVEN:
+  - vinalhaven
+VINAROZ:
+  - vinaroz
+VINEYARD_HAVEN:
+  - vineyard haven
+VINH_CAM_RANH:
+  - vinh cam ranh
+VIRAC:
+  - virac
+VISBY:
+  - visby
+VISHAKHAPATNAM:
+  - vishakhapatnam
+VITINO:
+  - vitino
+VITORIA:
+  - vitoria
+VIVERO:
+  - vivero
+VIVSTAVARV:
+  - vivstavarv
+VLAARDINGEN:
+  - vlaardingen
+VLADIVOSTOK:
+  - vladivostok
+VLISSINGEN:
+  - vlissingen
+VLORES:
+  - vlores
+VOLOS:
+  - volos
+VOPNAFJORDHUR:
+  - vopnafjordhur
+VORDINGBORG:
+  - vordingborg
+VOSTOCHNYY:
+  - vostochnyy
+VRAKHONISIS_KALLONIS:
+  - vrakhonisis kallonis
+VUELTA_DE_OBLIGADO:
+  - vuelta de obligado
+VUNG_TAU:
+  - vung tau
+VYBORG:
+  - vyborg
+WADEBRIDGE:
+  - wadebridge
+WADI_FEIRAN:
+  - wadi feiran
+WAHAI:
+  - wahai
+WAINFLEET_HAVEN:
+  - wainfleet haven
+WAINGAPU:
+  - waingapu
+WAINWRIGHT:
+  - wainwright
+WAKAMATSU_KO:
+  - wakamatsu ko
+WAKAYAMA_SHIMOTSU_KO:
+  - wakayama  -shimotsu ko
+WAKE_ISLAND:
+  - wake island
+WAKKANAI:
+  - wakkanai
+WALBERSWICK:
+  - walberswick
+WALCOT:
+  - walcot
+WALDPORT:
+  - waldport
+WALLAROO:
+  - wallaroo
+WALNUT_GROVE:
+  - walnut grove
+WALPOLE_ISLAND:
+  - walpole island
+WALTON:
+  - walton
+WALVIS_BAY:
+  - walvis bay
+WANGANUI:
+  - wanganui
+WANXIAN:
+  - wanxian
+WARD_COVE:
+  - ward cove
+WAREHAM:
+  - wareham
+WAREN:
+  - waren
+WARKWORTH:
+  - warkworth
+WARKWORTH_HARBOUR:
+  - warkworth harbour
+WARREN_POINT:
+  - warren point
+WARRENTON:
+  - warrenton
+WARRI:
+  - warri
+WARRNAMBOOL:
+  - warrnambool
+WARWICK:
+  - warwick
+WASHBURN:
+  - washburn
+WASHINGTON:
+  - washington
+WASHINGTON_BAY:
+  - washington bay
+WASHINGTON_HARBOR:
+  - washington harbor
+WASHOUGAL:
+  - washougal
+WATCHET:
+  - watchet
+WATCHET_HARBOR:
+  - watchet harbor
+WATERFALL:
+  - waterfall
+WATERFORD:
+  - waterford
+WATERMOUTH:
+  - watermouth
+WAUBAUSHENE:
+  - waubaushene
+WAUKEGAN:
+  - waukegan
+WEAR_RIVER:
+  - wear river
+WEEHAWKEN:
+  - weehawken
+WEIHAI:
+  - weihai
+WEIPA:
+  - weipa
+WELLAND:
+  - welland
+WELLINGTON:
+  - wellington
+WELLS_NEXT_THE_SEA:
+  - wells next the sea
+WELSHPOOL_GB:
+  - welshpool
+WELSHPOOL_AU:
+  - welshpool
+WENZHOU:
+  - wenzhou
+WEPRA:
+  - wepra
+WESTERWIC:
+  - westerwick
+  - westervick
+WEST_POINT:
+  - west point
+WESTBURY:
+  - westbury
+WESTERN_PORT:
+  - western port
+WESTHAVEN_COVE:
+  - westhaven cove
+WEST_ITCHENOR:
+  - west itchenor
+WEST_MARSHES:
+  - west marshes
+WEST_MERSEA:
+  - west mersea
+WESTON_POINT:
+  - weston point
+WESTPORT_NZ:
+  - westport
+WESTPORT_IE:
+  - westport
+WESTPORT_US:
+  - westport
+WESTPORT_COVE:
+  - westport cove
+WESTVIEW:
+  - westview
+WEWAK_HARBOR:
+  - wewak harbor
+WEYMOUTH_HARBOUR:
+  - weymouth harbour
+WHANGAREI:
+  - whangarei
+WHANGAROA:
+  - whangaroa
+WHITBY:
+  - whitby
+WHITE_LAKE:
+  - white lake
+WHITEHALL:
+  - whitehall
+WHITEHAVEN:
+  - whitehaven
+WHITEHAVEN_HARBOR:
+  - whitehaven harbor
+WHITFORD:
+  - whitford
+WHITSTABLE:
+  - whitstable
+WHITTIER:
+  - whittier
+WHYALLA:
+  - whyalla
+WHYCOCOMAGH:
+  - whycocomagh
+WIARTON:
+  - wiarton
+WICK:
+  - wick
+WILHELMSHAVEN:
+  - wilhelmshaven
+WILLAPA_HARBOR:
+  - willapa harbor
+WILLEMSTAD:
+  - willemstad
+WILMETTE:
+  - wilmette
+WILMINGTON:
+  - wilmington
+WILSON_COVE:
+  - wilson cove
+WINCHELSEA:
+  - winchelsea
+WINCHESTER_BAY:
+  - winchester bay
+WINDSOR_CA:
+  - windsor
+WINDSOR_1_CA:
+  - windsor 1
+WINSLOW:
+  - winslow
+WINTER_HARBOR:
+  - winter harbor
+WINTERPORT:
+  - winterport
+WINTHORPE:
+  - winthorpe
+WISBECH:
+  - wisbech
+WISMAR:
+  - wismar
+WIVENHOE:
+  - wivenhoe
+WOLFE_ISLAND:
+  - wolfe island
+WOLGAST:
+  - wolgast
+WOMENS_BAY:
+  - womens bay
+WONSAN:
+  - wonsan
+WOODBRIDGE:
+  - woodbridge
+WOODS_HOLE:
+  - woods hole
+WOOLASTON:
+  - woolaston
+WOOLWICH:
+  - woolwich
+WORCESTER:
+  - worcester
+WORKINGTON:
+  - workington
+WORMS_HEAD_RHOSSILI:
+  - worms head rhossili
+WRANGELL:
+  - wrangell
+WRIGHTSVILLE:
+  - wrightsville
+WU_HU:
+  - wu
+WYANDOTTE:
+  - wyandotte
+WYMAN:
+  - wyman
+WYNDHAM:
+  - wyndham
+WYNE_WATER:
+  - wyne water
+XABIA:
+  - xabia
+XEROS:
+  - xeros
+XIUYU:
+  - xiuyu
+YAHATA:
+  - yahata
+YAKACIK:
+  - yakacik
+YAKUTAT:
+  - yakutat
+YALTA:
+  - yalta
+YANAI:
+  - yanai
+YANBU:
+  - yanbu
+YANDINA:
+  - yandina
+YANGPU:
+  - yangpu
+YANGZHOU:
+  - yangzhou
+YANTAI:
+  - yantai
+YANTIAN:
+  - yantian
+YARIMCA:
+  - yarimca
+YARMOUTH:
+  - yarmouth
+YARMOUTH_HARBOUR:
+  - yarmouth harbour
+YARMOUTH_GREAT:
+  - yarmouth great
+YARMOUTH_ISLE_WIGHT:
+  - yarmouth isle wight
+YATSUSHIRO_KO:
+  - yatsushiro ko
+YAWATAHAMA:
+  - yawatahama
+YERAKINI:
+  - yerakini
+YERBABUENA_ISLAND:
+  - yerbabuena island
+YES_BAY:
+  - yes bay
+YERRES:
+  - yerres
+YEVPATORIYA:
+  - yevpatoriya
+YEYSK:
+  - yeysk
+YINGKOU:
+  - yingkou
+YITHION:
+  - yithion
+YNYS:
+  - ynys
+YOKKAICHI:
+  - yokkaichi
+YOKOHAMA_KO:
+  - yokohama ko
+YOKOSUKA_KO:
+  - yokosuka ko
+YONKERS:
+  - yonkers
+YORK:
+  - york
+YORKTOWN:
+  - yorktown
+YOSU:
+  - yosu
+YOUNGSTOWN:
+  - youngstown
+YSTAD:
+  - ystad
+YURA:
+  - yura
+YUZHNYY:
+  - yuzhnyy
+ZAANDAM:
+  - zaandam
+ZADAR:
+  - zadar
+ZALIV_RASA:
+  - zaliv rasa
+ZAMBOANGA:
+  - zamboanga
+ZANZIBAR:
+  - zanzibar
+ZARATE:
+  - zarate
+ZARUBINO:
+  - zarubino
+ZARZIS:
+  - zarzis
+ZEEBRUGGE:
+  - zeebrugge
+ZHANGJIANGANG:
+  - zhangjiangang
+ZHANGZHOU:
+  - zhangzhou
+ZHANJIANG:
+  - zhanjiang
+ZHAPU:
+  - zhapu
+ZHEN_HAI:
+  - zhen hai
+ZHENJIANG:
+  - zhenjiang
+ZHOUSHAN:
+  - zhoushan
+ZHUHAI:
+  - zhuhai
+ZIRKUH_OIL_FIELD:
+  - zirkuh oil field
+ZIRKUH_PETROLEUM_PORT:
+  - zirkuh petroleum port
+ZONGULDAK:
+  - zonguldak
+ZUMAYA:
+  - zumaya
