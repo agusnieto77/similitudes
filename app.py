@@ -12,6 +12,13 @@ from pathlib import Path
 from typing import List, Dict, Tuple, Optional
 from io import BytesIO
 import zipfile
+import gzip
+import shutil
+import urllib.request
+import importlib.util
+import subprocess
+import sys
+from functools import lru_cache
 
 try:
     from metaphone import doublemetaphone as _doublemetaphone
@@ -37,16 +44,83 @@ try:
 except ImportError:
     _ST_DISPONIBLE = False
 
+try:
+    from transformers import AutoTokenizer as _AutoTokenizer, AutoModel as _AutoModel
+    _TRANSFORMERS_DISPONIBLE = True
+except ImportError:
+    _TRANSFORMERS_DISPONIBLE = False
+
+try:
+    import torch as _torch
+    _TORCH_DISPONIBLE = True
+except ImportError:
+    _TORCH_DISPONIBLE = False
+
+try:
+    import fasttext as _fasttext
+    _FASTTEXT_DISPONIBLE = True
+except ImportError:
+    _FASTTEXT_DISPONIBLE = False
+
+# FastText (Common Crawl) - modelo espanol por defecto
+FASTTEXT_ES_URL = "https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.es.300.bin.gz"
+
 # =============================================================================
 # CONFIGURACION DE LA APP
 # =============================================================================
 
 st.set_page_config(
-    page_title="Desambiguador de terminos v2",
+    page_title="Desambiguador de terminos v3",
     page_icon=":mag:",
     layout="wide",
     initial_sidebar_state="expanded"
 )
+
+
+def _faltan_dependencias() -> List[str]:
+    mods = {
+        "streamlit": "streamlit",
+        "pandas": "pandas",
+        "numpy": "numpy",
+        "abydos": "abydos",
+        "jellyfish": "jellyfish",
+        "metaphone": "metaphone",
+        "rapidfuzz": "rapidfuzz",
+        "sklearn": "scikit-learn",
+        "sentence_transformers": "sentence-transformers",
+        "text2vec": "text2vec",
+        "torch": "torch",
+        "fasttext": "fasttext",
+        "transformers": "transformers",
+    }
+    faltan = []
+    for modulo, paquete in mods.items():
+        if importlib.util.find_spec(modulo) is None:
+            faltan.append(paquete)
+    return faltan
+
+
+def asegurar_dependencias() -> None:
+    if st.session_state.get("_deps_ok"):
+        return
+    faltan = _faltan_dependencias()
+    if not faltan:
+        st.session_state["_deps_ok"] = True
+        return
+    req_path = BASE_DIR / "requirements.txt"
+    st.warning(
+        "Faltan dependencias. Instalando desde requirements.txt..."
+    )
+    try:
+        subprocess.check_call(
+            [sys.executable, "-m", "pip", "install", "-r", str(req_path)]
+        )
+        st.session_state["_deps_ok"] = True
+        st.success("Dependencias instaladas. Reiniciando la app...")
+        st.rerun()
+    except Exception as exc:
+        st.error(f"No se pudieron instalar dependencias: {exc}")
+        st.stop()
 
 # Directorio base
 BASE_DIR = Path(__file__).parent if "__file__" in dir() else Path(".")
@@ -55,6 +129,7 @@ BASE_DIR = Path(__file__).parent if "__file__" in dir() else Path(".")
 # FUNCIONES AUXILIARES
 # =============================================================================
 
+@lru_cache(maxsize=50000)
 def normalize_name(name: str) -> str:
     """Normaliza el nombre a una forma canonica basica."""
     if not name:
@@ -416,10 +491,8 @@ class ModeloEmbeddings:
     def encode_uno(self, texto: str) -> np.ndarray:
         return self.encode([texto])[0]
 
-    def similitud_cosine(self, texto1: str, texto2: str) -> float:
-        """Similitud coseno 0-1 entre embeddings de texto."""
-        v1 = self.encode_uno(texto1)
-        v2 = self.encode_uno(texto2)
+    def similitud_cosine(self, v1: np.ndarray, v2: np.ndarray) -> float:
+        """Similitud coseno 0-1 entre embeddings ya calculados."""
         raw = float(np.dot(v1, v2))
         return round((raw + 1.0) / 2.0, 4)
 
@@ -428,6 +501,93 @@ class ModeloEmbeddings:
         if self._dim == 0 and self._cache:
             self._dim = next(iter(self._cache.values())).shape[0]
         return self._dim
+
+
+class ModeloFastText:
+    def __init__(self, ruta_local: str):
+        if not _FASTTEXT_DISPONIBLE:
+            raise ImportError("pip install fasttext")
+        if not ruta_local:
+            raise ValueError("Ruta local requerida para FastText")
+        self.ruta_local = ruta_local
+        self._modelo = _fasttext.load_model(ruta_local)
+        self._dim = int(self._modelo.get_dimension())
+        self._cache: Dict[str, np.ndarray] = {}
+
+    def encode(self, textos: List[str]) -> np.ndarray:
+        nuevos = [t for t in textos if t not in self._cache]
+        for t in nuevos:
+            v = np.array(self._modelo.get_sentence_vector(t), dtype=np.float32)
+            norm = np.linalg.norm(v)
+            v = v / max(norm, 1e-10)
+            self._cache[t] = v
+        return np.array([self._cache[t] for t in textos])
+
+    @property
+    def dimension(self) -> int:
+        return self._dim
+
+
+class ModeloByT5:
+    def __init__(self, modelo_texto: str, device: str = "cpu"):
+        if not _TRANSFORMERS_DISPONIBLE:
+            raise ImportError("pip install transformers")
+        if not modelo_texto:
+            raise ValueError("Modelo requerido para ByT5")
+        self.modelo_texto = modelo_texto
+        self.device = device
+        self._tokenizer = _AutoTokenizer.from_pretrained(modelo_texto)
+        self._modelo = _AutoModel.from_pretrained(modelo_texto).to(device)
+        self._modelo.eval()
+        self._dim = 0
+        self._cache: Dict[str, np.ndarray] = {}
+
+    def encode(self, textos: List[str], batch_size: int = 32) -> np.ndarray:
+        nuevos = [t for t in textos if t not in self._cache]
+        if nuevos:
+            for i in range(0, len(nuevos), batch_size):
+                batch = nuevos[i:i + batch_size]
+                inputs = self._tokenizer(batch, return_tensors="pt", padding=True, truncation=True)
+                inputs = {k: v.to(self.device) for k, v in inputs.items()}
+                with _torch.no_grad():
+                    outputs = self._modelo.encoder(**inputs)
+                vecs = outputs.last_hidden_state.mean(dim=1).cpu().numpy()
+                norms = np.linalg.norm(vecs, axis=1, keepdims=True)
+                vecs = vecs / np.maximum(norms, 1e-10)
+                if self._dim == 0:
+                    self._dim = vecs.shape[1]
+                for t, v in zip(batch, vecs):
+                    self._cache[t] = v
+        return np.array([self._cache[t] for t in textos])
+
+    @property
+    def dimension(self) -> int:
+        return self._dim
+
+
+def descargar_fasttext_es_si_falta(ruta_destino: Path, progress_bar=None) -> None:
+    if ruta_destino.exists():
+        return
+    ruta_destino.parent.mkdir(parents=True, exist_ok=True)
+    ruta_gz = ruta_destino.with_suffix(ruta_destino.suffix + ".gz")
+
+    if not ruta_gz.exists():
+        with urllib.request.urlopen(FASTTEXT_ES_URL) as resp:
+            total = resp.length or 0
+            descargado = 0
+            with open(ruta_gz, "wb") as f:
+                while True:
+                    chunk = resp.read(1024 * 1024)
+                    if not chunk:
+                        break
+                    f.write(chunk)
+                    descargado += len(chunk)
+                    if progress_bar and total > 0:
+                        progress_bar.progress(min(descargado / total, 1.0))
+
+    with gzip.open(ruta_gz, "rb") as f_in:
+        with open(ruta_destino, "wb") as f_out:
+            shutil.copyfileobj(f_in, f_out)
 
 
 @st.cache_resource(show_spinner=False)
@@ -443,6 +603,18 @@ def cargar_modelo_embeddings(
         ruta_local=ruta_local,
         device=device,
     )
+
+
+@st.cache_resource(show_spinner=False)
+def cargar_modelo_fasttext(ruta_local: str) -> ModeloFastText:
+    ruta = Path(ruta_local)
+    descargar_fasttext_es_si_falta(ruta)
+    return ModeloFastText(ruta_local=str(ruta))
+
+
+@st.cache_resource(show_spinner=False)
+def cargar_modelo_byt5(modelo_texto: str, device: str) -> ModeloByT5:
+    return ModeloByT5(modelo_texto=modelo_texto, device=device)
 
 
 def generar_matriz_similitud_pairwise(
@@ -465,7 +637,79 @@ def generar_matriz_similitud_pairwise(
     return pd.DataFrame(matriz, index=terminos, columns=voces)
 
 
-def generar_matriz_semantica(
+def construir_indice_voces(voces: List[str]) -> Dict[Tuple[str, int], List[str]]:
+    indice = {}
+    for voz in voces:
+        norm = normalize_name(voz)
+        if not norm:
+            continue
+        pref = norm[:2] if len(norm) >= 2 else norm
+        key = (pref, len(norm))
+        if key not in indice:
+            indice[key] = []
+        indice[key].append(voz)
+    return indice
+
+
+def candidatos_para_termino(
+    termino: str,
+    indice_voces: Dict[Tuple[str, int], List[str]],
+    voces: List[str],
+    max_candidatos: int = 600,
+    ventana_len: int = 2,
+) -> List[str]:
+    norm = normalize_name(termino)
+    if not norm:
+        return voces
+    pref = norm[:2] if len(norm) >= 2 else norm
+    base_len = len(norm)
+    candidatos = []
+    for ln in range(max(1, base_len - ventana_len), base_len + ventana_len + 1):
+        candidatos.extend(indice_voces.get((pref, ln), []))
+    if not candidatos:
+        return voces
+    if len(candidatos) > max_candidatos:
+        return candidatos[:max_candidatos]
+    return candidatos
+
+
+def calcular_mejores_pairwise(
+    terminos: List[str],
+    voces: List[str],
+    funcion_similitud,
+    progress_bar=None,
+    usar_bloqueo: bool = True,
+) -> Tuple[Dict[str, float], Dict[str, str]]:
+    mejores_sim = {}
+    mejores_voz = {}
+    indice_voces = construir_indice_voces(voces) if usar_bloqueo else None
+    total = len(terminos)
+    for i, termino in enumerate(terminos):
+        if indice_voces is not None:
+            candidatos = candidatos_para_termino(termino, indice_voces, voces)
+        else:
+            candidatos = voces
+        best_sim = -1.0
+        best_voz = ""
+        for voz in candidatos:
+            sim = funcion_similitud(termino, voz)
+            if sim > best_sim:
+                best_sim = sim
+                best_voz = voz
+        mejores_sim[termino] = best_sim if best_sim >= 0 else 0.0
+        mejores_voz[termino] = best_voz
+        if progress_bar:
+            progress_bar.progress((i + 1) / total)
+    return mejores_sim, mejores_voz
+
+
+def mejores_desde_matriz(df: pd.DataFrame) -> Tuple[Dict[str, float], Dict[str, str]]:
+    mejores_sim = df.max(axis=1).to_dict()
+    mejores_voz = df.idxmax(axis=1).to_dict()
+    return mejores_sim, mejores_voz
+
+
+def semantic_similarity(
     terminos: List[str],
     voces: List[str],
     modelo: ModeloEmbeddings,
@@ -489,36 +733,51 @@ def generar_matriz_semantica(
     return pd.DataFrame(sim, index=terminos, columns=voces)
 
 
+def fasttext_similarity(
+    terminos: List[str],
+    voces: List[str],
+    modelo: ModeloFastText,
+    progress_bar=None,
+) -> pd.DataFrame:
+    return semantic_similarity(terminos, voces, modelo, progress_bar)
+
+
 # Diccionario de algoritmos disponibles
 ALGORITMOS_DISPONIBLES = {
-    "Levenshtein_OCR": {"tipo": "pairwise", "func": levenshtein_ratio_ocr},
-    "Levenshtein_Ratio": {"tipo": "pairwise", "func": levenshtein_ratio},
+    "Lev_OCR": {"tipo": "pairwise", "func": levenshtein_ratio_ocr},
+    "Lev_Ratio": {"tipo": "pairwise", "func": levenshtein_ratio},
     "Jaro_Winkler": {"tipo": "pairwise", "func": jaro_winkler_similarity},
     "NGram_2": {"tipo": "pairwise", "func": ngram_similarity_2},
     "NGram_3": {"tipo": "pairwise", "func": ngram_similarity_3},
     "Fonetica_DM": {"tipo": "pairwise", "func": phonetic_similarity},
-    "Semantica_Embeddings": {"tipo": "semantic", "func": None},
+    "Semantica": {"tipo": "semantic", "func": semantic_similarity},
+    "FastText": {"tipo": "fasttext", "func": fasttext_similarity},
+    "ByT5": {"tipo": "byt5", "func": semantic_similarity},
 }
 
 # Umbrales por defecto
 UMBRALES_DEFAULT = {
-    "Levenshtein_OCR": 0.75,
-    "Levenshtein_Ratio": 0.75,
+    "Lev_OCR": 0.75,
+    "Lev_Ratio": 0.75,
     "Jaro_Winkler": 0.85,
     "NGram_2": 0.66,
     "NGram_3": 0.60,
     "Fonetica_DM": 0.85,
-    "Semantica_Embeddings": 0.975,
+    "Semantica": 0.975,
+    "FastText": 0.85,
+    "ByT5": 0.90,
 }
 
 ZONAS_GRIS_DEFAULT = {
-    "Levenshtein_OCR": (0.71, 0.749),
-    "Levenshtein_Ratio": (0.71, 0.749),
+    "Lev_OCR": (0.71, 0.749),
+    "Lev_Ratio": (0.71, 0.749),
     "Jaro_Winkler": (0.80, 0.849),
     "NGram_2": (0.63, 0.659),
     "NGram_3": (0.55, 0.599),
     "Fonetica_DM": (0.80, 0.849),
     "Semantica": (0.965, 0.974),
+    "FastText": (0.80, 0.849),
+    "ByT5": (0.86, 0.89),
 }
 
 # =============================================================================
@@ -579,22 +838,41 @@ def cargar_terminos_csv(archivo: Path) -> Tuple[List[str], Dict[str, int]]:
 def clasificar_terminos(
     todos_unicos: List[str],
     contador_frecuencias: Dict[str, int],
-    matrices: Dict[str, pd.DataFrame],
+    resultados_algo: Dict[str, Dict[str, Dict[str, object]]],
     config: Dict,
     voz_a_entidad: Dict[str, str],
+    voces_disponibles: List[str],
 ) -> pd.DataFrame:
     """Clasifica terminos segun configuracion."""
 
     algoritmos = config["algoritmos"]
     umbrales = config["umbrales"]
     zonas_gris = config["zonas_gris"]
-    requiere_lev_ocr = "Levenshtein_OCR" in algoritmos
+    requiere_lev_ocr = "Lev_OCR" in algoritmos
 
     datos = []
 
     for termino in todos_unicos:
         frecuencia = contador_frecuencias.get(termino, 0)
-        fila = {"termino": termino, "frecuencia": frecuencia}
+        fila = {
+            "termino": termino,
+            "frecuencia": frecuencia,
+            "exact_match": False,
+            "voz_exacta": "",
+        }
+
+        if termino in voces_disponibles:
+            entidad = voz_a_entidad.get(termino, termino)
+            fila["exact_match"] = True
+            fila["voz_exacta"] = termino
+            fila["entidad"] = entidad
+            fila["voz"] = termino
+            fila["votos_aprobacion"] = 0
+            fila["votos_entidad_consenso"] = 0
+            fila["LevOCR"] = "Lev_OCR" in algoritmos
+            fila["clasificacion"] = "CONSENSUADO"
+            datos.append(fila)
+            continue
 
         votos_aprobacion = 0
         en_zona_gris = False
@@ -603,16 +881,14 @@ def clasificar_terminos(
         voz_lev_ocr = None  # la voz que voto Levenshtein_OCR
 
         for nombre_algo in algoritmos:
-            if nombre_algo not in matrices:
+            if nombre_algo not in resultados_algo:
                 continue
 
-            df = matrices[nombre_algo]
-            if termino not in df.index:
+            res = resultados_algo[nombre_algo]
+            max_sim = res["sim"].get(termino, 0.0)
+            mejor_voz = res["voz"].get(termino, "")
+            if not mejor_voz and max_sim == 0.0:
                 continue
-
-            row = df.loc[termino]
-            max_sim = row.max()
-            mejor_voz = row.idxmax()
 
             umbral = umbrales.get(nombre_algo, 0.7)
             zona_piso, zona_techo = zonas_gris.get(nombre_algo, (0.6, 0.69))
@@ -628,7 +904,7 @@ def clasificar_terminos(
                     votos_por_entidad[entidad] = []
                 votos_por_entidad[entidad].append((nombre_algo, mejor_voz))
 
-                if nombre_algo == "Levenshtein_OCR":
+                if nombre_algo == "Lev_OCR":
                     voz_lev_ocr = mejor_voz
             elif zona_piso <= max_sim <= zona_techo:
                 en_zona_gris = True
@@ -646,7 +922,7 @@ def clasificar_terminos(
             algoritmos_consenso = [algo for algo, voz in votos_por_entidad[entidad_consenso]]
 
             # Verificar si Levenshtein_OCR esta entre los que votan por la entidad consensuada
-            lev_ocr_en_consenso = "Levenshtein_OCR" in algoritmos_consenso
+            lev_ocr_en_consenso = "Lev_OCR" in algoritmos_consenso
 
             # La voz consenso es la que voto Levenshtein_OCR (si esta en consenso)
             if lev_ocr_en_consenso:
@@ -656,10 +932,10 @@ def clasificar_terminos(
                 voz_consenso = votos_por_entidad[entidad_consenso][0][1]
 
         fila["votos_aprobacion"] = votos_aprobacion
-        fila["entidad_consenso"] = entidad_consenso
-        fila["voz_consenso"] = voz_consenso
+        fila["entidad"] = entidad_consenso
+        fila["voz"] = voz_consenso
         fila["votos_entidad_consenso"] = votos_entidad
-        fila["Levenshtein_OCR_en_consenso"] = lev_ocr_en_consenso
+        fila["LevOCR"] = lev_ocr_en_consenso
 
         # Clasificacion: 2+ votos por entidad y, si aplica, Levenshtein_OCR en consenso
         if votos_entidad >= 2 and (not requiere_lev_ocr or lev_ocr_en_consenso):
@@ -718,18 +994,21 @@ def generar_informe_txt(
     lineas.append("-" * 70)
     lineas.append(f"Algoritmos seleccionados: {', '.join(config['algoritmos'])}")
 
-    regla = "2+ votos por misma entidad"
-    if "Levenshtein_OCR" in config.get("algoritmos", []):
-        regla += " + Levenshtein_OCR en consenso"
+    regla = "Match exacto => CONSENSUADO. Si no, 2+ votos por misma entidad"
+    if "Lev_OCR" in config.get("algoritmos", []):
+        regla += " + Lev_OCR en consenso"
     lineas.append(f"Regla de consenso: {regla}")
     lineas.append("")
     lineas.append("Umbrales de aprobacion:")
     for algo, umbral in config["umbrales"].items():
         lineas.append(f"  - {algo}: {umbral}")
     lineas.append("")
-    lineas.append("Zonas grises (piso, techo):")
+    lineas.append("Zonas grises (margen bajo umbral):")
     for algo, zona in config["zonas_gris"].items():
-        lineas.append(f"  - {algo}: {zona}")
+        piso, techo = zona
+        umbral = config["umbrales"].get(algo, 0.0)
+        margen = max(0.0, umbral - piso)
+        lineas.append(f"  - {algo}: margen={margen:.2f} (piso={piso:.2f}, umbral={techo:.2f})")
     lineas.append("")
 
     if "semantic_config" in config:
@@ -739,6 +1018,18 @@ def generar_informe_txt(
         lineas.append(f"  - modelo: {sem.get('modelo', 'N/A')}")
         if sem.get("ruta_local"):
             lineas.append(f"  - ruta_local: {sem.get('ruta_local')}")
+        lineas.append("")
+
+    if "fasttext_config" in config:
+        ft = config["fasttext_config"]
+        lineas.append("Configuracion FastText:")
+        lineas.append(f"  - ruta_local: {ft.get('ruta_local', 'N/A')}")
+        lineas.append("")
+
+    if "byt5_config" in config:
+        bt = config["byt5_config"]
+        lineas.append("Configuracion ByT5:")
+        lineas.append(f"  - modelo: {bt.get('modelo', 'N/A')}")
         lineas.append("")
 
     # Resultados por clasificacion
@@ -752,8 +1043,16 @@ def generar_informe_txt(
     lineas.append(f"{'Clasificacion':<20} {'Terminos':>10} {'Ocurrencias':>12} {'Porcentaje':>10}")
     lineas.append("-" * 54)
 
+    df_exacto = df_clasificacion[df_clasificacion["exact_match"]]
+    n_exacto = len(df_exacto)
+    ocurrencias_exacto = df_exacto["frecuencia"].sum()
+    pct_exacto = ocurrencias_exacto / total_valores * 100 if total_valores > 0 else 0
+    lineas.append(f"{'EXACTO':<20} {n_exacto:>10,} {ocurrencias_exacto:>12,} {pct_exacto:>9.2f}%")
+
     for clasificacion in ["CONSENSUADO", "CONSENSUADO_DEBIL", "SOLO_1_VOTO", "ZONA_GRIS", "RECHAZADO"]:
         df_cat = df_clasificacion[df_clasificacion["clasificacion"] == clasificacion]
+        if clasificacion == "CONSENSUADO":
+            df_cat = df_cat[~df_cat["exact_match"]]
         n_terminos = len(df_cat)
         ocurrencias = df_cat["frecuencia"].sum()
         pct = ocurrencias / total_valores * 100 if total_valores > 0 else 0
@@ -769,11 +1068,16 @@ def generar_informe_txt(
     lineas.append("RESUMEN DE COBERTURA")
     lineas.append("-" * 70)
 
-    freq_cons = df_clasificacion[df_clasificacion["clasificacion"] == "CONSENSUADO"]["frecuencia"].sum()
+    freq_cons = df_clasificacion[
+        (df_clasificacion["clasificacion"] == "CONSENSUADO")
+        & (~df_clasificacion["exact_match"])
+    ]["frecuencia"].sum()
     freq_debil = df_clasificacion[df_clasificacion["clasificacion"] == "CONSENSUADO_DEBIL"]["frecuencia"].sum()
+    freq_exacto = df_clasificacion[df_clasificacion["exact_match"]]["frecuencia"].sum()
     pct_cons = freq_cons / total_valores * 100 if total_valores > 0 else 0
     pct_total = (freq_cons + freq_debil) / total_valores * 100 if total_valores > 0 else 0
 
+    lineas.append(f"Exacto:               {freq_exacto:,} de {total_valores:,} ({(freq_exacto / total_valores * 100) if total_valores > 0 else 0:.2f}%)")
     lineas.append(f"Consensuado (estricto): {freq_cons:,} de {total_valores:,} ({pct_cons:.2f}%)")
     lineas.append(f"Consensuado + Debil:    {freq_cons + freq_debil:,} de {total_valores:,} ({pct_total:.2f}%)")
     lineas.append("")
@@ -783,8 +1087,12 @@ def generar_informe_txt(
     lineas.append("ARCHIVOS GENERADOS")
     lineas.append("-" * 70)
     lineas.append(f"- clasificacion_completa_{nombre_campo}.csv")
+    if len(df_exacto) > 0:
+        lineas.append(f"- exacto_{nombre_campo}.csv")
     for clasificacion in ["CONSENSUADO", "CONSENSUADO_DEBIL", "SOLO_1_VOTO", "ZONA_GRIS", "RECHAZADO"]:
         df_cat = df_clasificacion[df_clasificacion["clasificacion"] == clasificacion]
+        if clasificacion == "CONSENSUADO":
+            df_cat = df_cat[~df_cat["exact_match"]]
         if len(df_cat) > 0:
             lineas.append(f"- {clasificacion.lower()}_{nombre_campo}.csv")
     lineas.append(f"- informe_{nombre_campo}.txt")
@@ -795,6 +1103,61 @@ def generar_informe_txt(
     lineas.append("=" * 70)
 
     return "\n".join(lineas)
+
+
+def preparar_tabla_salida(df: pd.DataFrame) -> pd.DataFrame:
+    df_out = df.copy()
+    # Unificar voz + score por algoritmo en una sola columna (nombre simplificado)
+    mapeo_algos = {
+        "Lev_OCR": "LevOCR",
+        "Jaro_Winkler": "Jaro",
+        "NGram_2": "NGram2",
+        "NGram_3": "NGram3",
+        "NGram_4": "NGram4",
+        "DoubleMetaphone": "DM",
+        "Soundex": "Soundex",
+        "Metaphone": "Metaphone",
+        "Phonetic": "Phonetic",
+        "Cosine": "Cosine",
+        "Semantica": "Semantica",
+        "FastText": "FastText",
+        "ByT5": "ByT5",
+    }
+    for algo, nombre_corto in mapeo_algos.items():
+        col_sim = f"sim_{algo}"
+        col_voz = f"voz_{algo}"
+        if col_sim in df_out.columns and col_voz in df_out.columns:
+            def _fmt(v):
+                try:
+                    return f"{float(v):.3f}"
+                except Exception:
+                    return ""
+            df_out[nombre_corto] = (
+                df_out[col_voz].astype(str).fillna("") + ":" + df_out[col_sim].apply(_fmt)
+            ).str.rstrip(":")
+            df_out = df_out.drop(columns=[col_sim, col_voz], errors="ignore")
+        else:
+            if col_sim in df_out.columns:
+                df_out = df_out.drop(columns=[col_sim], errors="ignore")
+            if col_voz in df_out.columns:
+                df_out = df_out.drop(columns=[col_voz], errors="ignore")
+
+    if "votos_entidad_consenso" in df_out.columns:
+        df_out["votos"] = df_out["votos_entidad_consenso"]
+    elif "votos_aprobacion" in df_out.columns:
+        df_out["votos"] = df_out["votos_aprobacion"]
+    df_out = df_out.drop(
+        columns=[
+            "exact_match",
+            "voz_exacta",
+            "votos_aprobacion",
+            "votos_entidad_consenso",
+            "clasificacion",
+            "Lev_OCR_en_consenso",
+        ],
+        errors="ignore",
+    )
+    return df_out
 
 
 def crear_zip_csvs(
@@ -808,14 +1171,24 @@ def crear_zip_csvs(
 
     with zipfile.ZipFile(buffer, "w", zipfile.ZIP_DEFLATED) as zf:
         # CSV completo
-        csv_completo = df_clasificacion.to_csv(index=False, encoding="utf-8-sig")
+        csv_completo = preparar_tabla_salida(df_clasificacion).to_csv(
+            index=False, encoding="utf-8-sig"
+        )
         zf.writestr(f"clasificacion_completa_{nombre_campo}.csv", csv_completo)
+
+        # CSV exacto
+        df_exacto = df_clasificacion[df_clasificacion["exact_match"]]
+        if len(df_exacto) > 0:
+            csv_exacto = preparar_tabla_salida(df_exacto).to_csv(index=False, encoding="utf-8-sig")
+            zf.writestr(f"exacto_{nombre_campo}.csv", csv_exacto)
 
         # CSVs por clasificacion
         for clasificacion in ["CONSENSUADO", "CONSENSUADO_DEBIL", "SOLO_1_VOTO", "ZONA_GRIS", "RECHAZADO"]:
             df_cat = df_clasificacion[df_clasificacion["clasificacion"] == clasificacion]
+            if clasificacion == "CONSENSUADO":
+                df_cat = df_cat[~df_cat["exact_match"]]
             if len(df_cat) > 0:
-                csv_cat = df_cat.to_csv(index=False, encoding="utf-8-sig")
+                csv_cat = preparar_tabla_salida(df_cat).to_csv(index=False, encoding="utf-8-sig")
                 nombre_archivo = clasificacion.lower() + f"_{nombre_campo}.csv"
                 zf.writestr(nombre_archivo, csv_cat)
 
@@ -828,12 +1201,39 @@ def crear_zip_csvs(
     return buffer.getvalue()
 
 
+class OverallProgress:
+    def __init__(self, total_units: float, progress_bar) -> None:
+        self.total_units = max(total_units, 1.0)
+        self.done = 0.0
+        self.progress_bar = progress_bar
+
+    def advance(self, units: float) -> None:
+        self.done += units
+        self.progress_bar.progress(min(self.done / self.total_units, 1.0))
+
+
+class AlgoProgressProxy:
+    def __init__(self, tracker: OverallProgress, algo_units: float) -> None:
+        self.tracker = tracker
+        self.algo_units = algo_units
+        self.last = 0.0
+
+    def progress(self, value: float) -> None:
+        value = max(0.0, min(1.0, float(value)))
+        delta = value - self.last
+        if delta <= 0:
+            return
+        self.last = value
+        self.tracker.advance(delta * self.algo_units)
+
+
 # =============================================================================
 # INTERFAZ STREAMLIT
 # =============================================================================
 
 def main():
-    st.title("Desambiguador de terminos historicos (v2)")
+    st.title("Desambiguador de terminos historicos (v3)")
+    asegurar_dependencias()
 
     st.markdown(
         "*Integra similitud fonetica (Double Metaphone) y semantica (embeddings multilingues).*"
@@ -883,7 +1283,7 @@ def main():
     algoritmos_seleccionados = st.sidebar.multiselect(
         "Seleccione algoritmos:",
         options=list(ALGORITMOS_DISPONIBLES.keys()),
-        default=["Levenshtein_OCR", "Jaro_Winkler", "NGram_2"]
+        default=["Lev_OCR", "Jaro_Winkler", "NGram_2"]
     )
 
     if len(algoritmos_seleccionados) < 2:
@@ -908,12 +1308,19 @@ def main():
     st.sidebar.subheader("4. Zonas grises")
     zonas_gris = {}
     for algo in algoritmos_seleccionados:
-        default_piso, default_techo = ZONAS_GRIS_DEFAULT.get(algo, (0.6, 0.69))
-        col1, col2 = st.sidebar.columns(2)
-        with col1:
-            piso = st.number_input(f"{algo} piso:", value=default_piso, step=0.01, key=f"zg_piso_{algo}")
-        with col2:
-            techo = st.number_input("techo:", value=default_techo, step=0.01, key=f"zg_techo_{algo}")
+        default_piso, _default_techo = ZONAS_GRIS_DEFAULT.get(algo, (0.6, 0.69))
+        default_umbral = UMBRALES_DEFAULT.get(algo, 0.7)
+        default_margen = max(0.0, default_umbral - default_piso)
+        margen = st.sidebar.number_input(
+            f"{algo} margen bajo umbral:",
+            min_value=0.0,
+            max_value=1.0,
+            value=default_margen,
+            step=0.01,
+            key=f"zg_margen_{algo}",
+        )
+        piso = max(0.0, umbrales[algo] - margen)
+        techo = umbrales[algo]
         zonas_gris[algo] = (piso, techo)
 
     # 5. Filtros adicionales
@@ -926,38 +1333,83 @@ def main():
 
     # 6. Configuracion semantica (solo si se usa)
     semantic_config = None
-    if "Semantica_Embeddings" in algoritmos_seleccionados:
+    if "Semantica" in algoritmos_seleccionados:
         st.sidebar.subheader("6. Semantica")
-        backend = st.sidebar.selectbox(
-            "Backend embeddings:",
-            options=["auto", "text2vec", "sentence_transformers"],
-            index=0,
+        modelos_presets = [
+            ("sentence-transformers/LaBSE", "sentence_transformers"),
+            ("shibing624/text2vec-base-multilingual", "text2vec"),
+        ]
+
+        preset_default = "sentence-transformers/LaBSE"
+        opciones_modelos = [m for m, _ in modelos_presets]
+        if preset_default not in opciones_modelos:
+            preset_default = opciones_modelos[0]
+        opciones_preset = opciones_modelos + ["Personalizado"]
+        preset_modelo = st.sidebar.selectbox(
+            "Modelo:",
+            options=opciones_preset,
+            index=opciones_preset.index(preset_default),
         )
-        if backend == "text2vec":
-            modelo_default = "shibing624/text2vec-base-multilingual"
-        elif backend == "sentence_transformers":
-            modelo_default = "paraphrase-multilingual-mpnet-base-v2"
-        else:
-            modelo_default = (
-                "shibing624/text2vec-base-multilingual"
-                if _TEXT2VEC_DISPONIBLE
-                else "paraphrase-multilingual-mpnet-base-v2"
+        if preset_modelo == "Personalizado":
+            modelo_texto = st.sidebar.text_input(
+                "Modelo (HF):",
+                value=preset_default,
             )
-        modelo_texto = st.sidebar.text_input(
-            "Modelo (HF):",
-            value=modelo_default,
-        )
+            texto_norm = modelo_texto.lower()
+            if "text2vec" in texto_norm:
+                backend = "text2vec"
+            elif "sentence-transformers" in texto_norm or "paraphrase-" in texto_norm or "distiluse-" in texto_norm:
+                backend = "sentence_transformers"
+            else:
+                backend = "sentence_transformers"
+        else:
+            modelo_texto = preset_modelo
+            backend = next(b for m, b in modelos_presets if m == preset_modelo)
         ruta_local = st.sidebar.text_input(
             "Ruta local (opcional):",
             value="",
         )
         device = "cpu"
+        if _TORCH_DISPONIBLE and _torch.cuda.is_available():
+            device = "cuda"
+        st.sidebar.caption(f"Device detectado: {device}")
 
         semantic_config = {
             "backend": backend,
             "modelo": modelo_texto,
             "ruta_local": ruta_local.strip() or None,
             "device": device,
+        }
+
+    # 7. Configuracion FastText (solo si se usa)
+    fasttext_config = None
+    if "FastText" in algoritmos_seleccionados:
+        st.sidebar.subheader("7. FastText")
+        st.sidebar.caption("Descarga automatica si no existe el modelo local.")
+        ruta_default_ft = str(BASE_DIR / "modelos" / "fasttext" / "cc.es.300.bin")
+        ruta_fasttext = st.sidebar.text_input(
+            "Ruta modelo FastText:",
+            value=ruta_default_ft,
+        )
+        fasttext_config = {
+            "ruta_local": ruta_fasttext.strip() or None,
+        }
+
+    # 8. Configuracion ByT5 (solo si se usa)
+    byt5_config = None
+    if "ByT5" in algoritmos_seleccionados:
+        st.sidebar.subheader("8. ByT5")
+        device_default = "cpu"
+        if _TORCH_DISPONIBLE and _torch.cuda.is_available():
+            device_default = "cuda"
+        st.sidebar.caption(f"Device detectado: {device_default}")
+        modelo_byt5 = st.sidebar.text_input(
+            "Modelo ByT5 (HF):",
+            value="google/byt5-small",
+        )
+        byt5_config = {
+            "modelo": modelo_byt5.strip() or "google/byt5-small",
+            "device": device_default,
         }
 
     # =================
@@ -978,6 +1430,10 @@ def main():
         }
         if semantic_config:
             config["semantic_config"] = semantic_config
+        if fasttext_config:
+            config["fasttext_config"] = fasttext_config
+        if byt5_config:
+            config["byt5_config"] = byt5_config
 
         # Mostrar configuracion
         with st.expander("Configuracion actual", expanded=False):
@@ -986,7 +1442,10 @@ def main():
         # Cargar datos desde CSV
         with st.spinner("Cargando terminos preprocesados..."):
             todos_unicos, contador, total_valores = cargar_terminos_csv(archivo_csv)
-            st.success(f"Cargados {len(todos_unicos):,} terminos unicos ({total_valores:,} ocurrencias)")
+            msg_terminos = (
+                f"Cargados {len(todos_unicos):,} terminos unicos "
+                f"({total_valores:,} ocurrencias)"
+            )
 
         # Cargar voces
         with st.spinner("Cargando lista de voces..."):
@@ -1000,16 +1459,24 @@ def main():
                     voces_norm_map[voz_norm].append(voz)
             voces_lista = list(voces_norm_map.keys())
             n_entidades = len(set(voz_a_entidad.values()))
-            st.success(f"Cargadas {len(voces_lista)} voces normalizadas ({n_entidades} entidades)")
+            msg_voces = f"Cargadas {len(voces_lista)} voces normalizadas ({n_entidades} entidades)"
 
         # Filtrar voces por apariciones (0 = sin filtro, usar todas)
         apariciones_por_voz = {voz: contador.get(voz, 0) for voz in voces_lista}
         if min_apariciones_voz > 0:
             voces_filtradas = [v for v in voces_lista if apariciones_por_voz[v] >= min_apariciones_voz]
-            st.info(f"Usando {len(voces_filtradas)} voces con >= {min_apariciones_voz} apariciones")
+            msg_uso = f"Usando {len(voces_filtradas)} voces con >= {min_apariciones_voz} apariciones"
         else:
             voces_filtradas = voces_lista.copy()
-            st.info(f"Usando todas las {len(voces_filtradas)} voces de la lista (sin filtro)")
+            msg_uso = f"Usando {len(voces_filtradas)} voces de la lista (sin filtro)"
+
+        col1, col2, col3 = st.columns(3)
+        with col1:
+            st.success(msg_terminos)
+        with col2:
+            st.success(msg_voces)
+        with col3:
+            st.info(msg_uso)
 
         if len(voces_filtradas) == 0:
             st.error("No hay voces disponibles. Verifique el archivo de lista.")
@@ -1017,7 +1484,7 @@ def main():
 
         # Preparar modelo semantico si aplica
         modelo_semantico = None
-        if "Semantica_Embeddings" in algoritmos_seleccionados:
+        if "Semantica" in algoritmos_seleccionados:
             st.subheader("Cargando modelo semantico...")
             try:
                 modelo_semantico = cargar_modelo_embeddings(
@@ -1033,35 +1500,116 @@ def main():
                 st.error(f"No se pudo cargar el modelo semantico: {exc}")
                 return
 
-        # Generar matrices
-        st.subheader("Generando matrices de similitud...")
-        matrices = {}
+        # Preparar modelo FastText si aplica
+        modelo_fasttext = None
+        if "FastText" in algoritmos_seleccionados:
+            st.subheader("Cargando modelo FastText...")
+            if not fasttext_config or not fasttext_config.get("ruta_local"):
+                st.error("Ruta de modelo FastText requerida.")
+                return
+            if not _FASTTEXT_DISPONIBLE:
+                st.error("fasttext no esta instalado. Instala la dependencia para usar este enfoque.")
+                return
+            try:
+                ruta_ft = Path(fasttext_config["ruta_local"])
+                if not ruta_ft.exists():
+                    st.info("Descargando modelo FastText (primera vez)...")
+                    progress_ft = st.progress(0)
+                    descargar_fasttext_es_si_falta(ruta_ft, progress_ft)
+                    progress_ft.empty()
+                modelo_fasttext = cargar_modelo_fasttext(
+                    ruta_local=fasttext_config["ruta_local"]
+                )
+                st.success(f"Modelo FastText listo: {fasttext_config['ruta_local']}")
+            except Exception as exc:
+                st.error(f"No se pudo cargar el modelo FastText: {exc}")
+                return
+
+        # Preparar modelo ByT5 si aplica
+        modelo_byt5 = None
+        if "ByT5" in algoritmos_seleccionados:
+            st.subheader("Cargando modelo ByT5...")
+            if not _TRANSFORMERS_DISPONIBLE:
+                st.error("transformers no esta instalado. Instala la dependencia para usar ByT5.")
+                return
+            if not _TORCH_DISPONIBLE:
+                st.error("torch no esta instalado. Instala la dependencia para usar ByT5.")
+                return
+            try:
+                modelo_byt5 = cargar_modelo_byt5(
+                    modelo_texto=byt5_config["modelo"],
+                    device=byt5_config["device"],
+                )
+                st.success(f"Modelo ByT5 listo: {byt5_config['modelo']}")
+            except Exception as exc:
+                st.error(f"No se pudo cargar el modelo ByT5: {exc}")
+                return
+
+        # Generar mejores coincidencias (barra de progreso general)
+        resultados_algo = {}
+
+        total_units = 0
+        for algo in algoritmos_seleccionados:
+            tipo = ALGORITMOS_DISPONIBLES[algo]["tipo"]
+            if tipo == "pairwise":
+                total_units += len(todos_unicos)
+            else:
+                total_units += 2
+
+        overall_bar = st.progress(0)
+        tracker = OverallProgress(total_units, overall_bar)
 
         for algo in algoritmos_seleccionados:
-            st.write(f"  Procesando {algo}...")
-            progress = st.progress(0)
             tipo = ALGORITMOS_DISPONIBLES[algo]["tipo"]
+            if tipo == "pairwise":
+                progress = AlgoProgressProxy(tracker, len(todos_unicos))
+            else:
+                progress = AlgoProgressProxy(tracker, 2)
+            func = ALGORITMOS_DISPONIBLES[algo]["func"]
             if tipo == "semantic":
-                matrices[algo] = generar_matriz_semantica(
+                df_sim = func(
                     todos_unicos,
                     voces_filtradas,
                     modelo_semantico,
                     progress,
                 )
-            else:
-                matrices[algo] = generar_matriz_similitud_pairwise(
+                sim, voz = mejores_desde_matriz(df_sim)
+                resultados_algo[algo] = {"sim": sim, "voz": voz}
+            elif tipo == "fasttext":
+                df_sim = func(
                     todos_unicos,
                     voces_filtradas,
-                    ALGORITMOS_DISPONIBLES[algo]["func"],
+                    modelo_fasttext,
                     progress,
                 )
+                sim, voz = mejores_desde_matriz(df_sim)
+                resultados_algo[algo] = {"sim": sim, "voz": voz}
+            elif tipo == "byt5":
+                df_sim = func(
+                    todos_unicos,
+                    voces_filtradas,
+                    modelo_byt5,
+                    progress,
+                )
+                sim, voz = mejores_desde_matriz(df_sim)
+                resultados_algo[algo] = {"sim": sim, "voz": voz}
+            else:
+                usar_bloqueo = len(voces_filtradas) >= 800
+                sim, voz = calcular_mejores_pairwise(
+                    todos_unicos,
+                    voces_filtradas,
+                    func,
+                    progress,
+                    usar_bloqueo=usar_bloqueo,
+                )
+                resultados_algo[algo] = {"sim": sim, "voz": voz}
 
-        st.success("Matrices generadas")
+        overall_bar.empty()
 
         # Clasificar
         with st.spinner("Clasificando terminos..."):
             df_clasificacion = clasificar_terminos(
-                todos_unicos, contador, matrices, config, voz_a_entidad
+                todos_unicos, contador, resultados_algo, config, voz_a_entidad, voces_filtradas
             )
 
         # =================
@@ -1070,28 +1618,61 @@ def main():
         st.header("Resultados")
 
         # Metricas principales
-        col1, col2, col3, col4 = st.columns(4)
+        col1, col2, col3, col4, col5 = st.columns(5)
 
-        freq_cons = df_clasificacion[df_clasificacion["clasificacion"] == "CONSENSUADO"]["frecuencia"].sum()
+        if "exact_match" not in df_clasificacion.columns:
+            df_clasificacion["exact_match"] = False
+
+        freq_exacto = df_clasificacion[df_clasificacion["exact_match"]]["frecuencia"].sum()
+        freq_cons_no_exacto = df_clasificacion[
+            (df_clasificacion["clasificacion"] == "CONSENSUADO")
+            & (~df_clasificacion["exact_match"])
+        ]["frecuencia"].sum()
         freq_debil = df_clasificacion[df_clasificacion["clasificacion"] == "CONSENSUADO_DEBIL"]["frecuencia"].sum()
-        pct_cons = freq_cons / total_valores * 100 if total_valores > 0 else 0
-        pct_total = (freq_cons + freq_debil) / total_valores * 100 if total_valores > 0 else 0
+
+        pct_exacto = freq_exacto / total_valores * 100 if total_valores > 0 else 0
+        pct_cons_acum = (freq_exacto + freq_cons_no_exacto) / total_valores * 100 if total_valores > 0 else 0
+        pct_total_acum = (freq_exacto + freq_cons_no_exacto + freq_debil) / total_valores * 100 if total_valores > 0 else 0
 
         with col1:
             st.metric("Total ocurrencias", f"{total_valores:,}")
         with col2:
-            st.metric("Consensuado (estricto)", f"{pct_cons:.1f}%", f"{freq_cons:,} ocurrencias")
+            st.metric("Exacto", f"{pct_exacto:.1f}%", f"{freq_exacto:,} ocurrencias")
         with col3:
-            st.metric("Consensuado + Debil", f"{pct_total:.1f}%", f"{freq_cons + freq_debil:,} ocurrencias")
+            st.metric(
+                "Consensuado (estricto)",
+                f"{pct_cons_acum:.1f}%",
+                f"{freq_exacto + freq_cons_no_exacto:,} ocurrencias",
+            )
         with col4:
+            st.metric(
+                "Consensuado + Debil",
+                f"{pct_total_acum:.1f}%",
+                f"{freq_exacto + freq_cons_no_exacto + freq_debil:,} ocurrencias",
+            )
+        with col5:
             st.metric("Terminos unicos", f"{len(todos_unicos):,}")
 
         # Tabla de distribucion
         st.subheader("Distribucion por clasificacion")
 
+        if "exact_match" not in df_clasificacion.columns:
+            df_clasificacion["exact_match"] = False
+
         resumen_data = []
+        df_exacto = df_clasificacion[df_clasificacion["exact_match"]]
+        resumen_data.append({
+            "Clasificacion": "EXACTO",
+            "Terminos": len(df_exacto),
+            "Ocurrencias": int(df_exacto["frecuencia"].sum()),
+            "Porcentaje": (
+                f"{(df_exacto['frecuencia'].sum() / total_valores * 100) if total_valores > 0 else 0:.2f}%"
+            ),
+        })
         for clasificacion in ["CONSENSUADO", "CONSENSUADO_DEBIL", "SOLO_1_VOTO", "ZONA_GRIS", "RECHAZADO"]:
             df_cat = df_clasificacion[df_clasificacion["clasificacion"] == clasificacion]
+            if clasificacion == "CONSENSUADO":
+                df_cat = df_cat[~df_cat["exact_match"]]
             n = len(df_cat)
             freq = df_cat["frecuencia"].sum()
             pct = freq / total_valores * 100 if total_valores > 0 else 0
@@ -1107,24 +1688,45 @@ def main():
         # Preview de datos
         st.subheader("Vista previa de datos")
 
-        tab1, tab2, tab3, tab4, tab5 = st.tabs([
-            "CONSENSUADO", "CONSENSUADO_DEBIL", "SOLO_1_VOTO", "ZONA_GRIS", "RECHAZADO"
+        if "exact_match" not in df_clasificacion.columns:
+            df_clasificacion["exact_match"] = False
+
+        tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
+            "EXACTO", "CONSENSUADO", "CONSENSUADO_DEBIL", "SOLO_1_VOTO", "ZONA_GRIS", "RECHAZADO"
         ])
 
         with tab1:
-            df_show = df_clasificacion[df_clasificacion["clasificacion"] == "CONSENSUADO"].head(50)
-            st.dataframe(df_show, use_container_width=True)
+            df_show = df_clasificacion[df_clasificacion["exact_match"]]
+            df_show = df_show[["termino", "frecuencia", "entidad"]].head(50)
+            df_show = df_show.rename(columns={"entidad": "entidad"})
+            st.dataframe(preparar_tabla_salida(df_show), use_container_width=True)
         with tab2:
-            df_show = df_clasificacion[df_clasificacion["clasificacion"] == "CONSENSUADO_DEBIL"].head(50)
-            st.dataframe(df_show, use_container_width=True)
+            df_show = df_clasificacion[
+                (df_clasificacion["clasificacion"] == "CONSENSUADO")
+                & (~df_clasificacion["exact_match"])
+            ].head(50)
+            st.dataframe(preparar_tabla_salida(df_show), use_container_width=True)
         with tab3:
-            df_show = df_clasificacion[df_clasificacion["clasificacion"] == "SOLO_1_VOTO"].head(50)
+            df_show = df_clasificacion[df_clasificacion["clasificacion"] == "CONSENSUADO_DEBIL"].head(50)
+            df_show = preparar_tabla_salida(df_show).drop(columns=["votos"], errors="ignore")
             st.dataframe(df_show, use_container_width=True)
         with tab4:
-            df_show = df_clasificacion[df_clasificacion["clasificacion"] == "ZONA_GRIS"].head(50)
+            df_show = df_clasificacion[df_clasificacion["clasificacion"] == "SOLO_1_VOTO"].head(50)
+            df_show = preparar_tabla_salida(df_show).drop(columns=["votos"], errors="ignore")
             st.dataframe(df_show, use_container_width=True)
         with tab5:
+            df_show = df_clasificacion[df_clasificacion["clasificacion"] == "ZONA_GRIS"].head(50)
+            df_show = preparar_tabla_salida(df_show).drop(
+                columns=["entidad", "entidad_consenso", "voz_consenso", "votos"],
+                errors="ignore",
+            )
+            st.dataframe(df_show, use_container_width=True)
+        with tab6:
             df_show = df_clasificacion[df_clasificacion["clasificacion"] == "RECHAZADO"].head(50)
+            df_show = preparar_tabla_salida(df_show).drop(
+                columns=["entidad", "entidad_consenso", "voz_consenso", "votos"],
+                errors="ignore",
+            )
             st.dataframe(df_show, use_container_width=True)
 
         # =================
@@ -1146,7 +1748,9 @@ def main():
 
         with col1:
             # CSV completo
-            csv_completo = df_clasificacion.to_csv(index=False, encoding="utf-8-sig")
+            csv_completo = preparar_tabla_salida(df_clasificacion).to_csv(
+                index=False, encoding="utf-8-sig"
+            )
             st.download_button(
                 label="Descargar CSV completo",
                 data=csv_completo,
