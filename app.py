@@ -1,6 +1,6 @@
 """
 Aplicacion Streamlit para desambiguacion de terminos historicos.
-Version 2: integra similitud fonetica y semantica (embeddings).
+Version 3: integra similitud fonetica, semantica, de grafos.
 """
 
 import streamlit as st
