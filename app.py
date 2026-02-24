@@ -1314,7 +1314,7 @@ def main():
         margen = st.sidebar.number_input(
             f"{algo} margen bajo umbral:",
             min_value=0.0,
-            max_value=1.0,
+            max_value=4.0,
             value=default_margen,
             step=0.01,
             key=f"zg_margen_{algo}",
